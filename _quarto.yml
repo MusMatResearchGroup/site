@@ -1,0 +1,52 @@
+project:
+  type: website
+
+website:
+  title: "MusMat Research Group"
+  navbar:
+    search: true
+    background: '#C53713'
+    foreground: secondary
+    tools:
+      - icon: youtube
+        href: https://www.youtube.com/c/musmat
+      - icon: instagram
+        href: https://www.instagram.com/musmat_ufrj
+      - icon: github
+        href: https://github.com/MusMatResearchGroup
+      - icon: broadcast-pin
+        href: https://podcasters.spotify.com/pod/show/musmat-podcast
+    left:
+      - href: index.qmd
+        text: Home
+      - href: news.qmd
+        text: News
+      - href: people.qmd
+        text: People
+      - href: research.qmd
+        text: Research
+      - href: podcast.qmd
+        text: Podcast
+      - text: Conferences
+        menu:
+          - href: 'conferences/2024.qmd'
+            text: '2024'
+      - text: Book Series
+        menu:
+          - href: 'series/vol-1.qmd'
+            text: 'Vol. 1: Schoenberg'
+      - href: journal.qmd
+        text: Journal
+      - href: contact.qmd
+        text: Contact
+
+
+  page-footer: "CC-BY 4.0 - MusMat Research Group"
+  site-url: https://musmat.org/
+  repo-url: https://musmat.org/
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
