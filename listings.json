@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/test.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/hugo-carvalho.html",
+      "/people/alumni/natanael-luciano.html"
+    ]
+  }
+]
