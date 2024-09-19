@@ -31,6 +31,10 @@ website:
         menu:
           - href: 'conferences/2024.qmd'
             text: '2024'
+          - href: 'conferences/2022.qmd'
+            text: '2022'
+          - href: 'conferences/2021.qmd'
+            text: '2021'
       - text: Book Series
         menu:
           - href: 'series/vol-1.qmd'

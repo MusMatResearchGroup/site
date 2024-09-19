@@ -1,0 +1,554 @@
+---
+title: "7th International MusMat Conference (MusMat 2022)"
+subtitle: "100 Years of Xenakis: His Music and Legacy <br> October 18th to 21st (Online Edition)"
+toc: true
+---
+
+![](2022-banner.png){fig-align="center"}
+
+# Program and videos
+&nbsp;
+<p style="text-align: center;"><b>FRIDAY </b><b>[RIO DE JANEIRO TIME - GMT-3]</b></p>
+<p style="text-align: center;"><b>21 oct 22</b><b>
+</b></p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/zaa1XxWr-jg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/T6Tl1-LNRc4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+&nbsp;
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">2 p.m. </span></td>
+<td><span style="font-weight: 400;">ROUND-TABLE 5: </span><i><span style="font-weight: 400;"> Computational Music</span></i>
+
+&nbsp;
+
+<b>Danilo Rossetti</b><span style="font-weight: 400;"> (UFMT/UNICAMP) - </span><i><span style="font-weight: 400;">Xenakis’s Synthesis Technique by Stochastic Variations of Atmospheric Pressure</span></i>
+
+<b>Stéphan Schaub </b><span style="font-weight: 400;">(UNICAMP) - </span><i><span style="font-weight: 400;">Did You Say "Computational Music"?</span></i>
+
+<b>Moreno Andreatta</b><span style="font-weight: 400;"> (</span><span style="font-weight: 400;">Université de Strasbourg)-</span> <i><span style="font-weight: 400;">“Prima la musica!” Some Thoughts on Iannis Xenakis’ Table of Correspondences between the Development of Music and Mathematics</span></i>
+
+<span style="font-weight: 400;">Moderator: </span><b>Hugo Carvalho</b><span style="font-weight: 400;"> (UFRJ)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">3:30 p.m.</span></td>
+<td><span style="font-weight: 400;">MUSMAT PANEL II: </span><i><span style="font-weight: 400;">Recent Research and Activities</span></i>
+
+<b>Carlos Almada</b><span style="font-weight: 400;"> (UFRJ)</span>
+
+<b>Carlos Mathias</b><span style="font-weight: 400;"> (UFF)</span>
+
+<b>Cecilia Saraiva</b><span style="font-weight: 400;"> (UNIRIO)</span>
+
+<b>Daniel Moreira</b><span style="font-weight: 400;"> (FAMES)</span>
+
+<b>Hugo Carvalho</b><span style="font-weight: 400;"> (UFRJ)</span>
+
+<b>Liduino Pitombeira</b><span style="font-weight: 400;"> (UFRJ)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">6 p.m. </span></td>
+<td><span style="font-weight: 400;">COMPOSERS PANEL</span>
+
+<span style="font-weight: 400;">Carlos Almada</span>
+
+<span style="font-weight: 400;">Daniel Moreira</span>
+
+<span style="font-weight: 400;">Hugo Carvalho</span>
+
+<span style="font-weight: 400;">Liduino Pitombeira</span>
+
+<span style="font-weight: 400;">Coordinator: </span><b>Carlos Mathias</b><span style="font-weight: 400;"> (UFF)</span></td>
+</tr>
+</tbody>
+</table>
+<b>               </b>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">7:30 p.m.</span></td>
+<td><b>CONCERT 4</b><span style="font-weight: 400;">: Bryan Holmes (UNIRIO) - Curator</span>
+
+<i><span style="font-weight: 400;">Electroacoustic Music</span></i></td>
+</tr>
+<tr>
+<td><b>Panayiotis Kokoras</b></td>
+<td><i><span style="font-weight: 400;">AI Phantasy</span></i><span style="font-weight: 400;"> (2020)</span></td>
+</tr>
+<tr>
+<td><b>Carolina Carrizo</b></td>
+<td><span style="font-weight: 400;">O</span><i><span style="font-weight: 400;"> Tempo Todo </span></i><span style="font-weight: 400;">(2021)</span>
+
+<span style="font-weight: 400;">Contrabass flute (Juliana Moreno) and live electronics</span></td>
+</tr>
+<tr>
+<td><b>Alejandro Albornoz</b></td>
+<td><i><span style="font-weight: 400;">Mawida </span></i><span style="font-weight: 400;">(2021)</span></td>
+</tr>
+<tr>
+<td><b>Tatiana Catanzaro</b></td>
+<td><i><span style="font-weight: 400;">Intarsia </span></i><span style="font-weight: 400;">(2012)</span>
+
+<span style="font-weight: 400;">Cello adaptation (William Teixeira) and live electronics</span></td>
+</tr>
+<tr>
+<td><b>Bryan Holmes</b></td>
+<td><i><span style="font-weight: 400;">Miragens </span></i><span style="font-weight: 400;">(2016)</span></td>
+</tr>
+<tr>
+<td><b>Henrique Vaz</b></td>
+<td><i><span style="font-weight: 400;">Ruínas de um futuro em desaparecimento</span></i><span style="font-weight: 400;"> (2020)</span>
+
+<span style="font-weight: 400;">Audiovisual based on performance by Flávia Pinheiro</span></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<p style="text-align: center;"><b>THURSDAY </b><b>[RIO DE JANEIRO TIME - GMT-3]</b></p>
+<p style="text-align: center;"><b>20 oct 22</b></p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/bxbY-g5WnMM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/k9PpPTS1FWA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">2 p.m. </span></td>
+<td><span style="font-weight: 400;">ROUND-TABLE 3: </span><i><span style="font-weight: 400;"> Algebraic Structures  and Analytical-Compositional Processes</span></i>
+
+&nbsp;
+
+<b>Mariana Montiel </b><span style="font-weight: 400;">&amp; </span><b>Brent Milam </b><span style="font-weight: 400;">(Georgia State University) - </span><i><span style="font-weight: 400;">Mathematics in Compositional Processes: Examples and Analysis in Professional and Student Products</span></i>
+
+<b>Emilio Lluis-Puebla</b><span style="font-weight: 400;"> (Universidad Nacional Autónoma de México) - </span><i><span style="font-weight: 400;">Algebraic Structures in Mathematical Music Theory</span></i>
+
+<b>Robert Peck</b><span style="font-weight: 400;"> (LSU) - </span><i><span style="font-weight: 400;">Interpreting the Choices of Groups in Xenakis’s Symbolic-Music Works </span></i>
+
+<span style="font-weight: 400;">Moderator: </span><b>Daniel Moreira</b><span style="font-weight: 400;"> (FAMES)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">4:00 p.m. </span></td>
+<td><span style="font-weight: 400;">MUSMAT PANEL I: Post-doctoral Fellows and Students</span>
+
+<i><span style="font-weight: 400;"> Roberto Macedo, Marco Feitosa , Ana Miccolis, Ariane Petri, Filipe de Matos Rocha, Pedro Zisels, Pedro Proença</span></i>
+
+<span style="font-weight: 400;">Moderator: </span><b>Daniel Moreira</b><span style="font-weight: 400;"> (FAMES)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">5:30 p.m. </span></td>
+<td><span style="font-weight: 400;">ROUND-TABLE 4: </span><i><span style="font-weight: 400;">Diálogos sobre o tempo</span></i>
+
+&nbsp;
+
+<b>Silvio Ferraz</b><span style="font-weight: 400;"> (USP) - </span><i><span style="font-weight: 400;">Vazios de tempo-espaço</span></i>
+
+<b>Carole Gubernikoff </b><span style="font-weight: 400;"> (UNIRIO) - </span><i><span style="font-weight: 400;">Representações do Tempo e a Música</span></i>
+
+<b>Carlos Mathias</b><span style="font-weight: 400;"> (UFF) - </span><i><span style="font-weight: 400;">Matemática, Música e o Tempo: entre o exato e o humano</span></i>
+
+<span style="font-weight: 400;">Moderator: </span><b>Liduino Pitombeira</b><span style="font-weight: 400;"> (UFRJ)</span></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">7:30 p.m.</span></td>
+<td><b>CONCERT 3</b><span style="font-weight: 400;">: Tiago Calderano </span>
+
+<i><span style="font-weight: 400;">Works for percussion solo based on Algebraic Processes or in the music of Xenakis</span></i></td>
+</tr>
+<tr>
+<td><b>Carlos Almada</b></td>
+<td><i><span style="font-weight: 400;">Assim falou Iannis </span></i><span style="font-weight: 400;">(2022)</span></td>
+</tr>
+<tr>
+<td><b>Jorge Antunes</b></td>
+<td><i><span style="font-weight: 400;">Pequena Peça Aleatória para Marimba</span></i> <span style="font-weight: 400;">(2022)</span></td>
+</tr>
+<tr>
+<td><b>Daniel Moreira</b></td>
+<td><i><span style="font-weight: 400;">X(e)=i-(L.e.a)</span></i> <span style="font-weight: 400;">(2022)</span></td>
+</tr>
+<tr>
+<td><b>Pedro Faria</b></td>
+<td><i><span style="font-weight: 400;">Kyttara #2 </span></i><span style="font-weight: 400;">(2022)</span></td>
+</tr>
+<tr>
+<td><b>Liduino Pitombeira</b></td>
+<td><i><span style="font-weight: 400;">MAREH </span></i><span style="font-weight: 400;">(2022)</span></td>
+</tr>
+<tr>
+<td><b>Iannis Xenakis</b></td>
+<td><i><span style="font-weight: 400;">Psappha</span></i></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<p style="text-align: center;"><b>WEDNESDAY </b><b>[RIO DE JANEIRO TIME - GMT-3]</b></p>
+<p style="text-align: center;"><b>19 Oct 22</b></p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/0lssP1siVrI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/bV_gb5pinQI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">12:30 p.m.</span></td>
+<td><b>LECTURE: Sharon Kanach and Rodolphe Bourotte</b><b><i> (Centre Iannis Xenakis - </i></b><b>Université de Rouen)</b>
+
+<i><span style="font-weight: 400;">New Applications of some Xenakian Mathematical Principles</span></i></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">2 p.m. </span></td>
+<td><span style="font-weight: 400;">ROUND-TABLE 2: </span><i><span style="font-weight: 400;"> Game Theory and Music</span></i>
+
+&nbsp;
+
+<b>Stefanella Boatto </b><span style="font-weight: 400;"> (UFRJ) - </span><i><span style="font-weight: 400;">Game Theory in Music. A Journey Exploring new Creative Pathways</span></i>
+
+<b>Alexandre Ferreira </b><span style="font-weight: 400;"> (CBM) - </span><i><span style="font-weight: 400;">A Discussion on Game Theory and its Applications in Music</span></i>
+
+<b>Benny Sluchin</b><span style="font-weight: 400;"> (IRCAM) - </span><i><span style="font-weight: 400;">The Evolution of Xenakis’s Use of Game Theory (1959–1972)</span></i>
+
+<span style="font-weight: 400;">Moderator: </span><b>Cecília Saraiva</b><span style="font-weight: 400;"> (UNIRIO)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">4:00 p.m.</span></td>
+<td><span style="font-weight: 400;">LECTURE: </span><b>Alessandra Capanna</b><span style="font-weight: 400;"> (Sapienza Università di Roma) - </span><span style="font-weight: 400;"> </span><i><span style="font-weight: 400;">La Cité de la Musique. From the Philips Pavilion at the 1958 Brussels Expo: Evolution and Transformation of Hyperbolic Paraboloids into Polytopes</span></i></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">6 p.m.</span><span style="font-weight: 400;">
+</span><span style="font-weight: 400;"> </span></td>
+<td><span style="font-weight: 400;">COMPOSERS PANEL</span>
+
+<span style="font-weight: 400;">Bruno Soares</span>
+
+<span style="font-weight: 400;">Fabio de Sanctis de Benedictis</span>
+
+<span style="font-weight: 400;">Pedro Faria</span>
+
+<span style="font-weight: 400;">Vinicius Braga</span>
+
+<span style="font-weight: 400;">Yuri Behr Kimizuka</span>
+
+<span style="font-weight: 400;">Coordinator: </span><b>Carlos Almada</b><span style="font-weight: 400;">  (UFRJ)</span></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">7:30 p.m.</span></td>
+<td><b>CONCERT 2</b><span style="font-weight: 400;">: Abstrai Ensemble</span>
+
+<i><span style="font-weight: 400;">Works based on Game Theory or in the Music of Xenakis </span></i></td>
+</tr>
+<tr>
+<td><b>Liduino Pitombeira</b></td>
+<td><i><span style="font-weight: 400;">De profundis </span></i><span style="font-weight: 400;">(2022)</span>
+
+<span style="font-weight: 400;">Trio with electronics</span></td>
+</tr>
+<tr>
+<td><b>Daniel Moreira</b></td>
+<td><i><span style="font-weight: 400;">Icosian Game </span></i><span style="font-weight: 400;">(2022)</span></td>
+</tr>
+<tr>
+<td><b>Carlos Almada</b></td>
+<td><i><span style="font-weight: 400;">Reijkjavik, 1972 </span></i><span style="font-weight: 400;">(2022)</span></td>
+</tr>
+<tr>
+<td><b>Fabio de Sanctis de Benedictis</b></td>
+<td><i><span style="font-weight: 400;">Poisson Trio</span></i></td>
+</tr>
+<tr>
+<td><b>Bruno Gageiro</b></td>
+<td><i><span style="font-weight: 400;">Correntes de Acaso</span></i></td>
+</tr>
+<tr>
+<td><b>Pedro Faria</b></td>
+<td><i><span style="font-weight: 400;">Kyttara #1 </span></i><span style="font-weight: 400;">(2022)</span></td>
+</tr>
+<tr>
+<td><b>Yuri Behr Kimizuka</b></td>
+<td><i><span style="font-weight: 400;">Élan </span></i>
+
+<span style="font-weight: 400;">Solo soprano sax with electronics</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><b> </b></p>
+<span style="font-weight: 400;">Pedro Bittencourt (Sax), Ariane Petri (Bassoon), and Batista Júnior (Clarinet)</span>
+<p style="text-align: center;"><b>TUESDAY </b><b>[RIO DE JANEIRO TIME - GMT-3]</b></p>
+<p style="text-align: center;"><b>18 Oct 22</b><b></b></p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/-H3fHlzfwtg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/IKE3Icar8CY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">2:30 p.m.</span></td>
+<td><span style="font-weight: 400;">OPENING: </span><b>MusMat Group | João Vidal </b><span style="font-weight: 400;">(Coordinator of the Postgraduate Program of Music at UFRJ)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">3 p.m</span></td>
+<td><span style="font-weight: 400;">KEYNOTE:</span><b> Benoît Gibson </b><span style="font-weight: 400;"> (Universidade de Évora)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">4 p.m.</span></td>
+<td><span style="font-weight: 400;">ROUND-TABLE 1: </span><i><span style="font-weight: 400;">Stochastic Processes in Music</span></i>
+
+<b>Mikhail Malt  </b><span style="font-weight: 400;">(IRCAM-STMS)</span><b> - </b><i><span style="font-weight: 400;">Iannis Xenakis, between Classic and Fuzzy Logic, from Stochastic Processes to Composition</span></i>
+
+<b>Hugo Carvalho</b><span style="font-weight: 400;"> (UFRJ) - </span><i><span style="font-weight: 400;">Path-dependent Markov Chain Modeling Transition between Chord Types</span></i>
+
+<b>James Harley </b><span style="font-weight: 400;">(University of Guelph)</span><b> - </b><i><span style="font-weight: 400;">Iannis Xenakis: Stochastic Algorithms and Intuition Interventions in the ST Works</span></i>
+
+<span style="font-weight: 400;">Moderator: </span><b>Cecilia Saraiva </b><span style="font-weight: 400;">(UNIRIO)</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">6 p.m. </span></td>
+<td><span style="font-weight: 400;">LECTURE:</span><b> Pedro Bittencourt</b><span style="font-weight: 400;"> (UFRJ) -</span> <i><span style="font-weight: 400;">Xenakis, a Constant Immigrant.</span></i></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">7:30 p.m.</span></td>
+<td><b>CONCERT 1</b><span style="font-weight: 400;">: Piano Faculty of the UFRJ School of Music</span>
+
+<i><span style="font-weight: 400;">Works for Piano based on Stochastic Processes or in the Music of Xenakis</span></i></td>
+</tr>
+<tr>
+<td><b>Iannis Xenakis</b></td>
+<td><i><span style="font-weight: 400;">Six Chansons pour piano</span></i>
+
+<span style="font-weight: 400;">Miriam Grosman</span></td>
+</tr>
+<tr>
+<td><b>Carlos Almada</b></td>
+<td><i><span style="font-weight: 400;">Jobiniaturas</span></i>
+
+<span style="font-weight: 400;">Tamara Ujakova</span></td>
+</tr>
+<tr>
+<td><b>Liduino Pitombeira</b></td>
+<td><i><span style="font-weight: 400;">Termini (à d.)</span></i>
+
+<span style="font-weight: 400;">Maria Di Cavalcanti</span></td>
+</tr>
+<tr>
+<td><b>Daniel Moreira</b></td>
+<td><i><span style="font-weight: 400;">Zephyrus</span></i>
+
+<span style="font-weight: 400;">Cristiano Vogas</span></td>
+</tr>
+<tr>
+<td><b>Andrey Cruz</b></td>
+<td><i><span style="font-weight: 400;">Archit Tone</span></i>
+
+<span style="font-weight: 400;">Cristiano Vogas</span></td>
+</tr>
+<tr>
+<td><b>Nathan Friedman</b></td>
+<td><i><span style="font-weight: 400;">Ekklisis</span></i>
+
+<span style="font-weight: 400;">Cristiano Vogas</span></td>
+</tr>
+<tr>
+<td><b>Vinícius Braga</b></td>
+<td><i><span style="font-weight: 400;">Fuinha linda</span></i>
+
+<span style="font-weight: 400;">Tamara Ujakova</span></td>
+</tr>
+<tr>
+<td><b>Pedro Faria</b></td>
+<td><i><span style="font-weight: 400;">Kyttara #3</span></i>
+
+<span style="font-weight: 400;">Luciano Magalhães</span></td>
+</tr>
+<tr>
+<td><b>Hugo Carvalho</b></td>
+<td><i><span style="font-weight: 400;">Arnediad Dim</span></i>
+
+<span style="font-weight: 400;">Tamara Ujakova</span></td>
+</tr>
+<tr>
+<td><b>Jorge Antunes</b></td>
+<td><i><span style="font-weight: 400;">Estudo n. 1</span></i>
+
+<span style="font-weight: 400;">Maria Di Cavalcanti</span></td>
+</tr>
+<tr>
+<td><b>Iannis Xenakis</b></td>
+<td><i><span style="font-weight: 400;">À r. (Hommage à Ravel)</span></i>
+
+<span style="font-weight: 400;">Maria Di Cavalcanti</span></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+
+# Abstracts
+<p style="text-align: center;"><b> </b></p>
+<b>MIKHAIL MALT</b>
+
+<i><span style="font-weight: 400;">Iannis Xenakis, between Classic and Fuzzy Logic, from Stochastic Processes to Composition</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">The relationship between calculation and the writing process in Xenakis’ work is a subject that has already produced a good amount of writing, yet we believe that there are still points that can be deepened to help us better understand his musical thought. In this text, we will try to highlight two aspects of this relationship, namely the logic of the composer’s thinking in the composition process (in the axiomatization and writing phases) and the clarification of the concept of belonging between the musical objects resulting from the formalization and those found in the final score. For this purpose, we will use a short analysis of “Achorripsis,” seen through the processes used to move from the axiomatization space to the writing space.</span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>HUGO CARVALHO</b>
+
+<i><span style="font-weight: 400;">Path-dependent Markov Chain Modeling Transition between Chord Types</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">When employing probabilistic models to describe musical aspects, there seems to exist a tradeoff between the concreteness of the object in question and the simplicity of the model: more concrete objects are better described by complex models, and more abstract objects are well described by simpler models. For example, when using Markov chains to model transition between chords, it is quite clear that long-term aspects of the harmony are lost, in such a way that a more sophisticated model seems more accurate. In order to accommodate musical data to this simple mathematical framework, Carlos Almada noticed that, at least when regarding brazilian popular music, it is best to work with chord types and the transition between them, together with the information of the distance, in semitones, between the root of each chord. Although seeming very promising, this approach leads to a different kind of Markovian process, since one can “jump” from one chord type to another with all the 12 possible distances between roots. More intuitively, there are more “states of arrival” than “states of departure”, implying a weird “non-square transition matrix”. In this presentation we will discuss in more depth this modeling of the harmony, as well as mathematical properties with this stochastic process, which we call </span><i><span style="font-weight: 400;">Path-dependent Markov Chain</span></i><span style="font-weight: 400;">.</span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>JAMES HARLEY</b>
+
+<i><span style="font-weight: 400;">Iannis Xenakis: Stochastic Algorithms and Intuition Interventions in the ST Works</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Iannis Xenakis began developing his stochastic approach to music c. 1955, through his work on Pithoprakta for orchestra. He began theorizing this work in a series of articles from 1956, leading to the publication of his book Musiques formelles  in 1963, translated into English and expanded in 1971 and further in 1992. Xenakis first developed stochastic-based algorithms for Achorripsis for small orchestra in 1957,  and then extended it into a computer program by 1962.  With access to a computer at IBM-France, he produced output for a family of compositions, the ST works: ST/10, ST/4, ST/48, Morsima-Amorsima, Atrées.  In these works, the programming procedures were used to generate as much of the material as possible.  In order to create an algorithm that could generate complete music compositions, Xenakis needed to define what constitutes a musical form.  The first element in his algorithm was to set a number of sections, each of indeterminate length defined by a stochastic-based decision process. Within each section, he set the mean density, and then the instruments being heard within each section, the temporal occurrence of the events, then the pitches and durations, along with dynamic forms, and the optional use of glissando. Each of these conditions is generated according to a stochastic process constrained by limits set by the composer. Philosophically, there would not appear to be an inherent argument within the algorithmic constraints to reorder sections, or alter the output of any of the other parameters.  And yet, in almost every case, Xenakis did in fact reorder these sections that were determined by the program.  The most important elements of each section are the durations and the density of events.  It would seem that the composer did some kind of analysis of the outputs of his program, choosing to alter the sections on the basis of densities from one to the next, and durations of these sections overall. In this presentation I propose to examine some of these intuitive interventions by a composer, who defined in advance the conditions of the compositional algorithm and then went ahead and changed the output. At the time, no one thought to ask Xenakis about this, but it is nonetheless fascinating to look at the details. As the composer asserted (here paraphrased), the algorithms are tools, not ends.  </span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>PEDRO BITTENCOURT</b>
+
+<i><span style="font-weight: 400;">Xenakis, a Constant Immigrant.</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Xenakis is one of the main composers of the 21st century, and we do have reasons to remember his birth centenary beyond his music legacy. By introducing the calculation of probabilities, as well as the notion of sound masses, Xenaki’s musical materials unfold without development of themes or motifs, as a sort of gesture, giving an outcome to the pulverization of polyphony. As an immigrant with a constant outside point of view, he opened new perspectives on music that still challenge researchers and performers. In this lecture I propose an introduction and overview of his life and music, focused on my personal experience of listening, discovering, performing, researching, and dreaming about Xenakis’ </span><i><span style="font-weight: 400;">Oresteia</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">Charisma</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">Xas</span></i><span style="font-weight: 400;">, and </span><i><span style="font-weight: 400;">Dmaathen</span></i><span style="font-weight: 400;">.</span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>SHARON KANACH &amp; RODOLPHE BOUROTTE</b>
+
+<i><span style="font-weight: 400;">New Applications of some Xenakian Mathematical Principles</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">After a brief overview of Iannis Xenakis’ engagement with mathematics, we will discuss some new implementations of his ideas and methods in the software the Centre Iannis Xenakis continues to develop: UPISketch.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">When we consider the needs we may have in the field of electroacoustic</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">music composition, a tool allowing a graphic representation of sound and musical phenomena seems interesting to develop. UPISketch is one of these tools. This part of the presentation will focus on describing the abundance of ideas that the development of such a tool can inspire. UPISketch is a subset of graphical score systems: it is positioned on the question of the graphical representation of quantitative data. This particular posture has the characteristic to reverse the traditional process of physics’ measurements, thus allowing an approach more towards the architecture of sound itself. In this sense, it updates the breakthroughs that Xenakis made through his mathematical approach, by making them newly accessible via intuitive graphic interfaces. New possibilities, not yet implemented in the software, will be evoked, both in terms of the graphical aspect and sound synthesis. The legacy of Xenakis’ thinking on sieves and probabilities is unavoidable, and it is possible to imagine an extension in the graphic  domain with UPISketch, in a junction that had never been realized with UPIC.</span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>STEFANELLA BOATTO</b>
+
+<i><span style="font-weight: 400;">Game Theory in Music. A Journey Exploring new Creative Pathways</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Games in music have a long history. In the occidental world we have the example of the dice music in the eighteen century [Stephen Edge, Music &amp; Letter, Vol. 59, (1978) ], motivated by the general public enthusiasm for mathematics at the time. Game theory evolved and the notion itself on game took different forms, including a formal theory of static and dynamic game theory [Schwalbe &amp; Walker, Early History of Game Theory (1999)]. </span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Games became sort of exploring tool for expanding the creativity horizon. In the 1960 France, François Le Lionnais and Raymond Queneau gave birth to the OuLiPo (Ouvroir de Littérature Potentielle) where games in literature, through imposing mathematics rules, opened new composition paths. The Oulipo movement was interacting with a vivid group of intellectuals, among them Le Corbusier, great friend of Le Lionnais and of Xennakis. No surprising that among the suggesting tools of his inspiring book Xennakis explored also game theory, and even less surprising that OuMuPo (Ouvroir de Musique Potentielle ) followed (even if only a bit later in 2011).</span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>ALEXANDRE FERREIRA</b>
+
+<i><span style="font-weight: 400;">A Discussion on Game Theory and its Applications in Music</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">A game is being played whenever people have anything to do with each other. However, the orthodox game theory is mostly about what happens when people interact in a rational manner (Binmore, 2007). This talk aims to: 1) investigate game theory and its applications to music; and 2) reflect on Xenakis' works created from game theory.</span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>BENNY SLUCHIN</b>
+
+<i><span style="font-weight: 400;">The Evolution of Xenakis’s use of Game Theory (1959–1972)</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">In the production of Xenakis there are three works to use Game Theory as scientific theory as base ground: </span><i><span style="font-weight: 400;">Duel</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">Stratégie </span></i><span style="font-weight: 400;">and </span><i><span style="font-weight: 400;">Linaia-Agon</span></i><span style="font-weight: 400;">. With the chapter on Musical Strategy in </span><i><span style="font-weight: 400;">Formalized Music</span></i><span style="font-weight: 400;"> in mind, we study the particularities of these musical compositions in the light of his general contribution to science and art.</span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>ALESSANDRA CAMPANNA</b>
+
+<i><span style="font-weight: 400;">La Cité de la Musique. From the Philips Pavilion at the 1958 Brussels Expo: Evolution and Transformation of Hyperbolic Paraboloids into Polytopes</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Inaugurated in 1995, the Cité de la Musique is part of the ambitious visionary plan that François Mitterrand called “Grand Paris”. The winner of the Architectural Competition in 1984 was the architect Christian de Portzamparc who signed the whole program concerning the National Higher Conservatory of Music and Dance in Paris (CNSMDP), completed in 1995, which includes teaching classrooms, exam, rehearsal, and competition rooms, orchestra boxes, electroacoustic hall, work studios, public auditoriums (organ, singing, multidisciplinary), media library, audiovisual center, student accommodations, gymnasium, restaurant-cafeteria, offices, clinic, parking lots, etc.. </span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">The year before, in 1983, Xenakis was invited as a member of the jury of the architectural competition but turned down the invitation because he himself wanted to present his vision for the Cité de la Musique in Paris, the city where he was living since 1948. He co-signed the project with Jean Louis Véret, a former colleague from the postwar period when they both collaborated in Le Corbusier’s Atelier. The complex of buildings features parts that we can acknowledge as the evolution of his Polytopes, synthesis of Music and Architecture, which had a clear affirmation in 1967 when Xenakis was commissioned of the music installation inside the French pavilion at the Expo of Montreal. As a matter of facts, the image of the Polytope had a first outline in the development of the composition made with hyperbolic paraboloids for the Philips Pavilion at the 1958 Expo.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">The description and analysis of the project for the Cité de la Musique aims to retrace the compositional grounds of Xenakis’ Polytopes. In Mathematics, the polytope is a geometric figure with a high degree of symmetry, and it is closely related to multidimensional geometry. Concepts concerning spaces of dimensions greater than the third, that Xenakis wanted to investigate as the seed of music-architecture experience.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">In Architecture, multidimensional space is a more recent field of interest, closely related to the development of computer-aided design performance, which has enabled architectural interpretation of multidisciplinary concepts and visualization of space-time, that Xenakis made possible to perceive in a multisensory music experience.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">In Music, Polytopes are an invention of Xenakis. In this occasion the intention is to present these “objets à réaction poétique” from the architect's point of view as sound architectures: spaces for the synthesis of the arts, "inventions with many voices," polymaterials, with their “many dimensions” that Xenakis designed from the scale of the temporary installation to the landscape scale. </span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>MARIANA MONTIEL &amp; BRENT MILAM</b>
+
+<i><span style="font-weight: 400;">Mathematics in Compositional Processes: Examples and Analysis in Professional and Student Products.</span></i>
+
+<span style="font-weight: 400;"> </span>
+<p style="text-align: justify;"><span style="font-weight: 400;">The subject of this roundtable, Algebraic Structures and Analytical-compositional Processes, suggests an interplay between mathematical theory on the one hand, and musical composition as seen from a structural and intellectual perspective (as opposed to emotional aspects or questions like “talent”) on the other. We thought that it might be of interest to make a joint presentation by both a mathematician and a composer who employs mathematical techniques in his creative process. We will share some excerpts from compositions by Brent Milam in which he has used techniques based on mathematical theory in the same way that any composer uses techniques coming from classical and modern music theory (although music theoretical studies have shown that mathematical structure can be detected in music ever since the baroque era and before, without the composer having consciously utilized mathematical techniques). At the end, the goal is to “isolate” the mathematical structures present in Milam’s compositions and explain the mathematical theory in a reasonable, attractive, realistic and, above all, aesthetically coherent manner. Additionally, we will give a brief example of the work carried out in the Mathematical Music Composition Workshop, an interdisciplinary project in which mathematics and music composition students work together to create pieces with content originating from mathematical music theory. These compositions are interpreted in lecture-concerts at the end of the semester, where the mathematics and composition students give talks about the mathematics in the pieces and how they are used in the creative process; the compositions are then interpreted by School of Music students.</span></p>
+&nbsp;
+
+<b>EMILIO LLUIS-PUEBLA</b>
+
+<i><span style="font-weight: 400;">Algebraic Structures in Mathematical Music Theory</span></i>
+
+&nbsp;
+<p style="text-align: justify;"><span style="font-weight: 400;">In this brief participation I will talk about the algebraic structures that appear in Mathematical Music Theory. This expository dialog is for a general audience, and for mathematicians or musicians as well. Concrete examples will be given. It will be shown how these structures classify mathematics. Also, I will mention how general concept architectures such as denotators and forms appear. Finally, I will expose the mathematical view of objects, structures and concepts discussed with G. Mazzola some years ago.</span></p>
+&nbsp;
+
+<b>ROBERT PECK</b>
+
+<i><span style="font-weight: 400;">Interpreting the Choices of Groups in Xenakis’s Symbolic-Music Works </span></i>
+
+<span style="font-weight: 400;"> </span>
+<p style="text-align: justify;"><span style="font-weight: 400;">Xenakis uses mathematical groups to determine numerous aspects of his symbolic-music compositions of the 1960s.  In particular, groups organize several in-time and outside-time elements of </span><i><span style="font-weight: 400;">Nomos Alpha</span></i><span style="font-weight: 400;"> for solo cello (1965) and </span><i><span style="font-weight: 400;">Nomos Gamma</span></i><span style="font-weight: 400;"> for 98 musicians (1968).  Xenakis’s selections of isomorphism classes of groups that he employs in these works (cyclic, symmetric, etc., of various orders and degrees) indicate aspects of his conception of sets of musical objects on which these groups act (pitches, durations, densities, intensities, sound complexes, etc.).  These choices suggest strategies for the interpretive study of structure in Xenakis’s works and in their compositional processes.  In this study, we examine first the use of groups in the construction of </span><i><span style="font-weight: 400;">Nomos Alpha</span></i><span style="font-weight: 400;">, about which a significant body of analytical literature already exists, and then in </span><i><span style="font-weight: 400;">Nomos Gamma</span></i><span style="font-weight: 400;">, which Xenakis describes as a generalization of </span><i><span style="font-weight: 400;">Nomos Alpha</span></i><span style="font-weight: 400;">, but which has received little scholarly attention. </span></p>
+&nbsp;
+
+<b>SILVIO FERRAZ</b>
+
+<i><span style="font-weight: 400;">Vazios de tempo-espaço</span></i>
+
+&nbsp;
+<p style="text-align: justify;"><span style="font-weight: 400;">Não seria o tempo uma ilusão que aceitamos inconscientes desde a mais tenra infância, e já desde a mais remota antiguidade?” É assim que Xenakis começa seu pequeno texto </span><i><span style="font-weight: 400;">Sur le temps</span></i><span style="font-weight: 400;">. São diversas questões que se abrem em seu texto, e mesmo quando lemos outros compositores a falar sobre o tempo: O que chamamos por tempo quando falamos de tempo musical? Como notamos de fato isso que chamamos por tempo? Como tal questão se coloca no campo da música? O que chamamos tempos quando uma música pulsação a módulos rítmicos predeterminados, quando dançamos ou cantamos? O que seria o tempo musical quando estamos sentados em uma sala de concerto, seria nos darmos conta de que as coisas estão demorando a passar ou que passaram rápido demais? O que quer dizer um compositor “inventar o tempo, compor o tempo”, como dizia Messiaen? E por fim, a que serve pensar o tempo para um compositor? São diversas questões, que sem dúvida não tem resposta rápida, mas que ganharam atenção de compositores ao longo do século XX, Edgar Varèse, Pierre Boulez, Iannis Xenakis, Brian Ferneyhough, Gérard Grisey, quando retomam o tempo como tema, para uma música que se lançava no espaço. Xenakis se põe a pensar tal questão desde os anos 1950, elabora um sistema em que distingue o estar fora-do-tempo, o estar temporal e o estar no-tempo, e colocando-se fora-do-tempo - já que para pensar o tempo é necessário estar fora-do-tempo –, projeta diversas peças das quais tomarei aqui como exemplo seu quarteto de cordas  </span><i><span style="font-weight: 400;">ST/4-1, 080262</span></i><span style="font-weight: 400;">, composto entre 1962 e1967. Nessa peça, em especial pelo caráter solista de cada instrumento, ao empregar seus modos de composição por projeção de densidades, Xenakis acabou por implicar aspectos técnicos e por antecipar o que duas décadas depois Brian Ferneyhough viria a chamar de tatilidade do tempo. Para Xenakis, o tempo seria composto de vazios; vazios que de fato ligam entidades sonoras, e a escuta seria um mergulho de direção dupla: de um lado as entidades sonoras que compõem suas nuvens sonoras, de outro o índice de atividade presente na performance de cada instrumentista, um jogo de saltos de velocidades distintas entre cada um dos pontos de seu mosaico de modos de jogo. Uma escuta que, parafraseando o próprio compositor seria um vai e vem entre olhar o sol de longe ou nele focar o olhar, de um lado perde-se o detalhe e tem-se apenas como que um instantâneo, de outro o brilho intenso da luz que cria vazios, separa as entidades, mergulhando a visão na cintilância. Seria esta escuta cintilante, quase tátil, que viria já desde a década de 1960 anunciando uma música não mais de sons, nem de melodias e harmonias, mas pressão e velocidades implicadas nos fluxos das entidades sonoras? </span></p>
+&nbsp;
+
+&nbsp;
+
+<b>CAROLE GUBERNIKOFF</b>
+
+<i><span style="font-weight: 400;">Representações do Tempo e a Música</span></i>
+<p style="text-align: justify;"><span style="font-weight: 400;">Nesta apresentação iremos fazer um passeio histórico sobre diversas contemplações acerca do conceito de tempo e suas relações com a música. Serão tratados os seguintes temas: Primeira meditação sobre tempo:  Agostinho, séc IV; Henri Bergson e a diferença entre duração e tempo medido; Gaston Bachelard e o devaneio; Relações binárias e ternárias para medir e reduzir a complexidade temporal que transborda permanentemente da regularidade; Olivier Messiaen, Pierre Boulez e Karlheinz Stockhausen, novas propostas temporais.</span></p>
+&nbsp;
+
+<b>CARLOS MATHIAS</b>
+
+<i><span style="font-weight: 400;">Matemática, Música e o Tempo: entre o exato e o humano</span></i>
+
+&nbsp;
+
+<span style="font-weight: 400;">TBA</span>
+
+&nbsp;
+
+<b>DANILO ROSSETTI</b>
+
+<i><span style="font-weight: 400;">Xenakis’s Synthesis Technique by Stochastic Variations of Atmospheric Pressure</span></i>
+<p style="text-align: center;"><b> </b></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Iannis Xenakis contributed to the computational approach to music in different forms as a composer. In this talk, we are particularly interested in his method of sound synthesis by finite juxtaposed elements, proposed by the end of 1960 when he worked at Indiana University in Bloomington. This method was based on stochastic variations of atmospheric pressure as a control parameter of sound variation in time, aiming to produce “unexpected and interesting new sounds” by a possible approximation between micro and macrostructures of these sounds. For the development of such synthesis technique, Xenakis enumerated a few problems and critiques related to the synthesis method used in electronic music, produced by simple sinusoidal oscillators that, for him, were marked by a simplistic sonority. Moreover, greater importance should be given to the transient part of sound for timbre recognition. In our view, the sound synthesis by finite juxtaposed elements dialogues with complex dynamic systems’ theories, whereas Xenakis relates it to the order-disorder concept and strategies to increase or decrease it in time, as well as to aleatory curves obtained with Brownian movements. In this presentation we discuss the critique of Xenakis to electronic music </span><span style="font-weight: 400;">and the implementation of the synthesis method he proposed. Moreover, we approach the idea of the sonification of sound pressure curves into instrumental composition, specially the case of Mikka “S” (1976) for solo violin.</span></p>
+&nbsp;
+
+<b>STÉPHAN SCHAUB</b>
+
+<i><span style="font-weight: 400;">Did You Say "Computational Music"? </span></i>
+
+<span style="font-weight: 400;"> </span>
+<p style="text-align: justify;"><span style="font-weight: 400;">The qualifier "computational" appended to the term "music" specifies a mode of production rather than a set of features characterizing a particular repertoire. To know that "computational music" will be heard tells us much less about what to expect than when "baroque" or "jazz music" is announced. It is, furthermore, a very generic term, one that can denote a wide range of different processes. The qualifier "computational" shares these two characteristics with another one to which it is, in the sense, opposed: that of "improvised music". During my talk, I will develop on this opposition and attempt to circumscribe what might be considered as falling under the category of "computational music". Can it be recognized as a particular kind of musical experience (anymore)? Throughout, I’ll draw on exAmples from the repertoire with particular attention given to some of the pioneering compositions by Iannis Xenakis in celebration of the centenary of his birth. </span></p>
+<p style="text-align: center;"><b> </b></p>
+<b>MORENO ANDREATTA</b>
+
+<i><span style="font-weight: 400;">“Prima la musica!” Some Thoughts on Iannis Xenakis’ Table of Correspondences between the Development of Music and Mathematics</span></i>
+
+<span style="font-weight: 400;"> </span>
+<p style="text-align: justify;"><b><span style="font-weight: 400;">In my presentation I will focus on Iannis Xenakis celebrated table of correspondences between the development of the two disciplines, music and mathematics, that he firstly proposed in his book </span><i><span style="font-weight: 400;">Musique. Architecture</span></i><span style="font-weight: 400;"> (Tournai, Casterman, 1971) and that one may also find successively in many of the composer’s writings. I first aim to show the originality of Xenakis perspective – from music to mathematics – by proposing an actualized version of the table which takes into account the recent developments of the ‘mathemusical’ research and, in particular, the role of computation. This analysis will enable to show the influence that music had in the emergence of certain fields of mathematics such as combinatorics (with Marin Mersenne) or graph theory (with Leonhard Euler). At the same time, it clearly shows the relevance of Xenakis’ ideas in computational musicology, a domain that he finally contributed to create.</span></b></p>
+
+# Organization
+<b>SCIENTIFIC COMMITTEE</b>
+
+Carlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Liduino Pitombeira (UFRJ) |  Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Cecília Saraiva (UNIRIO)
+
+<b>PRODUCTION</b>
+
+Grupo de Pesquisa MusMat
+
+Programa de Pós-Graduação em Música (UFRJ)
+
+Programa de Pós-Graduação em Estatística (UFRJ)
+
+Escola de Música (UFRJ)
+
+Universidade Federal do Rio de Janeiro
+
+Universidade Federal Fluminense
+
+Universidade Federal do Estado do Rio de Janeiro
+
+Faculdade de Música do Espírito Santo
+
+<b>ORGANIZING COMMITTEE</b>
+
+Carlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Hugo Carvalho (UFRJ) | Liduino Pitombeira (UFRJ) | Carlos Mathias (UFF) | Cecilia Saraiva (UNIRIO) | Ana Miccolis (Doctoral student - UFRJ)
