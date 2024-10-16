@@ -1,59 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://musmat.org/journal.html</loc>
-    <lastmod>2024-09-19T00:17:44.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/conferences/2022.html</loc>
-    <lastmod>2024-09-19T00:17:44.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/news.html</loc>
-    <lastmod>2024-09-19T00:17:44.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/podcast.html</loc>
-    <lastmod>2024-09-19T00:17:44.962Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/people/staff/hugo-carvalho.html</loc>
-    <lastmod>2024-09-19T00:17:44.962Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/series/vol-1.html</loc>
-    <lastmod>2024-09-19T00:17:44.963Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/research.html</loc>
-    <lastmod>2024-09-19T00:17:44.962Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/index.html</loc>
-    <lastmod>2024-09-19T00:17:44.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/contact.html</loc>
-    <lastmod>2024-09-19T00:17:44.960Z</lastmod>
+    <loc>https://musmat.org/people.html</loc>
+    <lastmod>2024-10-16T18:59:23.328Z</lastmod>
   </url>
   <url>
     <loc>https://musmat.org/news/test.html</loc>
-    <lastmod>2024-09-19T00:17:44.961Z</lastmod>
+    <lastmod>2024-10-16T18:59:23.328Z</lastmod>
   </url>
   <url>
-    <loc>https://musmat.org/people/alumni/natanael-luciano.html</loc>
-    <lastmod>2024-09-19T00:17:44.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/people.html</loc>
-    <lastmod>2024-09-19T00:17:44.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://musmat.org/conferences/2021.html</loc>
-    <lastmod>2024-09-19T00:17:44.958Z</lastmod>
+    <loc>https://musmat.org/index.html</loc>
+    <lastmod>2024-10-16T18:59:23.324Z</lastmod>
   </url>
   <url>
     <loc>https://musmat.org/conferences/2024.html</loc>
-    <lastmod>2024-09-19T00:17:44.960Z</lastmod>
+    <lastmod>2024-10-16T18:59:23.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/conferences/2021.html</loc>
+    <lastmod>2024-10-16T18:59:23.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/research.html</loc>
+    <lastmod>2024-10-16T18:59:23.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/people/coordinators/liduino-pitombeira.html</loc>
+    <lastmod>2024-10-16T18:59:23.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/people/coordinators/hugo-carvalho.html</loc>
+    <lastmod>2024-10-16T18:59:23.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/people/alumni/ze-da-silva.html</loc>
+    <lastmod>2024-10-16T18:59:23.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/series/vol-1.html</loc>
+    <lastmod>2024-10-16T18:59:23.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/people/coordinators/cecilia-saraiva.html</loc>
+    <lastmod>2024-10-16T18:59:23.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/people/coordinators/daniel-moreira.html</loc>
+    <lastmod>2024-10-16T18:59:23.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/people/coordinators/carlos_almada.html</loc>
+    <lastmod>2024-10-16T18:59:23.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/podcast.html</loc>
+    <lastmod>2024-10-16T18:59:23.332Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/conferences/2022.html</loc>
+    <lastmod>2024-10-16T18:59:23.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/news.html</loc>
+    <lastmod>2024-10-16T18:59:23.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/contact.html</loc>
+    <lastmod>2024-10-16T18:59:23.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://musmat.org/journal.html</loc>
+    <lastmod>2024-10-16T18:59:23.324Z</lastmod>
   </url>
 </urlset>

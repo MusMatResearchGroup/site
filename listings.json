@@ -1,15 +1,19 @@
 [
   {
-    "listing": "/news.html",
+    "listing": "/people.html",
     "items": [
-      "/news/test.html"
+      "/people/coordinators/carlos_almada.html",
+      "/people/coordinators/cecilia-saraiva.html",
+      "/people/coordinators/daniel-moreira.html",
+      "/people/coordinators/hugo-carvalho.html",
+      "/people/coordinators/liduino-pitombeira.html",
+      "/people/alumni/ze-da-silva.html"
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/news.html",
     "items": [
-      "/people/staff/hugo-carvalho.html",
-      "/people/alumni/natanael-luciano.html"
+      "/news/test.html"
     ]
   }
 ]

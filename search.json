@@ -1,8 +1,218 @@
 [
   {
-    "objectID": "journal.html",
-    "href": "journal.html",
-    "title": "Journal",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "MusMat Research Group",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "people.html#coordinators",
+    "href": "people.html#coordinators",
+    "title": "MusMat Research Group",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "MusMat Research Group",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\nZé da Silva\n\n\nMaster Student\n\n\ninicio\n\n\nfim\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/test.html",
+    "href": "news/test.html",
+    "title": "TEST",
+    "section": "",
+    "text": "Test"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Group on Music and Mathematics",
+    "section": "",
+    "text": "MusMat Research Group was founded in 2013 in the Graduate Program in Music of UFRJ, in order to develop research within the formalization of musical processes (compositional and analytical) using mathematical models. By the present time the group have participation of teachers, students and external members, accumulating an expressive number of publications, artistic and technical productions. The group has also participated in several conferences outside the country and today maintains intensive dialogue with national and international community interested in the interaction between music and mathematics."
+  },
+  {
+    "objectID": "conferences/2024.html",
+    "href": "conferences/2024.html",
+    "title": "8° Congresso MusMat 2024",
+    "section": "",
+    "text": "PROGRAMA\n\n01/10/2024\n\n15:30-17:00  Concerto de Clarones (com obras do MusMat), oficina e roda de conversa com claronistas  Salão Leopoldo Miguez (Escola de Música da UFRJ)  Atividade em conjunto com o II Simpósio Íbero-Americano de Clarinetes Bajos\n\n02/10/2024\n\n09:30 - 11:00  Palestra de abertura  Luiz Wagner Pereira Biscainho (DEL/Poli/COPPE/UFRJ): Aplicando tecnologia à música: processamento de sinais musicais  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n13:00-15:00  Mesa-redonda: Música e tecnologia  Jean-Pierre Briot, Rogério Tavares Constante e Yuri Behr  Moderação: Hugo Carvalho  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n15:00-17:00  Comunicação dos coordenadores  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n03/10/2024\n\n10:00-12:00  Mesa-redonda sobre a produção das obras para clarone  Carlos Almada, Daniel Moreira, Hugo Carvalho e Liduino Pitombeira  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n14:00-16:00  Comunicação dos alunos  Ariane Petri, Ana Miccolis, Filipe de Matos Rocha, Gabriel Arnaud, Igor Chagas, Karolayne Pereira Dessabato, Natanael Luciano  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n14:00-16:00  Atividade interna\n\n\nCOMISSÃO CIENTÍFICA\nCarlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Liduino Pitombeira (UFRJ) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Cecília Saraiva (UNIRIO)\nREALIZAÇÃO\nGrupo de Pesquisa MusMat\nPrograma de Pós-Graduação em Música (UFRJ)\nPrograma de Pós-Graduação em Estatística (UFRJ)\nEscola de Música (UFRJ)\nUniversidade Federal do Rio de Janeiro\nUniversidade Federal Fluminense\nUniversidade Federal do Estado do Rio de Janeiro\nFaculdade de Música do Espírito Santo\nCOMISSÃO ORGANIZADORA\nCarlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Hugo Carvalho (UFRJ) | Liduino Pitombeira (UFRJ) | Carlos Mathias (UFF) | Cecilia Saraiva (UNIRIO)"
+  },
+  {
+    "objectID": "conferences/2021.html#full-version",
+    "href": "conferences/2021.html#full-version",
+    "title": "6th International MusMat Conference (MusMat 2021)",
+    "section": "Full version",
+    "text": "Full version\nDownload Full Version"
+  },
+  {
+    "objectID": "conferences/2021.html#individual-papers",
+    "href": "conferences/2021.html#individual-papers",
+    "title": "6th International MusMat Conference (MusMat 2021)",
+    "section": "Individual papers",
+    "text": "Individual papers\nDesvendando o enigma derivativo: uma aplicação do Modelo De Análise Derivativa de Carlos Almada  Ana Miccolis, Ariane Petri, Luiz Stellfeld Monteiro, Max Kühn e Pedro Zisels\nAnálise intravetorial: breve revisão e relações gráficas em operações de substituição André Codeço dos Santos\nRosemary Brown’s “New Scale” and the Property K Érico Bomfim e Carlos Almada\nUma implementação eficiente em Python de um algoritmo de separação de fontes sonoras Natanael Luciano de Matos e Hugo Tremonte de Carvalho\nAnálise dos materiais melódicos da canção Gute Nacht a partir do Modelo de Análise Derivativa de Carlos Almada Luiz Stellfeld Monteiro\nGame of Tones: A Simple Schoenbergian Serial Music-Making Model José Fornari\nHauer Tropes as Clockface Diagrams: Dialogs among Forte, Carter and Ŝedivý  Julio Herrlein\nSerial Keeper: um audiogame simples de rememoração de padrões atonais Leonardo Porto Passos e José Fornari\nO Modelo de Análise Derivativa aplicado ao planejamento composicional com uma Grundgestalt a partir de Pluft, o Fantasminha de Tom Jobim Ana Miccolis\nOrí Odára: Investigação acerca dos Materiais Composicionais da Obra e a Dualidade entre Ritmos e Alturas Luiz Stellfeld Monteiro\nUma proposta de tridimensionalidade aos pontos de distorção no contexto da teoria do domínio sonoro André Codeço dos Santos\nAn Intervallic Approach to Tone Rows: SerialGen, a Twelve-Tone Row Generator Marco Feitosa, Raphael Sousa Santos e Luan Simões Cardoso\nInteractions between Derivative Teleology and Form in Dušan Bogdanović’s Study I Ricardo de Almeida Gonçalves"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "people/coordinators/liduino-pitombeira.html",
+    "href": "people/coordinators/liduino-pitombeira.html",
+    "title": "Liduino Pitombeira",
+    "section": "",
+    "text": "website\n  \n  \n    \n     vitae\n  \n  \n    \n     scholar\n  \n  \n    \n     github\n  \n  \n    \n     music"
+  },
+  {
+    "objectID": "people/coordinators/liduino-pitombeira.html#biography",
+    "href": "people/coordinators/liduino-pitombeira.html#biography",
+    "title": "Liduino Pitombeira",
+    "section": "Biography",
+    "text": "Biography\nThe music of Liduino Pitombeira (Brazil, 1962) has been performed by The Berlin Philharmonic Wind Quintet, Louisiana Sinfonietta, Poznan Philharmonic Orchestra (Poland), Orquestra Filarmônica do Espírito Santo, Orquestra Sinfônica da USP, Orquestra Sinfônica de Ribeirão Preto, Duo Barrenechea, The Alexander-Soares Duo,and Orquestra Sinfônica do Estado de São Paulo (Brazil). He has received many composition awards in Brazil and the USA, including the first prize in the 1998 Camargo Guarnieri Composition Competition and the first prize in the “Sinfonia dos 500 Anos” Composition Contest. He also received the 2003 MTNA-Shepherd Distinguished Composer of the Year Award for his piece “Brazilian Landscapes No.1”. Three more pieces of his series Brazilian Landscapes (No.2,No.6 and No.9) were awarded first prizes in the USA. Dr. Pitombeira received his PhD in composition, with a minor in Theory, from the Louisiana State University (USA), where he studied with Dinos Constantinides and Jeffrey Perry. Pitombeira is professor of composition at the Escola de Música (School of Music) of the Universidade Federal do Rio de Janeiro (Federal University of Rio de Janeiro) - UFRJ, in Brazil. He has published articles on music composition and theory on several academic journals in Brazil and has also presented his researches on compositional theory (especially related to compositional systems and systemic modelling) and music theory in conferences in Brazil and abroad. Pitombeira is a member of MusMat, a research group, affiliated to the Program of Graduate Studies in Music of the Federal University of Rio de Janeiro, which aims to develop studies and computer modelling related to music and mathematics and their applications in the fields of composition and musical analysis. He is a member of the Academia Brasileira de Música (ABM), Associação de Pesquisa e Pós-Graduação em Música (ANPPOM), and Associação Brasileira de Teoria e Análise Musical (TeMA). His pieces are published by Peters, Bella Musica, Conners, Alry, RioArte, and Irmãos Vitale. Recordings of his works were made by Magni, Summit, Centaur, Antes, Filarmonika, and Bis labels. He is a member of the Brazilian Academy of Music, Chair No.28."
+  },
+  {
+    "objectID": "people/coordinators/liduino-pitombeira.html#research",
+    "href": "people/coordinators/liduino-pitombeira.html#research",
+    "title": "Liduino Pitombeira",
+    "section": "Research",
+    "text": "Research\nPlanejamento composicional: reflexões teórico-estéticas no âmbito de uma produção artística formalizada\nNeste projeto de pesquisa, propomos uma expansão dos projetos anteriores conduzidos no PPGM/UFRJ, os quais se concentravam exclusivamente na proposição de modelos descritivos (modelagem sistêmica, projeto de 2015-2018) e na construção de modelos prescritivos (sistemas composicionais, projeto de 2019-2022). Nesta nova pesquisa, pretendemos nos concentrar no Planejamento Composicional, urdido a partir de uma gama diversa de paradigmas (incluindo a interdisciplinaridade), como um conceito articulador das reflexões e das produções textuais e musicais. Essa abordagem ampliará as atividades desenvolvidas nos dois projetos anteriores, os quais geraram uma produção significativa de materiais bibliográficos e composicionais, pavimentando o caminho de exploração aqui proposto."
+  },
+  {
+    "objectID": "people/coordinators/hugo-carvalho.html",
+    "href": "people/coordinators/hugo-carvalho.html",
+    "title": "Hugo Carvalho",
+    "section": "",
+    "text": "website\n  \n  \n    \n     vitae\n  \n  \n    \n     github"
+  },
+  {
+    "objectID": "people/coordinators/hugo-carvalho.html#biography",
+    "href": "people/coordinators/hugo-carvalho.html#biography",
+    "title": "Hugo Carvalho",
+    "section": "Biography",
+    "text": "Biography\nBIO"
+  },
+  {
+    "objectID": "people/coordinators/hugo-carvalho.html#research",
+    "href": "people/coordinators/hugo-carvalho.html#research",
+    "title": "Hugo Carvalho",
+    "section": "Research",
+    "text": "Research\nRESEARCH"
+  },
+  {
+    "objectID": "people/alumni/ze-da-silva.html",
+    "href": "people/alumni/ze-da-silva.html",
+    "title": "Zé da Silva",
+    "section": "",
+    "text": "BIO\n\n\n\nPROJECT\n\n\n\nSUPERVISOR"
+  },
+  {
+    "objectID": "people/alumni/ze-da-silva.html#biography",
+    "href": "people/alumni/ze-da-silva.html#biography",
+    "title": "Zé da Silva",
+    "section": "",
+    "text": "BIO"
+  },
+  {
+    "objectID": "people/alumni/ze-da-silva.html#project",
+    "href": "people/alumni/ze-da-silva.html#project",
+    "title": "Zé da Silva",
+    "section": "",
+    "text": "PROJECT"
+  },
+  {
+    "objectID": "people/alumni/ze-da-silva.html#supervisor",
+    "href": "people/alumni/ze-da-silva.html#supervisor",
+    "title": "Zé da Silva",
+    "section": "",
+    "text": "SUPERVISOR"
+  },
+  {
+    "objectID": "series/vol-1.html",
+    "href": "series/vol-1.html",
+    "title": "Schoenberg: Music and Theory",
+    "section": "",
+    "text": "Editors: Carlos Almada, Carlos Mathias, Cecília Saraiva, Daniel Moreira, Hugo Carvalho, and Liduino Pitombeira\nIn 2021, the MusMat Research group promoted the 6th International Conference on Music and Mathematics honoring Arnold Schoenberg (1874- 1951). We had the presence of a significant number of world-renowned Brazilian and foreign researchers, invited to lecture on their most recent research associated with the theoretical and artistic work of this important composer. The conference was conducted entirely online, through video conferences, keynotes, virtual debates, and concerts.\nThis book is a result of this conference, and its release coincides with the 150th anniversary of Schoenberg’s birth, joining a myriad of tribute initiatives honoring his legacy around the world. It presents a comprehensive prospection of Arnold Schoenberg’s music, paintings, as well as his theoretical writings. Thus, each chapter provides a unique perspective on different aspects of his extraordinary multifaceted work presented by a team of esteemed scholars and experts who delve deep into the intricacies of his groundbreaking contributions (theoretical and artistic). The book includes articles by Robert Morris, Jack Boss, Luigi Verdi, Robert Peck, Marco Feitosa, Carlos Almada, Guilherme Bueno, Ernesto Hartmann, Severine Neff, Jeffrey Perry, Paulo Costa Lima, and Sabine Feisst.\nAccess the publication in PDF here.\nPurchase a printed copy on Amazon here."
+  },
+  {
+    "objectID": "series/vol-1.html#copyright",
+    "href": "series/vol-1.html#copyright",
+    "title": "Schoenberg: Music and Theory",
+    "section": "Copyright",
+    "text": "Copyright\nThis book is available under the license CC BY-NC-ND 4.0, which “enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator”. More specifically, CC BY-NC-ND includes the following elements:\n\nBY: credit must be given to the creator (in this case, the MusMat Reserch Group and the authors of the chapters).\nNC: Only noncommercial uses of the work are permitted.\nND: No derivatives or adaptations of the work are permitted."
+  },
+  {
+    "objectID": "people/coordinators/cecilia-saraiva.html",
+    "href": "people/coordinators/cecilia-saraiva.html",
+    "title": "Cecilia saraiva",
+    "section": "",
+    "text": "website\n  \n  \n    \n     vitae\n  \n  \n    \n     github"
+  },
+  {
+    "objectID": "people/coordinators/cecilia-saraiva.html#biography",
+    "href": "people/coordinators/cecilia-saraiva.html#biography",
+    "title": "Cecilia saraiva",
+    "section": "Biography",
+    "text": "Biography\nCecilia Saraiva possui Bacharelado e Mestrado na área de Álgebra não-comutativa pelo Instituto de Matemática da UFRJ, e Doutorado em Sistemas de Computação pela COPPE, UFRJ. Foi professora substituta na UERJ e UFF, além de algumas universidades privadas como Gama Filho, Veiga de Almeida e Estácio. Ao terminar o doutorado em 2012, foi também professora adjunta na UERJ de Caxias (Faculdade de Educação da Baixada Fluminense). É, atualmente, professora da Escola de Matemática da UNIRIO, com projeto de pesquisa sobre as relações e aplicações entre Álgebra (com interesse em teoria de grupos, topologia, lógica e outras linguagens) e Música. Membro do grupo de pesquisa MusMat, e do corpo editorial da Revista MusMat, é profundamente apaixonada por Música desde criança, quando aprendeu a cantar ouvindo sua mãe, os discos de MPB e soul music dos discos de seus pais. Em 2017, entrou no curso de formação em violoncelo do Conservatório de Música de Niterói (CMN), onde estudou com a professora e regente Nerisa Aldrighi, e teve oportunidade de treinar na Orquestra de Cordas e Conjunto de Cellos do CMN. Atualmente, toca violoncelo na Orquestra Rio Camerata (que possui quase 40 anos de existência, fundada pelo maestro Israel Menezes, e agora dirigida pelo maestro Alexandre Rocha). Adora cantar, desde música renascentista (é uma mezzo soprano decente), até MPB, música pop e standards de jazz. Também é compositora iniciante."
+  },
+  {
+    "objectID": "people/coordinators/cecilia-saraiva.html#research",
+    "href": "people/coordinators/cecilia-saraiva.html#research",
+    "title": "Cecilia saraiva",
+    "section": "Research",
+    "text": "Research\nMúsica e linguagens algébricas; música e linguagens lógico-matemáticas; música e linguagens topológicas."
+  },
+  {
+    "objectID": "people/coordinators/daniel-moreira.html",
+    "href": "people/coordinators/daniel-moreira.html",
+    "title": "Daniel Moreira",
+    "section": "",
+    "text": "website\n  \n  \n    \n     vitae\n  \n  \n    \n     github\n  \n  \n    \n     music"
+  },
+  {
+    "objectID": "people/coordinators/daniel-moreira.html#biography",
+    "href": "people/coordinators/daniel-moreira.html#biography",
+    "title": "Daniel Moreira",
+    "section": "Biography",
+    "text": "Biography\nDaniel Moreira holds a PhD and Master’s degree in Creative Processes from the Federal University of Rio de Janeiro (UFRJ) and a Bachelor’s degree in Music/Composition from the same institution. As a composer, his works have been performed at music festivals such as the Panorama of Brazilian Music, the Biennial of Contemporary Brazilian Music, the Villa-Lobos Festival, the National Meeting of University Composers (ENCUn), the Edino Krieger Festival of Brazilian Contemporary Music, among others. He received an Honorable Mention in the 1st National Composition Competition - Symphony Orchestra Category. His work “Fantasia for saxophone, trumpet, and percussion” was awarded at the Funarte Classical Composition Prize in 2012. His piece “YHWH” was selected in the composition competition of the II Edino Krieger Festival of Brazilian Contemporary Music. His works have been selected in several editions of the Panorama of Current Brazilian Music. He was an Adjunct Professor of Composition at UFRJ between 2014 and 2016, Adjunct Professor of Counterpoint at UFRJ (2021-2022), and Composition Professor at the Brazilian Conservatory of Music (2021-2022). He is currently a Full Professor of Music Language and Structuring at the Espírito Santo Music College (FAMES), a member of the MusMat research group (UFRJ), and a member of the editorial board of the MusMat Journal: Brazilian Journal of Music and Mathematics."
+  },
+  {
+    "objectID": "people/coordinators/daniel-moreira.html#research",
+    "href": "people/coordinators/daniel-moreira.html#research",
+    "title": "Daniel Moreira",
+    "section": "Research",
+    "text": "Research\nMusical Texture as a Systematic Tool for Composition and Analysis\nIn this research project, we aim to continue the compositional research on texture initiated in my Doctoral thesis (MOREIRA, 2019), in which I formulated what I call “textural design” - “[…] a pre-compositional methodology for organizing the various textural configurations of a piece in an abstract structure ready to be implemented as music (MOREIRA, 2019, p. 102). This concept is a translation (or adaptation) of Morris’ compositional design (MORRIS, 1987) into the realm of musical texture. Since Morris’ proposal deals with distinct musical elements, some of his properties could not be fully applied, while other original possibilities were developed specifically for this research. For the formulation of textural design, the concept of textural space was developed, providing a series of codes that describe various musical textures. Each code differs from the others in its level of descriptive refinement. This research seeks to systematize new tools for manipulating and organizing texture, which can also be applied to the analysis of various works in the repertoire. This expansion is being developed both from original ideas specifically designed for musical texture and its unique characteristics, and through the adaptation of concepts from the poetics of musical creation related to different musical parameters. Additionally, this research aims to apply the tools developed in the realm of texture to other musical parameters, such as intervals, pitches, pitch classes, durations, etc. In this expansion of scope, the concept of Partition Space was created. This consists of a generalization of textural spaces to encompass any musical parameter that can be partitioned in some way. Finally, this research also seeks to develop computational tools to assist both the creative and analytical use of the developed tools and concepts."
+  },
+  {
+    "objectID": "people/coordinators/carlos_almada.html",
+    "href": "people/coordinators/carlos_almada.html",
+    "title": "Carlos Almada",
+    "section": "",
+    "text": "vitae\n  \n  \n    \n     scholar"
+  },
+  {
+    "objectID": "people/coordinators/carlos_almada.html#biography",
+    "href": "people/coordinators/carlos_almada.html#biography",
+    "title": "Carlos Almada",
+    "section": "Biography",
+    "text": "Biography\nCarlos Almada is a composer, associate professor at the UFRJ School of Music and, since 2011, a permanent member of the Graduate Program in Music at the same institution. Master and PhD in Music from UNIRIO, with theoretical-analytical research regarding Schoenberg’s First Chamber Symphony op.9. Researcher with participation in dozens of international national congresses and articles published in scientific journals, with his main research interests focused on musical variation and systematic studies in popular music. Author of the books Arranjo (2001), A Estrutura do Choro (2006), Harmonia Functional (2009), Contraponto em Música Popular (2013), Nas Fronteiras da Tonalidade (2016), A Harmonia de Jobim (2022), A Melody de Jobim (2023) and Musical Variation: Toward a Transformational Perspective (2023). He is a member of the Brazilian Association of Theory and Analysis TeMA, editor-in-chief of the journal MusMat: Brazilian Journal of Music and Mathematics, leader of the MusMat research group and coordinator (together with Hugo Carvalho) of the MPB Project (www.projetompb.com.br )"
+  },
+  {
+    "objectID": "people/coordinators/carlos_almada.html#research",
+    "href": "people/coordinators/carlos_almada.html#research",
+    "title": "Carlos Almada",
+    "section": "Research",
+    "text": "Research\nRESEARCH"
+  },
+  {
+    "objectID": "podcast.html",
+    "href": "podcast.html",
+    "title": "Podcast",
     "section": "",
     "text": "About this site"
   },
@@ -21,76 +231,6 @@
     "text": "TEST\n\n\n\n\n\n\ntest\n\n\nnews\n\n\n\nDescription\n\n\n\n\n\nSep 12, 2024\n\n\nAuthor\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "podcast.html",
-    "href": "podcast.html",
-    "title": "Podcast",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "people/staff/hugo-carvalho.html",
-    "href": "people/staff/hugo-carvalho.html",
-    "title": "Hugo Carvalho",
-    "section": "",
-    "text": "website\n  \n  \n    \n     vitae\n  \n  \n    \n     github"
-  },
-  {
-    "objectID": "people/staff/hugo-carvalho.html#biography",
-    "href": "people/staff/hugo-carvalho.html#biography",
-    "title": "Hugo Carvalho",
-    "section": "Biography",
-    "text": "Biography\nBIO"
-  },
-  {
-    "objectID": "people/staff/hugo-carvalho.html#experience",
-    "href": "people/staff/hugo-carvalho.html#experience",
-    "title": "Hugo Carvalho",
-    "section": "Experience",
-    "text": "Experience\nEXPERIENCE"
-  },
-  {
-    "objectID": "people/staff/hugo-carvalho.html#journal-editing",
-    "href": "people/staff/hugo-carvalho.html#journal-editing",
-    "title": "Hugo Carvalho",
-    "section": "Journal Editing",
-    "text": "Journal Editing\nJOURNAL"
-  },
-  {
-    "objectID": "people/staff/hugo-carvalho.html#education",
-    "href": "people/staff/hugo-carvalho.html#education",
-    "title": "Hugo Carvalho",
-    "section": "Education",
-    "text": "Education\nEDUCATION"
-  },
-  {
-    "objectID": "series/vol-1.html",
-    "href": "series/vol-1.html",
-    "title": "Schoenberg: Music and Theory",
-    "section": "",
-    "text": "Editors: Carlos Almada, Carlos Mathias, Cecília Saraiva, Daniel Moreira, Hugo Carvalho, and Liduino Pitombeira\nIn 2021, the MusMat Research group promoted the 6th International Conference on Music and Mathematics honoring Arnold Schoenberg (1874- 1951). We had the presence of a significant number of world-renowned Brazilian and foreign researchers, invited to lecture on their most recent research associated with the theoretical and artistic work of this important composer. The conference was conducted entirely online, through video conferences, keynotes, virtual debates, and concerts.\nThis book is a result of this conference, and its release coincides with the 150th anniversary of Schoenberg’s birth, joining a myriad of tribute initiatives honoring his legacy around the world. It presents a comprehensive prospection of Arnold Schoenberg’s music, paintings, as well as his theoretical writings. Thus, each chapter provides a unique perspective on different aspects of his extraordinary multifaceted work presented by a team of esteemed scholars and experts who delve deep into the intricacies of his groundbreaking contributions (theoretical and artistic). The book includes articles by Robert Morris, Jack Boss, Luigi Verdi, Robert Peck, Marco Feitosa, Carlos Almada, Guilherme Bueno, Ernesto Hartmann, Severine Neff, Jeffrey Perry, Paulo Costa Lima, and Sabine Feisst.\nAccess the publication in PDF here.\nPurchase a printed copy on Amazon here."
-  },
-  {
-    "objectID": "series/vol-1.html#copyright",
-    "href": "series/vol-1.html#copyright",
-    "title": "Schoenberg: Music and Theory",
-    "section": "Copyright",
-    "text": "Copyright\nThis book is available under the license CC BY-NC-ND 4.0, which “enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator”. More specifically, CC BY-NC-ND includes the following elements:\n\nBY: credit must be given to the creator (in this case, the MusMat Reserch Group and the authors of the chapters being distributed).\nNC: Only noncommercial uses of the work are permitted.\nND: No derivatives or adaptations of the work are permitted.\n\nThe MusMat Research Group does not have any profit with the printed copy available on Amazon, and their price refers only to the printing and shipping costs."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research Group on Music and Mathematics",
-    "section": "",
-    "text": "MusMat Research Group was founded in 2013 in the Graduate Program in Music of UFRJ, in order to develop research within the formalization of musical processes (compositional and analytical) using mathematical models. By the present time the group have participation of teachers, students and external members, accumulating an expressive number of publications, artistic and technical productions. The group has also participated in several conferences outside the country and today maintains intensive dialogue with national and international community interested in the interaction between music and mathematics. REESCREVER"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -98,80 +238,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "news/test.html",
-    "href": "news/test.html",
-    "title": "TEST",
+    "objectID": "journal.html",
+    "href": "journal.html",
+    "title": "Journal",
     "section": "",
-    "text": "Test"
-  },
-  {
-    "objectID": "people/alumni/natanael-luciano.html",
-    "href": "people/alumni/natanael-luciano.html",
-    "title": "Natanael Luciano de Matos",
-    "section": "",
-    "text": "BIO\n\n\n\nPROJECT"
-  },
-  {
-    "objectID": "people/alumni/natanael-luciano.html#biography",
-    "href": "people/alumni/natanael-luciano.html#biography",
-    "title": "Natanael Luciano de Matos",
-    "section": "",
-    "text": "BIO"
-  },
-  {
-    "objectID": "people/alumni/natanael-luciano.html#project",
-    "href": "people/alumni/natanael-luciano.html#project",
-    "title": "Natanael Luciano de Matos",
-    "section": "",
-    "text": "PROJECT"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "MusMat Research Group",
-    "section": "",
-    "text": "Group member\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#research-staff",
-    "href": "people.html#research-staff",
-    "title": "MusMat Research Group",
-    "section": "",
-    "text": "Group member\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#research-assistants",
-    "href": "people.html#research-assistants",
-    "title": "MusMat Research Group",
-    "section": "Research Assistants",
-    "text": "Research Assistants"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "MusMat Research Group",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\nNatanael Luciano de Matos\n\n\nMaster Student\n\n\ninicio\n\n\nfim\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "conferences/2021.html#full-version",
-    "href": "conferences/2021.html#full-version",
-    "title": "6th International MusMat Conference (MusMat 2021)",
-    "section": "Full version",
-    "text": "Full version\nDownload Full Version"
-  },
-  {
-    "objectID": "conferences/2021.html#individual-papers",
-    "href": "conferences/2021.html#individual-papers",
-    "title": "6th International MusMat Conference (MusMat 2021)",
-    "section": "Individual papers",
-    "text": "Individual papers\nDesvendando o enigma derivativo: uma aplicação do Modelo De Análise Derivativa de Carlos Almada  Ana Miccolis, Ariane Petri, Luiz Stellfeld Monteiro, Max Kühn e Pedro Zisels\nAnálise intravetorial: breve revisão e relações gráficas em operações de substituição André Codeço dos Santos\nRosemary Brown’s “New Scale” and the Property K Érico Bomfim e Carlos Almada\nUma implementação eficiente em Python de um algoritmo de separação de fontes sonoras Natanael Luciano de Matos e Hugo Tremonte de Carvalho\nAnálise dos materiais melódicos da canção Gute Nacht a partir do Modelo de Análise Derivativa de Carlos Almada Luiz Stellfeld Monteiro\nGame of Tones: A Simple Schoenbergian Serial Music-Making Model José Fornari\nHauer Tropes as Clockface Diagrams: Dialogs among Forte, Carter and Ŝedivý  Julio Herrlein\nSerial Keeper: um audiogame simples de rememoração de padrões atonais Leonardo Porto Passos e José Fornari\nO Modelo de Análise Derivativa aplicado ao planejamento composicional com uma Grundgestalt a partir de Pluft, o Fantasminha de Tom Jobim Ana Miccolis\nOrí Odára: Investigação acerca dos Materiais Composicionais da Obra e a Dualidade entre Ritmos e Alturas Luiz Stellfeld Monteiro\nUma proposta de tridimensionalidade aos pontos de distorção no contexto da teoria do domínio sonoro André Codeço dos Santos\nAn Intervallic Approach to Tone Rows: SerialGen, a Twelve-Tone Row Generator Marco Feitosa, Raphael Sousa Santos e Luan Simões Cardoso\nInteractions between Derivative Teleology and Form in Dušan Bogdanović’s Study I Ricardo de Almeida Gonçalves"
-  },
-  {
-    "objectID": "conferences/2024.html",
-    "href": "conferences/2024.html",
-    "title": "8° Congresso MusMat 2024",
-    "section": "",
-    "text": "PROGRAMA\n\n01/10/2024\n\n15:30-17:00  Concerto de Clarones (com obras do MusMat), oficina e roda de conversa com claronistas  Salão Leopoldo Miguez (Escola de Música da UFRJ)  Atividade em conjunto com o II Simpósio Íbero-Americano de Clarinetes Bajos\n\n02/10/2024\n\n09:30 - 11:00  Palestra de abertura  Luiz Wagner Pereira Biscainho (DEL/Poli/COPPE/UFRJ): Aplicando tecnologia à música: processamento de sinais musicais  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n13:00-15:00  Mesa-redonda: Música e tecnologia  Jean-Pierre Briot, Rogério Tavares Constante e Yuri Behr  Moderação: Hugo Carvalho  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n15:00-17:00  Comunicação dos coordenadores  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n03/10/2024\n\n10:00-12:00  Mesa-redonda sobre a produção das obras para clarone  Carlos Almada, Daniel Moreira, Hugo Carvalho e Liduino Pitombeira  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n14:00-16:00  Comunicação dos alunos  Ariane Petri, Ana Miccolis, Filipe de Matos Rocha, Gabriel Arnaud, Igor Chagas, Karolayne Pereira Dessabato, Natanael Luciano  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n14:00-16:00  Atividade interna\n\n\nCOMISSÃO CIENTÍFICA\nCarlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Liduino Pitombeira (UFRJ) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Cecília Saraiva (UNIRIO)\nREALIZAÇÃO\nGrupo de Pesquisa MusMat\nPrograma de Pós-Graduação em Música (UFRJ)\nPrograma de Pós-Graduação em Estatística (UFRJ)\nEscola de Música (UFRJ)\nUniversidade Federal do Rio de Janeiro\nUniversidade Federal Fluminense\nUniversidade Federal do Estado do Rio de Janeiro\nFaculdade de Música do Espírito Santo\nCOMISSÃO ORGANIZADORA\nCarlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Hugo Carvalho (UFRJ) | Liduino Pitombeira (UFRJ) | Carlos Mathias (UFF) | Cecilia Saraiva (UNIRIO)"
+    "text": "About this site"
   }
 ]
