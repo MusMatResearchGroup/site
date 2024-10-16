@@ -1,21 +1,19 @@
 ---
-pagetitle: "People | MusMat"
+pagetitle: "People"
 toc: false
 listing:
-  - id: research-staff
-    contents: "people/staff/*.qmd"
+  - id: coordinators
+    contents: "people/coordinators/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 3
-    fields: [image, title, subtitle]
+    fields: [image, title]#, subtitle]
     grid-item-align: center
-    sort: sortby
-    field-display-names: 
-      started: "Started"
+    sort: title
   - id: alumni
     contents: "people/alumni/*.qmd"
     type: table
-    sort: sortby
+    sort: title
     fields: [title, subtitle, started, ended]
     sort-ui: [title, subtitle, started, ended]
     filter-ui: [title, subtitle, started, ended]
@@ -26,15 +24,17 @@ listing:
       ended: "Ended"
 ---
 
-## Research Staff
+## Coordinators
 
-:::{#research-staff}
+:::{#coordinators}
 :::
 
+<!---
 ## Research Assistants
 
 :::{#research-assistants}
 :::
+--->
 
 ## Alumni
 

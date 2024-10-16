@@ -1,0 +1,31 @@
+---
+title: "Cecilia saraiva"
+subtitle: "Coordinator"
+image: cecilia_saraiva.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://hugocarvalho.mat.br/
+    - icon: file-earmark-text
+      text: vitae
+      href: http://lattes.cnpq.br/4007053253975343
+    # - icon: mortarboard
+      # text: scholar
+      # href: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
+    - icon: github
+      text: github
+      href: https://github.com/HugoCarvalhoUFRJ
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Cecilia Saraiva possui Bacharelado e Mestrado na área de Álgebra não-comutativa pelo Instituto de Matemática da UFRJ, e Doutorado em Sistemas de Computação pela COPPE, UFRJ. Foi professora substituta na UERJ e UFF, além de algumas universidades privadas como Gama Filho, Veiga de Almeida e Estácio. Ao terminar o doutorado em 2012, foi também professora adjunta na UERJ de Caxias (Faculdade de Educação da Baixada Fluminense). É, atualmente, professora da Escola de Matemática da UNIRIO, com projeto de pesquisa sobre as relações e aplicações entre Álgebra (com interesse em teoria de grupos, topologia, lógica e outras linguagens) e Música. Membro do grupo de pesquisa MusMat, e do corpo editorial da Revista MusMat, é profundamente apaixonada por Música desde criança, quando aprendeu a cantar ouvindo sua mãe, os discos de MPB e soul music dos discos de seus pais. Em 2017, entrou no curso de formação em violoncelo do Conservatório de Música de Niterói (CMN), onde estudou com a professora e regente Nerisa Aldrighi, e teve oportunidade de treinar na Orquestra de Cordas e Conjunto de Cellos do CMN. Atualmente, toca violoncelo na Orquestra Rio Camerata (que possui quase 40 anos de existência, fundada pelo maestro Israel Menezes, e agora dirigida pelo maestro Alexandre Rocha). Adora cantar, desde música renascentista (é uma mezzo soprano decente), até MPB, música pop e standards de jazz. Também é compositora iniciante.
+
+## Research
+Música e linguagens algébricas; música e linguagens lógico-matemáticas; música e linguagens topológicas. 

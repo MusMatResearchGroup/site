@@ -1,0 +1,31 @@
+---
+title: "Hugo Carvalho"
+subtitle: "Coordinator"
+image: hugo-carvalho.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://hugocarvalho.mat.br/
+    - icon: file-earmark-text
+      text: vitae
+      href: http://lattes.cnpq.br/4007053253975343
+    # - icon: mortarboard
+      # text: scholar
+      # href: https://scholar.google.com/citations?user=N2UcZ84AAAAJ
+    - icon: github
+      text: github
+      href: https://github.com/HugoCarvalhoUFRJ
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+BIO
+
+## Research
+RESEARCH

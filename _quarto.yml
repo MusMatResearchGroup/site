@@ -23,8 +23,8 @@ website:
         text: News
       - href: people.qmd
         text: People
-      - href: research.qmd
-        text: Research
+      # - href: research.qmd
+        # text: Research
       - href: podcast.qmd
         text: Podcast
       - text: Conferences
@@ -38,7 +38,7 @@ website:
       - text: Book Series
         menu:
           - href: 'series/vol-1.qmd'
-            text: 'Vol. 1: Schoenberg'
+            text: 'Vol. 1 - Schoenberg: Music and Theory'
       - href: journal.qmd
         text: Journal
       - href: contact.qmd
