@@ -51,6 +51,8 @@ website:
 
 format:
   html:
+    link-external-icon: true
+    link-external-newwindow: true
     theme: simplex
     css: styles.css
     toc: true
