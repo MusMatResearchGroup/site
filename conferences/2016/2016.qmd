@@ -1,0 +1,5 @@
+---
+title: "1o Congresso Nacional de Música e Matemática"
+subtitle: "Formalização de Processos Composicionais e Analíticos em Música"
+toc: true
+---

@@ -1,0 +1,5 @@
+---
+title: "2th International Conference on Music and Mathematics"
+subtitle: "Theoretical Formulations and Creative Applications"
+toc: true
+---

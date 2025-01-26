@@ -1,0 +1,4 @@
+---
+title: "Guideline for authors"
+subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+---

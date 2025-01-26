@@ -1,0 +1,19 @@
+---
+title: "Carlos Mathias"
+subtitle: "Coordinator"
+image: carlos-mathias.jpg
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: file-earmark-text
+      text: vitae
+      href: http://lattes.cnpq.br/1708787934042772
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+BIO

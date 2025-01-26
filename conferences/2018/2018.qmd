@@ -1,0 +1,5 @@
+---
+title: "3th International Conference on Music and Mathematics"
+subtitle: "Conceptual Innovations and the Compositional Practices"
+toc: true
+---

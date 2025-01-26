@@ -1,0 +1,89 @@
+---
+title: "6th International MusMat Conference (MusMat 2021)"
+subtitle: "Schoenberg: Music and Mathematics («Hommage to Arnold Schoenberg») <br> October 18th to 22nd (Online Edition)"
+toc: true
+---
+
+![](2021-banner.png){fig-align="center"}
+
+# Videos
+
+## DAY 1, 18 Oct 2021
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/FUGzR0LrRjg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/xCaBG4RwNtE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+
+## DAY 2, 19 Oct 2021
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/1GfPWg5uTSc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/NKtgcLea8nk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+## DAY 3, 20 Oct 2021
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/ELQCNgtiG_c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/XM6U-s6ivJk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+## DAY 5, 21 Oct 2021
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/NAurgr_hF0c" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/IDNkj9qnb8A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+## DAY 5, 22 Oct 2021
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/piHX_xmWnPo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+
+<p style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/O8Jya3WKWgk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></p>
+<b></b></p>
+
+# Proceedings
+## Full version
+[Download Full Version](Anais_VI_MusMat_2021.pdf)
+
+## Individual papers
+[Desvendando o enigma derivativo: uma aplicação do Modelo De Análise Derivativa de Carlos Almada](01_Miccolis_et_al.pdf) <br>
+<em>Ana Miccolis, Ariane Petri, Luiz Stellfeld Monteiro, Max Kühn e Pedro </em><em>Zisels</em>
+
+[Análise intravetorial: breve revisão e relações gráficas em operações de substituição](02_Codeco.pdf)<br>
+<em>André Codeço dos Santos</em>
+
+[Rosemary Brown’s "New Scale" and the Property K](03_Bomfim_Almada.pdf)<br>
+<em>Érico Bomfim e Carlos Almada</em>
+
+[Uma implementação eficiente em Python de um algoritmo de separação de fontes sonoras](04_DeMatos_Carvalho.pdf)<br>
+<em>Natanael Luciano de Matos e Hugo Tremonte de Carvalho</em>
+
+[Análise dos materiais melódicos da canção Gute Nacht a partir do Modelo de Análise Derivativa de Carlos Almada](05_Stellfeld.pdf)<br>
+<em>Luiz Stellfeld Monteiro</em>
+
+[Game of Tones: A Simple Schoenbergian Serial Music-Making Model](06_Fornari.pdf)<br>
+<em>José Fornari</em>
+
+[Hauer Tropes as Clockface Diagrams: Dialogs among Forte, Carter and Ŝedivý](07_Herrlein.pdf)<br>
+<em>Julio Herrlein</em>
+
+<a href="https://musmat.org/wp-content/uploads/2022/06/08_Passos_Fornari.pdf"><strong>Serial Keeper: um audiogame simples de rememoração de padrões atonais</strong></a><br>
+<em>Leonardo Porto Passos e José Fornari</em>
+
+[O Modelo de Análise Derivativa aplicado ao planejamento composicional com uma Grundgestalt a partir de Pluft, o Fantasminha de Tom Jobim](09_Miccolis.pdf)<br>
+<em>Ana Miccolis</em>
+
+[Orí Odára: Investigação acerca dos Materiais Composicionais da Obra e a Dualidade entre Ritmos e Alturas](10_Stellfeld.pdf)<br>
+<em>Luiz Stellfeld Monteiro</em>
+
+[Uma proposta de tridimensionalidade aos pontos de distorção no contexto da teoria do domínio sonoro](11_Codeco.pdf)<br>
+<em>André Codeço dos Santos</em>
+
+[An Intervallic Approach to Tone Rows: SerialGen, a Twelve-Tone Row Generator](12_Feitosa_et_al.pdf)<br>
+<em>Marco Feitosa, Raphael Sousa Santos e Luan Simões Cardoso</em>
+
+[Interactions between Derivative Teleology and Form in Dušan Bogdanović's Study I](13_Goncalves.pdf)<br>
+<em>Ricardo de Almeida Gonçalves</em>
+
+# Organization
+<p style="text-align: justify;"><b>ORGANIZING COMMITTEE</b></p>
+<p style="text-align: justify;">Carlos Almada (UFRJ) | Carlos Mathias (UFF) | Daniel Moreira de Sousa (UFRJ | CBM) | Hugo Tremonte de Carvalho (UFRJ) | Liduino Pitombeira (UFRJ) | Ariane Petri (Doutoranda - UFRJ)</p>
+&nbsp;
+<p style="text-align: justify;"><strong>SCIENTIFIC COMMITTEE</strong></p>
+<p style="text-align: justify;">Carlos Almada (UFRJ) | Ciro Visconti (Souza Lima) | Daniel Moreira de Sousa (UFRJ) | Julio Herrlein (UFRGS) | Liduino Pitombeira (UFRJ) | Rodolfo Coelho de Souza (USP) | Walter Nery (Souza Lima) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Marco Feitosa | Cecília Saraiva (UNIRIO) | Petrucio Viana (UFF) | Helder Oliveira | André Codeço | Robert Peck (LSU) | Alexandre Ferreira (CBM)</p>
+&nbsp;
+<p style="text-align: justify;"><b>EDITORIAL BOARD OF THE PROCEEDINGS</b></p>
+Carlos Almada (UFRJ) | Daniel Moreira de Sousa (UFRJ | CBM) | Liduino Pitombeira (UFRJ) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Cecilia Saraiva (UNIRIO)

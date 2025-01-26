@@ -1,0 +1,5 @@
+---
+title: "5th International Conference on Music and Mathematics (MusMat 2020)"
+subtitle: "Perspectives and Applications of Mathematics in Post-tonal Theories («Homage to Jamary Oliveira»)"
+toc: true
+---
