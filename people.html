@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7b82d7486e15f8e1e20354f27a34a875.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -96,35 +96,16 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-alumni .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-subtitle","listing-started","listing-ended"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-alumni'] = new List('listing-alumni', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-35Z643HN3V"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-35Z643HN3V', { 'anonymize_ip': true});
+</script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -188,26 +169,42 @@ window.Quarto = {
     <a class="nav-link active" href="./people.html" aria-current="page"> 
 <span class="menu-text">People</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./podcast.html"> 
-<span class="menu-text">Podcast</span></a>
-  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-conferences" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Conferences</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-conferences">    
         <li>
-    <a class="dropdown-item" href="./conferences/2024.html">
+    <a class="dropdown-item" href="./conferences/2024/2024.html">
  <span class="dropdown-text">2024</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./conferences/2022.html">
+    <a class="dropdown-item" href="./conferences/2022/2022.html">
  <span class="dropdown-text">2022</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./conferences/2021.html">
+    <a class="dropdown-item" href="./conferences/2021/2021.html">
  <span class="dropdown-text">2021</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./conferences/2020/2020.html">
+ <span class="dropdown-text">2020</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./conferences/2019/2019.html">
+ <span class="dropdown-text">2019</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./conferences/2018/2018.html">
+ <span class="dropdown-text">2018</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./conferences/2017/2017.html">
+ <span class="dropdown-text">2017</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./conferences/2016/2016.html">
+ <span class="dropdown-text">2016</span></a>
   </li>  
     </ul>
   </li>
@@ -222,10 +219,33 @@ window.Quarto = {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./journal.html"> 
-<span class="menu-text">Journal</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-journal" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Journal</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-journal">    
+        <li>
+    <a class="dropdown-item" href="./journal/presentation.html">
+ <span class="dropdown-text">Presentation</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./journal/issues.html">
+ <span class="dropdown-text">Issues</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./journal/editorial-board.html">
+ <span class="dropdown-text">Editorial board</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./journal/guideline-authors.html">
+ <span class="dropdown-text">Guideline for authors</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./journal/policies.html">
+ <span class="dropdown-text">Policies</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">Contact</span></a>
@@ -247,7 +267,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -256,7 +276,7 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="coordinators">Coordinators</h2>
 <div id="listing-coordinators" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1729370959110" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1737920891463" data-listing-reading-time-sort="1" data-listing-word-count-sort="157">
 <a href="./people/coordinators/carlos_almada.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -270,7 +290,21 @@ Carlos Almada
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1729370959110" data-listing-reading-time-sort="2" data-listing-word-count-sort="253">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1737920891464" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./people/coordinators/carlos_mathias.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./people/coordinators/carlos-mathias.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Carlos Mathias
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1737920891464" data-listing-reading-time-sort="2" data-listing-word-count-sort="253">
 <a href="./people/coordinators/cecilia-saraiva.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -284,7 +318,7 @@ Cecilia saraiva
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1729370959110" data-listing-reading-time-sort="3" data-listing-word-count-sort="506">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1737920891465" data-listing-reading-time-sort="3" data-listing-word-count-sort="506">
 <a href="./people/coordinators/daniel-moreira.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -298,11 +332,11 @@ Daniel Moreira
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1729370959114" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1737920891477" data-listing-reading-time-sort="2" data-listing-word-count-sort="377">
 <a href="./people/coordinators/hugo-carvalho.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./people/coordinators/hugo-carvalho.png" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" src="./people/coordinators/hugo-carvalho.jpg" class="thumbnail-image card-img" style="height: 225px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -312,7 +346,7 @@ Hugo Carvalho
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1729370959114" data-listing-reading-time-sort="3" data-listing-word-count-sort="475">
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1737920891478" data-listing-reading-time-sort="3" data-listing-word-count-sort="475">
 <a href="./people/coordinators/liduino-pitombeira.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -337,73 +371,12 @@ No matching items
 :::{#research-assistants}
 :::
 --->
-</section>
-<section id="alumni" class="level2">
-<h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
-<div id="listing-alumni" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-alumni-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-alumni'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title-sort" data-direction="asc">
-          Name
-        </option>
-         <option value="listing-subtitle" data-direction="asc">
-          Role
-        </option>
-         <option value="listing-started" data-direction="asc">
-          Started
-        </option>
-         <option value="listing-ended" data-direction="asc">
-          Ended
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Role</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-started" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Started</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-ended" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Ended</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1729370959110" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="Zé da Silva" data-listing-filename-sort="ze-da-silva.qmd">
-<td>
-<a href="./people/alumni/ze-da-silva.html" class="title listing-title">Zé da Silva</a>
-</td>
-<td>
-<span class="listing-subtitle">Master Student</span>
-</td>
-<td>
-<span class="listing-started">inicio</span>
-</td>
-<td>
-<span class="listing-ended">fim</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+<!---
+## Alumni
+
+:::{#alumni}
+:::
+--->
 
 
 
@@ -492,8 +465,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -611,7 +582,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -844,7 +814,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>CC-BY 4.0 - MusMat Research Group</p>
+<p>CC BY-NC-ND 4.0 - MusMat Research Group</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
