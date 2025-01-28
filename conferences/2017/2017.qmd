@@ -1,5 +1,52 @@
 ---
-title: "2th International Conference on Music and Mathematics"
+title: "2th National Conference on Music and Mathematics"
 subtitle: "Theoretical Formulations and Creative Applications"
 toc: true
 ---
+
+![](2017-banner.png){width=50% fig-align="center"}
+
+# Proceedings
+## Full version
+[Download Full Version](Congresso-MusMat-2017.pdf)
+
+## Individual papers
+<em>Arthur Faraco</em><br>
+[Aliquid Stat pro Aliquo: Cinco composições com notação textual para instrumentação livre: criação e análise de composições com abertura à improvisação](Aliquid-Stat-pro-Aliquo.pdf)
+
+<em>Carlos de Lemos Almada, Claudia Usai Gomes, Igor Chagas, João Penchel, and Max Kühn</em><br>
+[A geometria das relações parcimoniosas em música popular](A-geometria-das-relações-parcimoniosas-em-música-popular.pdf)
+
+<em>Lucas Bracher</em><br>
+[Ecco! - uma linguagem computacional para descrição e estudo de temperamentos musicais](Ecco-uma-linguagem-computacional-para-descrição-e-estudo.pdf)
+
+<em>Marcelo Birck and João Lazzarin </em><br>
+[Do uso de tetracordes na concepção de um jogo de análise e composição musical](Do-uso-de-tetracordes-na-concepção-de-um-jogo-de-análise-e.pdf)
+
+<em>Max Kühn, Claudia Usai, Rodrigo Pascale, Liduino Pitombeira, and Pauxy Gentil-Nunes</em><br>
+[Utilização do aplicativo de operações lineares Oplin como ferramenta de modelagem sistêmica](Utilização-do-aplicativo-de-operações-lineares-Oplin-como.pdf)
+
+<em>Desirée Mayr and Carlos de Lemos Almada</em><br>
+[Mathematical and Biological Representations in Derivative Analysis](Mathematical-and-Biological-Representations-in-Derivative.pdf)
+
+<em>André Codeço dos Santos and Liduino Pitombeira</em><br>
+[Domínio Sonoro: conceitos e aplicações na análise do III movimento do Op.11, de Webern](Domínio-Sonoro-conceitos-e-aplicações-na-análise-do-III.pdf)
+
+# Organization
+<strong>Organizing Committee</strong><br>
+Carlos de Lemos Almada
+Daniel Moreira de Sousa
+Liduino Pitombeira
+Pauxy Gentil-Nunes
+
+<strong>Editor</strong><br>
+Daniel Moreira de Sousa
+
+<strong>Scientific Committee</strong><br>
+Alexandre Reche
+Carlos de Lemos Almada
+Gabriel Pareyon
+Marcos Sampaio
+Liduino Pitombeira
+Pauxy Gentil-Nunes
+Rodolfo Coelho de Souza

@@ -1,5 +1,61 @@
 ---
-title: "1o Congresso Nacional de Música e Matemática"
-subtitle: "Formalização de Processos Composicionais e Analíticos em Música"
+title: "1st National Conference on Music and Mathematics"
+subtitle: "Formalization of Compositional and Analytical Processes in Music"
 toc: true
 ---
+
+![](2016-banner.jpg){width=50% fig-align="center"}
+
+# Proceedings
+## Full version
+[Download Full Version](Anais-Congresso-MusMat-2016.pdf)
+
+## Individual papers
+<em>Carlos De Lemos Almada</em><br>
+[Análise de Germinata III, para flauta, fagote e piano](Almada.pdf)
+
+<em>Ciro Visconti and Paulo De Tarso Salles</em><br>
+[As funções da simetria nos grafos de tétrades da teoria neoriemanniana](Ciro.pdf)
+
+<em>Daniel Moreira De Sousa</em><br>
+[Variação progressiva textural: planejamento composicional da obra Sagração de um Fauno na Primavera](Daniel.pdf)
+
+<em>Fábio Adour</em><br>
+[Transformação de discurso verbal em musical: um relato composicional](Fábio.pdf)
+
+<em>Gabriel Rimoldi, Ivan E. Y. Simurra, and Adriano Claro Monteiro</em><br>
+[O uso de descritores acústicos como ferramenta na análise, criação e performance musical](Gabriel.pdf)
+
+<em>Gean Pierre and Oscar Abdounur</em><br>
+[A racionalidade matemática na música de Villa-Lobos](Gean.pdf)
+
+<em>Liduino Pitombeira</em><br>
+[Planejamento composicional do segundo movimento de Patrono Quieto a partir da modelagem sistêmica do Ponteio Nº 4 de Camargo Guarnieri](Liduino.pdf)
+
+<em>Nicolás Andrés Espinoza Santibáñez and Luiz Wagner Pereira Biscainho</em><br>
+[Harmonização musical automática: tendências em inteligência computacional](Nicolas.pdf)
+
+<em>Pauxy Gentil-Nunes and Bernardo Ramos</em><br>
+[Complexos particionais](Pauxy.pdf)
+
+<em>Silvio Moreira Barbosa Jr.</em><br>
+[O Teorema de não Redundância Intervalar](Silvio.pdf)
+
+# Organization
+<strong>Organizing Committee</strong><br>
+Carlos de Lemos Almada
+Daniel Moreira de Sousa
+Liduino Pitombeira
+Pauxy Gentil-Nunes
+
+<strong>Editor</strong><br>
+Daniel Moreira de Sousa
+
+<strong>Scientific Committee</strong><br>
+Alexandre Reche
+Carlos de Lemos Almada
+Gabriel Pareyon
+Marcos Sampaio
+Liduino Pitombeira
+Pauxy Gentil-Nunes
+Rodolfo Coelho de Souza

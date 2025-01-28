@@ -1,5 +1,35 @@
 ---
 title: "5th International Conference on Music and Mathematics (MusMat 2020)"
-subtitle: "Perspectives and Applications of Mathematics in Post-tonal Theories («Homage to Jamary Oliveira»)"
+subtitle: "Perspectives and Applications of Mathematics in Post-tonal Theories («Homage to Jamary Oliveira») <br> December 08 to 12, 2020 (Online Edition)"
 toc: true
 ---
+
+![](2020-banner.jpg){width=50% fig-align="center"}
+
+# Proceedings
+## Full version
+[Download Full Version](Anais_V_MusMat_2020-1.pdf)
+
+## Individual papers
+
+[O cuboctaedro como instrumento de análise e visualização do espaço musical em Coltrane e Berg](Carvalho_MusMat5.pdf) <br>
+<em>Dennis Carvalho</em>
+
+[Logistic Maps for Illogic Music](Fornari_MusMat5.pdf) <br>
+<em>José Fornari</em>
+
+[Ternarização de estruturas binárias e modulação métrica aplicadas a uma reelaboração com elementos jazzísticos da peça Lamentos do morro, de Garoto](Goncalves_MusMat5.pdf) <br>
+<em>Ricardo de Almeida Gonçalves</em>
+
+[The Fourier phase sphere: a method for computer-assisted atonal composition](PereiraBernardes_MusMat5.pdf) <br>
+<em>Samuel Pereira &amp; Gilberto Bernardes</em>
+
+# Organization
+<p style="text-align: justify;"><b>ORGANIZING COMMITTEE</b></p>
+<p style="text-align: justify;">Carlos Almada (UFRJ)  | Daniel Moreira de Sousa (UFRJ | CBM) | Hugo Tremonte de Carvalho (UFRJ) | Liduino Pitombeira (UFRJ) | Ariane Petri (D.Sc. student - UFRJ)</p>
+&nbsp;
+<p style="text-align: justify;"><strong>SCIENTIFIC COMMITTEE</strong></p>
+<p style="text-align: justify;">Carlos Almada (UFRJ) | Ciro Visconti (Souza Lima) | Gabriel Pareyon (Universidad de Guadalajara) | Guilherme Bertissolo (UFBA) | Daniel Moreira de Sousa | Julio Herrlein (UFRGS) | Liduino Pitombeira (UFRJ) |  Marcos Sampaio (UFBA) |  Rodolfo Coelho de Souza (USP) | Rodrigo Schramm (UFRGS) | Walter Nery (Souza Lima) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Robert Morris (Eastman School of Music) | Paulo de Tarso Salles (USP)</p>
+&nbsp;
+<p style="text-align: justify;"><b>EDITORIAL BOARD OF THE PROCEEDINGS</b></p>
+Carlos Almada (UFRJ) | Daniel Moreira de Sousa (UFRJ | CBM) | Liduino Pitombeira (UFRJ) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Cecilia Saraiva (UNIRIO)

@@ -40,7 +40,7 @@ toc: true
 
 ## Individual papers
 [Desvendando o enigma derivativo: uma aplicação do Modelo De Análise Derivativa de Carlos Almada](01_Miccolis_et_al.pdf) <br>
-<em>Ana Miccolis, Ariane Petri, Luiz Stellfeld Monteiro, Max Kühn e Pedro </em><em>Zisels</em>
+<em>Ana Miccolis, Ariane Petri, Luiz Stellfeld Monteiro, Max Kühn e Pedro Zisels</em>
 
 [Análise intravetorial: breve revisão e relações gráficas em operações de substituição](02_Codeco.pdf)<br>
 <em>André Codeço dos Santos</em>
@@ -60,7 +60,7 @@ toc: true
 [Hauer Tropes as Clockface Diagrams: Dialogs among Forte, Carter and Ŝedivý](07_Herrlein.pdf)<br>
 <em>Julio Herrlein</em>
 
-<a href="https://musmat.org/wp-content/uploads/2022/06/08_Passos_Fornari.pdf"><strong>Serial Keeper: um audiogame simples de rememoração de padrões atonais</strong></a><br>
+[Serial Keeper: um audiogame simples de rememoração de padrões atonais](08_Passos_Fornari.pdf)<br>
 <em>Leonardo Porto Passos e José Fornari</em>
 
 [O Modelo de Análise Derivativa aplicado ao planejamento composicional com uma Grundgestalt a partir de Pluft, o Fantasminha de Tom Jobim](09_Miccolis.pdf)<br>

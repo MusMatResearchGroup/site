@@ -3,3 +3,63 @@ title: "4th International Conference on Music and Mathematics and 3rd TeMA Confe
 subtitle: "Intercontinental Dialogues"
 toc: true
 ---
+
+![](2019-banner.png){width=50% fig-align="center"}
+
+# Proceedings
+## Full version
+[Download Full Version](Anais_IV_MusMat_2019.pdf)
+
+## List of published papers
+André Codeço | Robert Peck <br>
+<strong>Derivative algebraic description, Intravetorial Analysis and Pitch Circle in the context of the Sonic Domain</strong>
+
+Fernando Luiz Cardoso Pereira <br>
+<strong>Nomenclaturas de gêneros de proporção aritmética, proporcionalidade e operações matemáticas no Cinquecento: Gioseffo Zarlino e a aplicação da teoria clássica na racionalização de intervalos diatônicos</strong>
+
+Julio Herrlein <br>
+<strong>Teoria dos Conjuntos Rítmicos: algumas aplicações orientadas à música popular</strong>
+
+Pedro Miguel de Moraes <br>
+<strong>O corpo como fator de modelagem da textura pianística</strong>
+
+Francisco Erivelton Fernandes de Aragão | Liduino Pitombeira <br>
+<strong>From Stumpf's Concord to a New Definition of Triad</strong>
+
+Carlos Almada | Max Kühn <br>
+<strong>Arquétipos de condução de vozes na harmonia de Tom Jobim</strong>
+
+Rodrigo Balthar Furman <br>
+<strong>Generalizando Conjuntos de Classes de Altura em Números</strong>
+
+Daniel Moreira de Sousa <br>
+<strong>Design Textural: análise textural como ferramenta para a organização composicional</strong>
+
+Alexandre Ferreira <br>
+<strong>Panorama sobre a utilização de jogos na composição musical</strong>
+
+Marco Feitosa <br>
+<strong>Aplicações da Teoria Pós-tonal em análise de música popular</strong>
+
+# Organization
+<strong>REVIEWERS</strong>
+
+Acácio Piedade (UDESC) | Alejandro Martinez (Universidad Nacional de La Plata) | Antenor Ferreira Correa (UnB) | Any Raquel Carvalho (UFRGS) | Carlos Almada (UFRJ) | Charles de Paiva (UNICAMP) | Ciro Visconti (USP) | Cristina Gerling (UFRGS) | Edgardo Rodriguez (Universidad Nacional de La Plata) | Ernesto Hartmann (UFES) | Guilherme Bertissolo (UFBA) | Guilherme Sauerbronn (UDESC) | Ilza Nogueira (UFPB) | João Miguel Bellard Freire (UFRJ) | Julio Herrlein (UFRGS) | Liduino Pitombeira (UFRJ) | Luigi Irlandini (UDESC) | Marcelo Carneiro (UNIRIO) | Marcos Nogueira (UFRJ) | Marcos Sampaio (UFBA) | Marcos Vieira Lucas (UNIRIO) | Maria Lúcia Senna Machado Pascoal (UNICAMP) | Ricardo Bordini (UFMA) | Rodolfo Coelho de Souza (USP) | Rodrigo Schramm (UFRGS).
+
+&nbsp;
+
+<strong>SCIENTIFIC COMMITTEE</strong>
+
+Acácio Piedade (UDESC) | Alejandro Martinez (Universidad Nacional de La Plata) | Carole Gubernikoff (UNIRIO) | Edgardo Rodriguez (Universidad Nacional de La Plata) | Gabriel Pareyón (Universidad de Guadalajara) | Jean Pierre Briot (Centre National de la Recherche Scientifique – CNRS) | Luigi Irlandini (UDESC) | Marcelo Carneiro (UNIRIO) | Marcos Sampaio (UFBA) | Marcos Vieira Lucas (UNIRIO) | Paulo Costa Lima (UFBA) | Paulo de Tarso Salles (USP) | Pauxy Gentil-Nunes (UFRJ) | Robert Morris (Rochester University/Eastman School of Music) | Robert Peck (Louisiana State University) | Sérgio Freitas (UDESC)
+
+<strong> </strong>
+
+<b>ORGANIZING COMMITTEE</b>
+
+Carlos Almada (UFRJ) | Daniel Moreira (UFRJ) | Liduino Pitombeira (UFRJ) | Ilza Nogueira (UFBA) | Pauxy Gentil-Nunes (UFRJ) | Rodolfo Coelho de Souza (USP)
+
+&nbsp;
+
+<strong>EDITORIAL BOARD OF PROCEEDINGS</strong>
+
+Carlos Almada (UFRJ) | Daniel Moreira (UFRJ) | Liduino Pitombeira (UFRJ) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF)

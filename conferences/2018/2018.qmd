@@ -1,5 +1,51 @@
 ---
-title: "3th International Conference on Music and Mathematics"
+title: "3th National Conference on Music and Mathematics"
 subtitle: "Conceptual Innovations and the Compositional Practices"
 toc: true
 ---
+
+![](2018-banner.png){width=50% fig-align="center"}
+
+# Proceedings
+## Full version
+[Download Full Version](Anais-2018.pdf)
+
+## List of published papers
+<em>Max Kühn</em><br>
+<strong>Clube da Esquina de Milton Nascimento e Lô Borges: uma abordagem transformacional</strong>
+
+<em>Marcos Feitosa </em><br>
+<strong>Do caos à ordem: análise do <em>Prelude</em> op. 44 de Arnold Schoenberg</strong>
+
+<em>Max Kühn, Claudia Usai, Igor Chagas, João Penchel e Carlos Almada </em><br>
+<strong>Uma nova abordagem referente à ocorrência de transformações harmônicas em canções de Antônio Carlos Jobim</strong>
+
+<em>Rodrigo S. Batalha </em><br>
+<strong>U</strong><strong>ma perspectiva composicional a partir dos conceitos de <em>time-point</em> e <em>time-spam</em></strong>
+
+<em>Ana Miccolis </em><br>
+<strong>A Análise de efeitos com enarmonias na música pós-tonal para harpa</strong>
+
+<em>Roberto Macedo </em><br>
+<strong>Simetrias escalares e macro-harmonia no 4º Movimento da <em>Suíte Característica</em> de Roberto Macedo</strong>
+
+<em>Rodrigo Balthar Furman</em><br>
+<strong>Dream Theater: uma proposta de análise estética por padrões matemáticos</strong>
+
+# Organization
+<strong>Organizing Committee</strong><br>
+Carlos de Lemos Almada
+Daniel Moreira de Sousa
+Liduino Pitombeira
+Pauxy Gentil-Nunes
+
+<strong>Editor</strong><br>
+Daniel Moreira de Sousa
+
+<strong>Scientific Committee</strong><br>
+Carlos Almada (UFRJ)
+Pauxy Gentil-Nunes (UFRJ)
+Liduino Pitombeira (UFRJ)
+Marcos Sampaio (UFBA)
+Gabriel Pareyon (CENIDIM-INBA/FaM-UNAM)
+Robert Peck (LSU)
