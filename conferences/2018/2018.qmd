@@ -34,18 +34,18 @@ toc: true
 
 # Organization
 <strong>Organizing Committee</strong><br>
-Carlos de Lemos Almada
-Daniel Moreira de Sousa
-Liduino Pitombeira
+Carlos de Lemos Almada<br>
+Daniel Moreira de Sousa<br>
+Liduino Pitombeira<br>
 Pauxy Gentil-Nunes
 
 <strong>Editor</strong><br>
 Daniel Moreira de Sousa
 
 <strong>Scientific Committee</strong><br>
-Carlos Almada (UFRJ)
-Pauxy Gentil-Nunes (UFRJ)
-Liduino Pitombeira (UFRJ)
-Marcos Sampaio (UFBA)
-Gabriel Pareyon (CENIDIM-INBA/FaM-UNAM)
+Carlos Almada (UFRJ)<br>
+Pauxy Gentil-Nunes (UFRJ)<br>
+Liduino Pitombeira (UFRJ)<br>
+Marcos Sampaio (UFBA)<br>
+Gabriel Pareyon (CENIDIM-INBA/FaM-UNAM)<br>
 Robert Peck (LSU)

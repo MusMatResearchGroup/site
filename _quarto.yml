@@ -3,6 +3,7 @@ project:
 
 website:
   title: "MusMat Research Group"
+  favicon: icon.ico
   navbar:
     search: true
     background: '#C53713'
@@ -17,8 +18,8 @@ website:
       - icon: broadcast-pin
         href: https://podcasters.spotify.com/pod/show/musmat-podcast
     left:
-      - href: index.qmd
-        text: Home
+      # - href: index.qmd
+        # text: Home
       - href: news.qmd
         text: News
       - href: people.qmd
@@ -72,8 +73,8 @@ website:
 
 format:
   html:
-    link-external-icon: true
-    link-external-newwindow: true
+    # link-external-icon: true
+    # link-external-newwindow: true
     theme: simplex
     css: styles.css
     toc: true
