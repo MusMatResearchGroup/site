@@ -1,6 +1,6 @@
 ---
-title: "Guideline for authors"
-subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+title: "MusMat • Brazilian Journal of Music and Mathematics"
+subtitle: "Guideline for authors"
 ---
 
 Authors are invited to submit no more than two contributions electronically to the e-mail [musmatjournal@musmat.org](mailto:musmatjournal@musmat.org), for the following categories:

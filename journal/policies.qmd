@@ -1,6 +1,6 @@
 ---
-title: "Policies"
-subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+title: "MusMat • Brazilian Journal of Music and Mathematics"
+subtitle: "Policies"
 ---
 
 <p style="text-align: justify;"><b>DEFINITIONS</b></p>

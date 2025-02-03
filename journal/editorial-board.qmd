@@ -1,6 +1,6 @@
 ---
-title: "Editorial board"
-subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+title: "MusMat • Brazilian Journal of Music and Mathematics"
+subtitle: "Editorial board"
 ---
 
 **Editorial Board** <br>

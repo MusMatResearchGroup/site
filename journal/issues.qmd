@@ -1,6 +1,6 @@
 ---
-title: "Issues"
-subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+title: "MusMat • Brazilian Journal of Music and Mathematics"
+subtitle: "Issues"
 ---
 
 * [Vol. VIII, 2024](v8.qmd)

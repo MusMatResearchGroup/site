@@ -50,21 +50,24 @@ website:
         menu:
           - href: 'series/vol-1.qmd'
             text: 'Vol. 1 - Schoenberg: Music and Theory'
-      - text: Journal
-        menu:
-          - href: journal/presentation.qmd
-            text: Presentation
-          - href: journal/issues.qmd
-            text: Issues
-          - href: journal/editorial-board.qmd
-            text: Editorial board
-          - href: journal/guideline-authors.qmd
-            text: Guideline for authors
-          - href: journal/policies.qmd
-            text: Policies
+      - href: journal/presentation.qmd
+        text: Journal
       - href: contact.qmd
         text: Contact
 
+  sidebar:
+    - title: "MusMat Journal"
+      contents:
+        - href: journal/presentation.qmd
+          text: Presentation
+        - href: journal/issues.qmd
+          text: Issues
+        - href: journal/editorial-board.qmd
+          text: Editorial board
+        - href: journal/guideline-authors.qmd
+          text: Guideline for authors
+        - href: journal/policies.qmd
+          text: Policies
 
   page-footer: " CC BY-NC-ND 4.0 - MusMat Research Group"
   google-analytics: G-35Z643HN3V
