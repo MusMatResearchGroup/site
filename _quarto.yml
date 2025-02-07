@@ -5,6 +5,7 @@ website:
   title: "MusMat Research Group"
   favicon: icon.ico
   navbar:
+    logo: logo.png
     search: true
     background: '#C53713'
     foreground: secondary
