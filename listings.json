@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/news.html",
+    "items": [
+      "/news/new-website-more-2025.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/coordinators/carlos_almada.html",
@@ -8,12 +14,6 @@
       "/people/coordinators/daniel-moreira.html",
       "/people/coordinators/hugo-carvalho.html",
       "/people/coordinators/liduino-pitombeira.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/new-website-more-2025.html"
     ]
   }
 ]
