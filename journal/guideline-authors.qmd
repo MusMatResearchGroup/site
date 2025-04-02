@@ -5,7 +5,7 @@ subtitle: "Guideline for authors"
 
 Authors are invited to submit no more than two contributions electronically to the e-mail [musmatjournal@musmat.org](mailto:musmatjournal@musmat.org), for the following categories:
 
-* **PAPERS**: Peer-reviewed papers, minimum of 10 pages, written exclusively in English, submitted according to the [MusMat LaTeX Template](). The MusMat Journal practices blind review and, therefore, authors should avoid identifying themselves, directly or indirectly. More information about LaTex is available [here](https://www.latex-project.org/). For bibliographical references we adopt a variation of the Chicago style, which guidelines you can find [here](MusMat-bibliography-style.pdf). Authors are responsible for securing permission for reprinting copyrighted material quoted or otherwise used in their work.
+* **PAPERS**: Peer-reviewed papers, minimum of 10 pages, written exclusively in English, submitted according to the [MusMat LaTeX Template](MusMat_template.zip). The MusMat Journal practices blind review and, therefore, authors should avoid identifying themselves, directly or indirectly. More information about LaTex is available [here](https://www.latex-project.org/). For bibliographical references we adopt a variation of the Chicago style, which guidelines you can find [here](MusMat-bibliography-style.pdf). Authors are responsible for securing permission for reprinting copyrighted material quoted or otherwise used in their work.
 
 * **REVIEWS**: Reviews (1500-3000 words) of a single book or paper related to the intersection between music and mathematic (sent in .doc or .docx format).
 
