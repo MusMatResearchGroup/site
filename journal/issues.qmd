@@ -3,6 +3,8 @@ title: "MusMat • Brazilian Journal of Music and Mathematics"
 subtitle: "Issues"
 ---
 
+* [Vol. IX, 2025](v9.qmd)
+
 * [Vol. VIII, 2024](v8.qmd)
 
 * [Vol. VII, 2023](v7.qmd)
