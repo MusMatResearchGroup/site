@@ -1,0 +1,11 @@
+---
+title: "Vol. 9 - 2025"
+subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+---
+
+## Papers
+### Unified musical quantum models for tonal attraction
+**Peter beim Graben, Thomas Noll**
+<p style="text-align: justify;"><strong>Abstract</strong>: Computational models of music cognition generally distinguish between static and dynamic tonal attraction. Starting with the famous Krumhansl-Kessler (KK) pitch class profiles as a particular tonal schema for static attraction, we investigate a one-dimensional quantum system on the continuous line of fifth-width. From a Gaussian mixture model (GMM) fit, we construct its schematic Hamiltonian in the form of a perturbed quantum harmonic oscillator. In the concrete musical application of the C major tonality, we offer a unified approach to static and dynamic tonal attraction as follows. Static attraction is described in terms of the stationary ground state solution of the underlying schematic Schrödinger equation. Dynamic attraction is investigated in terms of the temporal evolution of suitably chosen initial states. As a measure for dynamic attraction among tonal states we calculate the Hilbert space overlaps between the time development of some coherent states of the unperturbed harmonic oscillator in the role of antecedents with some other coherent states in the role of consequents.</p>
+<p style="text-align: left;"><strong>Keywords</strong>: <em> Musical schematism, quantum statistical learning, Gaussian mixture models, tonal attraction, anharmonic quantum oscillator.</em></p>
+[Download paper](/v9/01-beim-Graben-Noll.pdf)
