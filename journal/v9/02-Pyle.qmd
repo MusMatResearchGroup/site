@@ -1,0 +1,10 @@
+---
+title: "Vol. 9 - 2025"
+subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+---
+
+## Generalized Omnibus Progressions: A Mathematical Formalization of Harmonic Progressions Exhibiting Semitonal Contrary Motion and Tertian Sonorities
+**Hayden Pyle**
+<p style="text-align: justify;"><strong>Abstract</strong>: The proposed mathematical framework offers a set-theoretic model of describing semitonal contrary motion found in the omnibus progression in terms of omnibus functions (and their mirrored versions). These functions reveal the novel observation that any generalized omnibus progression will have at least three, but at most six, unique sonorities before an extension occurs. This study examines all four-voice triads and seventh chords built on major/minor thirds in connection with generalized omnibus progressions. An excerpt from the fourth string quartet of Dmitri Klebanov (1907-1987) serves as the primary example, which includes the unusual tertian sonority of augmented-major seventh chords. Finally, this study identifies all the generalized omnibus progressions with tertian sonorities as graphical networks.</p>
+<p style="text-align: left;"><strong>Keywords</strong>: <em> Semitonal contrary motion, tertian harmony, omnibus progression, Dmitri Klebanov.</em></p>
+[Download paper](02-Pyle.pdf)
