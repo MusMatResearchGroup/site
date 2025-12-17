@@ -218,169 +218,110 @@
     ]
   },
   {
-    "objectID": "journal/v4-n1.html",
-    "href": "journal/v4-n1.html",
-    "title": "Vol. IV, No. 1 - June 2020",
+    "objectID": "journal/v9/02-Pyle.html",
+    "href": "journal/v9/02-Pyle.html",
+    "title": "Vol. 9 - 2025",
     "section": "",
-    "text": "Download here\nErrata"
+    "text": "Hayden Pyle\n\nAbstract: The proposed mathematical framework offers a set-theoretic model of describing semitonal contrary motion found in the omnibus progression in terms of omnibus functions (and their mirrored versions). These functions reveal the novel observation that any generalized omnibus progression will have at least three, but at most six, unique sonorities before an extension occurs. This study examines all four-voice triads and seventh chords built on major/minor thirds in connection with generalized omnibus progressions. An excerpt from the fourth string quartet of Dmitri Klebanov (1907-1987) serves as the primary example, which includes the unusual tertian sonority of augmented-major seventh chords. Finally, this study identifies all the generalized omnibus progressions with tertian sonorities as graphical networks.\n\n\nKeywords:  Semitonal contrary motion, tertian harmony, omnibus progression, Dmitri Klebanov.\n\nDownload paper"
   },
   {
-    "objectID": "journal/v4-n1.html#full-edition",
-    "href": "journal/v4-n1.html#full-edition",
-    "title": "Vol. IV, No. 1 - June 2020",
+    "objectID": "journal/v9/02-Pyle.html#generalized-omnibus-progressions-a-mathematical-formalization-of-harmonic-progressions-exhibiting-semitonal-contrary-motion-and-tertian-sonorities",
+    "href": "journal/v9/02-Pyle.html#generalized-omnibus-progressions-a-mathematical-formalization-of-harmonic-progressions-exhibiting-semitonal-contrary-motion-and-tertian-sonorities",
+    "title": "Vol. 9 - 2025",
     "section": "",
-    "text": "Download here\nErrata"
+    "text": "Hayden Pyle\n\nAbstract: The proposed mathematical framework offers a set-theoretic model of describing semitonal contrary motion found in the omnibus progression in terms of omnibus functions (and their mirrored versions). These functions reveal the novel observation that any generalized omnibus progression will have at least three, but at most six, unique sonorities before an extension occurs. This study examines all four-voice triads and seventh chords built on major/minor thirds in connection with generalized omnibus progressions. An excerpt from the fourth string quartet of Dmitri Klebanov (1907-1987) serves as the primary example, which includes the unusual tertian sonority of augmented-major seventh chords. Finally, this study identifies all the generalized omnibus progressions with tertian sonorities as graphical networks.\n\n\nKeywords:  Semitonal contrary motion, tertian harmony, omnibus progression, Dmitri Klebanov.\n\nDownload paper"
   },
   {
-    "objectID": "journal/v4-n1.html#individual-papers",
-    "href": "journal/v4-n1.html#individual-papers",
-    "title": "Vol. IV, No. 1 - June 2020",
-    "section": "Individual papers",
-    "text": "Individual papers\n\nCommon Rhythm as Discrete Derivative of Its Common-Time Meter\nScott Murphy\n\nAbstract: Musicians recognize two important functions over the sixteen points in time, or beat classes, distributed evenly over a common-time measure: metric weight and onset frequency. Existing scholarship acknowledges that these functions are similar but not identical, and researchers tend toward one or the other as a model for metric entrainment. However, if the discrete metric-weight function is converted into a continuous curve, then the two functions strongly correlate: the ordering of each beat class by its backwards discrete derivative on this curve perfectly matches the ordering of each beat class by its onset frequency in a classical corpus.\n\n\nKeywords:  Rhythm. Meter. Calculus. Conducting. Fourier. \n\nDownload paper\n\n\nCompress to Create\nJean-Pierre Briot\n\nAbstract: The current tsunami of deep learning has already conquered new areas, such as the generation of creative content (images, music, text). The motivation is in using the capacity of modern deep learning architectures and associated training and generation techniques to automatically learn styles from arbitrary corpora and then to generate samples from the estimated distribution, with some degree of control over the generation. In this article, we analyze the use of autoencoder architectures and how their ability for compressing information turns out to be an interesting source for generation of music. Autoencoders are good at representation learning, that is at extracting a compressed and abstract representation (a set of latent variables) common to the set of training examples. By choosing various instances of this abstract representation (i.e., by sampling the latent variables), we may efficiently generate various instances within the style which has been learned. Furthermore, we may use various approaches for controlling the generation, such as interpolation, attribute vector arithmetics, recursion, and objective optimization, as will be illustrated by various examples. Before concluding the article, we will discuss some limitations of autoencoders, introduce the concept of variational autoencoders, and briefly compare their respective merits and limitations for generating music.\n\n\nKeywords:  Deep learning. Autoencoder. Latent variables. Music generation. Control. \n\nDownload paper\n\n\nCompositional Systems: Overview and Applications\nLiduino Pitombeira\n\nAbstract: In this paper the theory of compositional systems is described in detail, taking as a starting point the theoretical framework inherent to systems science. The origins of this science and the definitions of its fundamental concepts are provided in the first part of the article, illustrated with musical examples. The central part of the article contains the definition of the concept of compositional system, its typology, and a series of tools that are useful for implementations. Finally, the design of three types of systems (open, semi-open and feedback) are carried out in order to produce small illustrative musical fragments.\n\n\nKeywords:  Compositional Systems. Systems Science. Systemic Modeling. Probability. \n\nDownload paper\n\n\nRhythm and Entropy: The Exile of the Metric in the Dance of Pulsation\nArthur Kampela\n\nAbstract: This essay intends to demonstrate that the very system that codified the rhythmic subdivision subsumed to the metronome’s beat or pulse might offer, through its own mechanisms, a window to its deconstruction and yet, to a new, intrinsic, development. When metric subdivisions occur that are fartheraway from the metronomic beat’s referential, (as when rhythmic deviations by many sub-ratios accumulate underneath a certain rhythmic figure), the performer experiences a cognitive loss in the sense of immediate metronomic adjacency. New ways to perform a certain rhythmic outcome buried within the grounds of complex subdivisions require mechanisms to momentarily suspend the main, overarching, beat, to impose emergent, micro-metronomes. These devices are codifiers of speeds whose regularity opens up terrain for new, rhythmical deviations and sub-ratios. They also allow the performer to negotiate between rhythms that present diverging metric configurations, linking their speeds, through rhythmic bridges. As the performer reaches these bridges, located at a deeper level of rhythmic subdivision, he/she ought to return to the main metronomic surface using the speed managed within these momentary micro-metronomes. Such performative and cognitive inversion, lies at the center of the Micro-Metric Modulation Theory.\n\n\nKeywords:  Micro-Metric Modulation. Ratios and Sub-ratios. Complex Rhythms. Micro Metronomes. Diverging Metric Configurations. Commutative and Associative Properties of Rhythm. \n\nDownload paper\n\n\nScales, Counterpoint Triples and their Groups\nMarianthi Bozabalidou\n\nAbstract: General scale systems are defined to be linearly ordered finite sets of musical objects. Apart from the common pitch scales we may also speak of duration and interval scales, major and minor scale schemes, ancient greek trope scale schemes. The fundamental groups of a scale (clock group and group of rows) are discussed. The principal counterpoint triple of a scale Σ consists of the operators RΣ (Σ-retrograde), TΣ (Σ-transposition) and IΣ (Σ-inversion). The group they generate will be referred to as a counterpoint group of Σ. A wide class of counterpoint triples is presented extending the composition material of n-tone music. Variations of twelve-tone pieces may be derived by applying these triples. Counterpoint spaces (CP-spaces) are reachable left actions of counterpoint groups. Such an action is actually simply transitive. Major and minor chords are defined with respect to a pair (p,q) of natural numbers playing the role of major and minor thirds respectively. It is shown that (p,q)-consonant chords in a CP-space constitute a CP-space as well.\n\n\nKeywords:  Scale. Clock and Row Groups of a Scale. Counterpoint Groups. Counterpoint Spaces. \n\nDownload paper"
-  },
-  {
-    "objectID": "journal/guideline-authors.html",
-    "href": "journal/guideline-authors.html",
+    "objectID": "journal/issues.html",
+    "href": "journal/issues.html",
     "title": "MusMat • Brazilian Journal of Music and Mathematics",
     "section": "",
-    "text": "Authors are invited to submit no more than two contributions electronically to the e-mail musmatjournal@musmat.org, for the following categories:\n\nPAPERS: Peer-reviewed papers, minimum of 10 pages, written exclusively in English, submitted according to the MusMat LaTeX Template. The MusMat Journal practices blind review and, therefore, authors should avoid identifying themselves, directly or indirectly. More information about LaTex is available here. For bibliographical references we adopt a variation of the Chicago style, which guidelines you can find here. Authors are responsible for securing permission for reprinting copyrighted material quoted or otherwise used in their work.\nREVIEWS: Reviews (1500-3000 words) of a single book or paper related to the intersection between music and mathematic (sent in .doc or .docx format).\nMATHMUSIC: Original (not yet published) compositions created using mathematical or computational concepts and/or procedures (in .musicxml along with a PDF), accompanied by program notes (500 words max.), and, if necessary, annotated examples from the score.\nSCRIPTS OR ALGORITHMS: Original and innovative computational scripts, algorithms, or implemented software associated with a musical practical application. Any of them must be accompanied by a text (.doc, .docx, or .rtf) including: a) a full description of the object of study, b) a clear description of its functionalities, and c) examples, if it is the case, of its outputs. In the case of computational software, it must be freely available online.\nTHEOREMS: A new innovative theorem related to the intersection of music and mathematics along with its proof, or a refutation/a new original demonstration of a pre-existing theorem also related to music and mathematics (.doc, .docx, .rtf, or in the LaTeX template aforementioned).",
+    "text": "Vol. IX, 2025\nVol. VIII, 2024\nVol. VII, 2023\nVol. VI, No. 2 - December 2022\nVol. VI, No. 1 - June 2022: Celebrating 10 Years of MusMat Research Group\nVol. V, No. 2 - December 2021\nVol. V, No. 1 - June 2021\nVol. IV, No. 2 - December 2020\nVol. IV, No. 1 - June 2020\nVol. III, No. 2 - December 2019\nVol. III, No. 1 - June 2019\nVol. II, No. 2 - December 2018\nVol. II, No. 1 - May 2018\nVol. I, No. 1 - December 2016",
     "crumbs": [
       "Journal",
-      "Guideline for authors"
+      "Issues"
     ]
   },
   {
-    "objectID": "journal/v8.html",
-    "href": "journal/v8.html",
-    "title": "Vol. 8 - 2024",
+    "objectID": "journal/v5-n2.html",
+    "href": "journal/v5-n2.html",
+    "title": "Vol. V, No. 2 - December 2021",
     "section": "",
-    "text": "Gabriel Picioroaga, Olivia Roberts\n\nAbstract: We apply geometric group theory to study and interpret known concepts from Western music. We show that chords, the circle of fifths, scales and certain aspects of the first species of counterpoint are encoded in the Cayley graph of the group \\(\\mathbb{Z}_{12}\\), generated by 3 and 4. Using \\(\\mathbb{Z}_{12}\\) as a model, we extend the above music concepts to a particular class of groups \\(\\mathbb{Z}_n\\), which displays geometric and algebraic features similar to \\(\\mathbb{Z}_{12}\\). We identify a weaker form of counterpoint which, in particular leads to Fux’s dichotomy in \\(\\mathbb{Z}_{12}\\), and to consonant sets in \\(\\mathbb{Z}_n\\). Using Maple software, we implement these new constructions and show how to experiment with them musically.\n\n\nKeywords:  Cayley graph, finitely generated group, chords, scales, circle of fifths, first species counterpoint. \n\nDownload paper"
+    "text": "Download here"
   },
   {
-    "objectID": "journal/v8.html#papers",
-    "href": "journal/v8.html#papers",
-    "title": "Vol. 8 - 2024",
+    "objectID": "journal/v5-n2.html#full-edition",
+    "href": "journal/v5-n2.html#full-edition",
+    "title": "Vol. V, No. 2 - December 2021",
     "section": "",
-    "text": "Gabriel Picioroaga, Olivia Roberts\n\nAbstract: We apply geometric group theory to study and interpret known concepts from Western music. We show that chords, the circle of fifths, scales and certain aspects of the first species of counterpoint are encoded in the Cayley graph of the group \\(\\mathbb{Z}_{12}\\), generated by 3 and 4. Using \\(\\mathbb{Z}_{12}\\) as a model, we extend the above music concepts to a particular class of groups \\(\\mathbb{Z}_n\\), which displays geometric and algebraic features similar to \\(\\mathbb{Z}_{12}\\). We identify a weaker form of counterpoint which, in particular leads to Fux’s dichotomy in \\(\\mathbb{Z}_{12}\\), and to consonant sets in \\(\\mathbb{Z}_n\\). Using Maple software, we implement these new constructions and show how to experiment with them musically.\n\n\nKeywords:  Cayley graph, finitely generated group, chords, scales, circle of fifths, first species counterpoint. \n\nDownload paper"
+    "text": "Download here"
   },
   {
-    "objectID": "journal/v7.html",
-    "href": "journal/v7.html",
-    "title": "Vol. 7 - 2023",
-    "section": "",
-    "text": "In 2023, the MusMat Journal adopted a rolling publication model. Therefore, there will no longer be a single issue for each year; instead, individual articles will be published as they are accepted."
-  },
-  {
-    "objectID": "journal/v7.html#papers",
-    "href": "journal/v7.html#papers",
-    "title": "Vol. 7 - 2023",
-    "section": "Papers",
-    "text": "Papers\n\nMusic as a Carbon Language: Clarifying Methods, Results, Fresh Data and Perspectives\nGabriel Pareyon\n\nAbstract: From a cross-domain perspective, this article recapitulates fundamental concepts and procedures exposed in the antecedent homonymous paper (MusMat, first issue, 2016: 25–43). Firstly, the methodology used and here improved becomes explicit. An advanced section clarifies aspects that remained obscure in the first article. This theoretical approach falls entirely into the domain of study of the nuclear precession frequencies or Larmor frequencies in the NMR (nuclear magnetic resonance) context, here incorporated to biomusicology. The structure obtained is a freescale geometric set and its generalization interprets the frequencies as a system of harmonically organized patterns. Intermediate findings provide arguments to strengthen the conjecture that the transversality of harmonic phenomena is related to a tendency towards structural self-similarity, without necessarily implying spurious relationships between causation and correlation.\n\n\nKeywords:  Larmor frequencies. Harmony theory. Self-similarity. Scale-free distribution. Biomusicology. \n\nDownload paper"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Name\n    \n      \n    \n  \n  \n    Email\n    \n      \n      \n    \n  \n  \n    Message\n    \n      \n    \n  \n  \n    \n      Send\n    \n  \n  \n    (Powered by Un-static Forms)"
-  },
-  {
-    "objectID": "podcast.html",
-    "href": "podcast.html",
-    "title": "Podcast",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "conferences/2019/2019.html#full-version",
-    "href": "conferences/2019/2019.html#full-version",
-    "title": "4th International Conference on Music and Mathematics and 3rd TeMA Conference",
-    "section": "Full version",
-    "text": "Full version\nDownload Full Version"
-  },
-  {
-    "objectID": "conferences/2019/2019.html#list-of-published-papers",
-    "href": "conferences/2019/2019.html#list-of-published-papers",
-    "title": "4th International Conference on Music and Mathematics and 3rd TeMA Conference",
-    "section": "List of published papers",
-    "text": "List of published papers\nAndré Codeço | Robert Peck  Derivative algebraic description, Intravetorial Analysis and Pitch Circle in the context of the Sonic Domain\nFernando Luiz Cardoso Pereira  Nomenclaturas de gêneros de proporção aritmética, proporcionalidade e operações matemáticas no Cinquecento: Gioseffo Zarlino e a aplicação da teoria clássica na racionalização de intervalos diatônicos\nJulio Herrlein  Teoria dos Conjuntos Rítmicos: algumas aplicações orientadas à música popular\nPedro Miguel de Moraes  O corpo como fator de modelagem da textura pianística\nFrancisco Erivelton Fernandes de Aragão | Liduino Pitombeira  From Stumpf’s Concord to a New Definition of Triad\nCarlos Almada | Max Kühn  Arquétipos de condução de vozes na harmonia de Tom Jobim\nRodrigo Balthar Furman  Generalizando Conjuntos de Classes de Altura em Números\nDaniel Moreira de Sousa  Design Textural: análise textural como ferramenta para a organização composicional\nAlexandre Ferreira  Panorama sobre a utilização de jogos na composição musical\nMarco Feitosa  Aplicações da Teoria Pós-tonal em análise de música popular"
-  },
-  {
-    "objectID": "conferences/2022/2022.html#tuesday-18-oct-22",
-    "href": "conferences/2022/2022.html#tuesday-18-oct-22",
-    "title": "7th International MusMat Conference (MusMat 2022)",
-    "section": "Tuesday, 18 Oct 22",
-    "text": "Tuesday, 18 Oct 22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n2:30 p.m.\nOPENING: MusMat Group and João Vidal (Coordinator of the Graduate Program of Music at UFRJ)\n\n\n3 p.m\nKEYNOTE: Benoît Gibson  (Universidade de Évora)\n\n\n4 p.m.\nROUND-TABLE 1: Stochastic Processes in MusicMikhail Malt  (IRCAM-STMS) - Iannis Xenakis, between Classic and Fuzzy Logic, from Stochastic Processes to CompositionHugo Carvalho (UFRJ) - Path-dependent Markov Chain Modeling Transition between Chord TypesJames Harley (University of Guelph) - Iannis Xenakis: Stochastic Algorithms and Intuition Interventions in the ST WorksModerator: Cecilia Saraiva (UNIRIO)\n\n\n6 p.m. \nLECTURE: Pedro Bittencourt (UFRJ) - Xenakis, a Constant Immigrant.\n\n\n7:30 p.m.\nCONCERT 1: Piano Faculty of the UFRJ School of MusicWorks for Piano based on Stochastic Processes or in the Music of Xenakis\n\n\n\nProgram of Concert 1\n\n\n\nComposer\nPiece and performer\n\n\n\n\nIannis Xenakis\nSix Chansons pour pianoMiriam Grosman\n\n\nCarlos Almada\nJobiniaturasTamara Ujakova\n\n\nLiduino Pitombeira\nTermini (à d.)Maria Di Cavalcanti\n\n\nDaniel Moreira\nZephyrusCristiano Vogas\n\n\nAndrey Cruz\nArchit ToneCristiano Vogas\n\n\nNathan Friedman\nEkklisisCristiano Vogas\n\n\nVinícius Braga\nFuinha lindaTamara Ujakova\n\n\nPedro Faria\nKyttara #3Luciano Magalhães\n\n\nHugo Carvalho\nArnediad DimTamara Ujakova\n\n\nJorge Antunes\nEstudo n. 1Maria Di Cavalcanti\n\n\nIannis Xenakis\nÀ r. (Hommage à Ravel)Maria Di Cavalcanti"
-  },
-  {
-    "objectID": "conferences/2022/2022.html#wednesday-19-oct-22",
-    "href": "conferences/2022/2022.html#wednesday-19-oct-22",
-    "title": "7th International MusMat Conference (MusMat 2022)",
-    "section": "Wednesday, 19 Oct 22",
-    "text": "Wednesday, 19 Oct 22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n12:30 p.m.\nLECTURE: Sharon Kanach and Rodolphe Bourotte (Centre Iannis Xenakis - Université de Rouen)New Applications of some Xenakian Mathematical Principles\n\n\n2 p.m. \nROUND-TABLE 2:  Game Theory and Music Stefanella Boatto  (UFRJ) - Game Theory in Music. A Journey Exploring new Creative PathwaysAlexandre Ferreira  (CBM) - A Discussion on Game Theory and its Applications in MusicBenny Sluchin (IRCAM) - The Evolution of Xenakis’s Use of Game Theory (1959–1972)Moderator: Cecília Saraiva (UNIRIO)\n\n\n4:00 p.m.\nLECTURE: Alessandra Capanna (Sapienza Università di Roma) -  La Cité de la Musique. From the Philips Pavilion at the 1958 Brussels Expo: Evolution and Transformation of Hyperbolic Paraboloids into Polytopes\n\n\n6 p.m. \nCOMPOSERS PANELBruno SoaresFabio de Sanctis de BenedictisPedro FariaVinicius BragaYuri Behr KimizukaCoordinator: Carlos Almada  (UFRJ)\n\n\n7:30 p.m.\nCONCERT 2: Abstrai Ensemble (Pedro Bittencourt (Sax), Ariane Petri (Bassoon), and Batista Júnior (Clarinet)) Works based on Game Theory or in the Music of Xenakis \n\n\n\nProgram of Concert 2\n\n\n\n\n\n\n\nComposer\nPiece and performer\n\n\n\n\nLiduino Pitombeira\nDe profundis (2022)Trio with electronics\n\n\nDaniel Moreira\nIcosian Game (2022)\n\n\nCarlos Almada\nReijkjavik, 1972 (2022)\n\n\nFabio de Sanctis de Benedictis\nPoisson Trio\n\n\nBruno Gageiro\nCorrentes de Acaso\n\n\nPedro Faria\nKyttara #1 (2022)\n\n\nYuri Behr Kimizuka\nÉlan Solo soprano sax with electronics"
-  },
-  {
-    "objectID": "conferences/2022/2022.html#thursday-20-oct-22",
-    "href": "conferences/2022/2022.html#thursday-20-oct-22",
-    "title": "7th International MusMat Conference (MusMat 2022)",
-    "section": "Thursday, 20 oct 22",
-    "text": "Thursday, 20 oct 22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n2 p.m. \nROUND-TABLE 3:  Algebraic Structures  and Analytical-Compositional Processes Mariana Montiel & Brent Milam (Georgia State University) - Mathematics in Compositional Processes: Examples and Analysis in Professional and Student ProductsEmilio Lluis-Puebla (Universidad Nacional Autónoma de México) - Algebraic Structures in Mathematical Music TheoryRobert Peck (LSU) - Interpreting the Choices of Groups in Xenakis’s Symbolic-Music Works Moderator: Daniel Moreira (FAMES)\n\n\n4:00 p.m. \nMUSMAT PANEL I: Post-doctoral Fellows and Students Roberto Macedo, Marco Feitosa , Ana Miccolis, Ariane Petri, Filipe de Matos Rocha, Pedro Zisels, Pedro ProençaModerator: Daniel Moreira (FAMES)\n\n\n5:30 p.m. \nROUND-TABLE 4: Diálogos sobre o tempo Silvio Ferraz (USP) - Vazios de tempo-espaçoCarole Gubernikoff  (UNIRIO) - Representações do Tempo e a MúsicaCarlos Mathias (UFF) - Matemática, Música e o Tempo: entre o exato e o humanoModerator: Liduino Pitombeira (UFRJ)\n\n\n7:30 p.m.\nCONCERT 3: Tiago Calderano Works for percussion solo based on Algebraic Processes or in the music of Xenakis\n\n\n\nProgram of Concert 3\n\n\n\nComposer\nPiece and performer\n\n\n\n\nCarlos Almada\nAssim falou Iannis (2022)\n\n\nJorge Antunes\nPequena Peça Aleatória para Marimba (2022)\n\n\nDaniel Moreira\nX(e)=i-(L.e.a) (2022)\n\n\nPedro Faria\nKyttara #2 (2022)\n\n\nLiduino Pitombeira\nMAREH (2022)\n\n\nIannis Xenakis\nPsappha"
-  },
-  {
-    "objectID": "conferences/2022/2022.html#friday-21-oct-22",
-    "href": "conferences/2022/2022.html#friday-21-oct-22",
-    "title": "7th International MusMat Conference (MusMat 2022)",
-    "section": "Friday, 21 Oct 22",
-    "text": "Friday, 21 Oct 22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n2 p.m. \nROUND-TABLE 5:  Computational Music Danilo Rossetti (UFMT/UNICAMP) - Xenakis’s Synthesis Technique by Stochastic Variations of Atmospheric PressureStéphan Schaub (UNICAMP) - Did You Say “Computational Music”?Moreno Andreatta (Université de Strasbourg)- “Prima la musica!” Some Thoughts on Iannis Xenakis’ Table of Correspondences between the Development of Music and MathematicsModerator: Hugo Carvalho (UFRJ)\n\n\n3:30 p.m.\nMUSMAT PANEL II: Recent Research and ActivitiesCarlos Almada (UFRJ)Carlos Mathias (UFF)Cecilia Saraiva (UNIRIO)Daniel Moreira (FAMES)Hugo Carvalho (UFRJ)Liduino Pitombeira (UFRJ)\n\n\n6 p.m. \nCOMPOSERS PANELCarlos AlmadaDaniel MoreiraHugo CarvalhoLiduino PitombeiraCoordinator: Carlos Mathias (UFF)\n\n\n7:30 p.m.\nCONCERT 4: Bryan Holmes (UNIRIO) - CuratorElectroacoustic Music\n\n\n\nProgram of Concert 4\n\n\n\n\n\n\n\nComposer\nPiece and performer\n\n\n\n\nPanayiotis Kokoras\nAI Phantasy (2020)\n\n\nCarolina Carrizo\nO Tempo Todo (2021)Contrabass flute (Juliana Moreno) and live electronics\n\n\nAlejandro Albornoz\nMawida (2021)\n\n\nTatiana Catanzaro\nIntarsia (2012)Cello adaptation (William Teixeira) and live electronics\n\n\nBryan Holmes\nMiragens (2016)\n\n\nHenrique Vaz\nRuínas de um futuro em desaparecimento (2020)Audiovisual based on performance by Flávia Pinheiro"
-  },
-  {
-    "objectID": "conferences/2018/2018.html#full-version",
-    "href": "conferences/2018/2018.html#full-version",
-    "title": "3th National Conference on Music and Mathematics",
-    "section": "Full version",
-    "text": "Full version\nDownload Full Version"
-  },
-  {
-    "objectID": "conferences/2018/2018.html#list-of-published-papers",
-    "href": "conferences/2018/2018.html#list-of-published-papers",
-    "title": "3th National Conference on Music and Mathematics",
-    "section": "List of published papers",
-    "text": "List of published papers\nMax Kühn Clube da Esquina de Milton Nascimento e Lô Borges: uma abordagem transformacional\nMarcos Feitosa  Do caos à ordem: análise do Prelude op. 44 de Arnold Schoenberg\nMax Kühn, Claudia Usai, Igor Chagas, João Penchel e Carlos Almada  Uma nova abordagem referente à ocorrência de transformações harmônicas em canções de Antônio Carlos Jobim\nRodrigo S. Batalha  Uma perspectiva composicional a partir dos conceitos de time-point e time-spam\nAna Miccolis  A Análise de efeitos com enarmonias na música pós-tonal para harpa\nRoberto Macedo  Simetrias escalares e macro-harmonia no 4º Movimento da Suíte Característica de Roberto Macedo\nRodrigo Balthar Furman Dream Theater: uma proposta de análise estética por padrões matemáticos"
-  },
-  {
-    "objectID": "conferences/2024/2024.html",
-    "href": "conferences/2024/2024.html",
-    "title": "8° Congresso MusMat 2024",
-    "section": "",
-    "text": "Event and information in Portuguese\n\n\n\n\n\n\nPrograma e vídeos\n\n01/10/2024\n\n15:30-17:00  Concerto de Clarones (com obras do MusMat), oficina e roda de conversa com claronistas  Salão Leopoldo Miguez (Escola de Música da UFRJ)  Atividade em conjunto com o II Simpósio Íbero-Americano de Clarinetes Bajos\n\n02/10/2024\n\n09:30 - 11:00  Palestra de abertura  Luiz Wagner Pereira Biscainho (DEL/Poli/COPPE/UFRJ): Aplicando tecnologia à música: processamento de sinais musicais  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n\n\n\n13:00-15:00  Mesa-redonda: Música e tecnologia  Jean-Pierre Briot, Rogério Tavares Constante e Yuri Behr  Moderação: Hugo Carvalho  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n15:00-17:00  Comunicação dos coordenadores  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n\n\n\n\n03/10/2024\n\n10:00-12:00  Mesa-redonda sobre a produção das obras para clarone  Carlos Almada, Daniel Moreira, Hugo Carvalho e Liduino Pitombeira  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n\n\n\n14:00-16:00  Comunicação dos alunos  Ariane Petri, Ana Miccolis, Filipe de Matos Rocha, Gabriel Arnaud, Igor Chagas, Karolayne Pereira Dessabato, Natanael Luciano  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n\n\n\n14:00-16:00  Atividade interna\n\n\n\n\nOrganização\nCOMISSÃO CIENTÍFICA\nCarlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Liduino Pitombeira (UFRJ) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Cecília Saraiva (UNIRIO)\nREALIZAÇÃO\nGrupo de Pesquisa MusMat\nPrograma de Pós-Graduação em Música (UFRJ)\nPrograma de Pós-Graduação em Estatística (UFRJ)\nEscola de Música (UFRJ)\nUniversidade Federal do Rio de Janeiro\nUniversidade Federal Fluminense\nUniversidade Federal do Estado do Rio de Janeiro\nFaculdade de Música do Espírito Santo\nCOMISSÃO ORGANIZADORA\nCarlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Hugo Carvalho (UFRJ) | Liduino Pitombeira (UFRJ) | Carlos Mathias (UFF) | Cecilia Saraiva (UNIRIO)"
-  },
-  {
-    "objectID": "conferences/2017/2017.html#full-version",
-    "href": "conferences/2017/2017.html#full-version",
-    "title": "2th National Conference on Music and Mathematics",
-    "section": "Full version",
-    "text": "Full version\nDownload Full Version"
-  },
-  {
-    "objectID": "conferences/2017/2017.html#individual-papers",
-    "href": "conferences/2017/2017.html#individual-papers",
-    "title": "2th National Conference on Music and Mathematics",
+    "objectID": "journal/v5-n2.html#individual-papers",
+    "href": "journal/v5-n2.html#individual-papers",
+    "title": "Vol. V, No. 2 - December 2021",
     "section": "Individual papers",
-    "text": "Individual papers\nArthur Faraco Aliquid Stat pro Aliquo: Cinco composições com notação textual para instrumentação livre: criação e análise de composições com abertura à improvisação\nCarlos de Lemos Almada, Claudia Usai Gomes, Igor Chagas, João Penchel, and Max Kühn A geometria das relações parcimoniosas em música popular\nLucas Bracher Ecco! - uma linguagem computacional para descrição e estudo de temperamentos musicais\nMarcelo Birck and João Lazzarin  Do uso de tetracordes na concepção de um jogo de análise e composição musical\nMax Kühn, Claudia Usai, Rodrigo Pascale, Liduino Pitombeira, and Pauxy Gentil-Nunes Utilização do aplicativo de operações lineares Oplin como ferramenta de modelagem sistêmica\nDesirée Mayr and Carlos de Lemos Almada Mathematical and Biological Representations in Derivative Analysis\nAndré Codeço dos Santos and Liduino Pitombeira Domínio Sonoro: conceitos e aplicações na análise do III movimento do Op.11, de Webern"
+    "text": "Individual papers\n\nOn First-Species Counterpoint Theory\nJuan Sebastián Arias-Valero, Alberto Agustín-Aquino, and Emilio Lluis-Puebla\n\nAbstract: We generalize first-species counterpoint theory to arbitrary rings and obtain some new counting and maximization results that enrich the theory of admitted successors, pointing to a structural approach, beyond computations. The generalization encompasses an alternative theory of contrapuntal intervals. We also propose several variations of the model that intend to deepen into its principles. The original motivations of the theory, as well as all technical passages, are carefully reviewed so as to provide a complete exposition.\n\n\nKeywords:  Counterpoint. Rings. Modules. Combinatorics. \n\nDownload paper\n\n\nPrime Decomposition Encoding: An Analytical Tool by the Use of Arithmetic Mapping of Drum-Set Timelines\nCarlos Mathias and Carlos Almada\n\nAbstract: This paper introduces an original proposal intended to encode timelines as univocal integers, by the use of arithmetic mapping, exploring inherent properties of prime numbers. A group of algorithms were developed in order to encode drum-set timelines (as well as to retrieve the original rhythms from the codes), either individually or taken together, forming grooves. Additional parameters (dynamic levels and timbre) are also included in the encoding process. Geometrical representation of the grooves, adopting terminology and methodology proposed by Gottfried Toussaint (2013), is also provided. Some practical application, addressing analysis and composition, are suggested at the last section of the study.\n\n\nKeywords:  Fundamental Theorem of Arithmetic. Prime encoding of rhythms. Drum-set timelines. Geometrical representation of rhythms. \n\nDownload paper\n\n\nFeathered Beams\nPaul Lombardi\n\nAbstract: In music, durations are quantized to subdivisions of time in the form of fractions of the inverse powers of 2 (e.g., 1/20, 1/21, 1/22, etc.). All durations that are not involved in tuplets can be represented by sums of these fractions. The gradual transition from one note duration to another through a specified number of intermediate note values requires an accelerando/ritardando beam (i.e., feathered beam). This notation, however, does not indicate exactly how the gradual transition through the intermediate note values is to occur. The various details may be so contradictory that feathered beams may be impossible to realize. Thus, the notation is inherently indeterminate, although it is not often regarded as such. This paper examines these concepts and combines rhythmic nomenclature with a graphing system to deconstruct feathered beams using examples from George Crumb’s Night Music I.\n\n\nKeywords:  Feathered Beams. Accelerando/ritardando Beam. Duration. Rhythm. Graph. George Crumb. \n\nDownload paper\n\n\nToward a Probabilistic Fourier Analysis on Audio Signals\nHugo Tremonte de Carvalho\n\nAbstract: In audio signal processing there are several tools employed to perform time-frequency analysis, being the spectrogram one of the most widely used. In a nutshell, it can be understood as a visual representation of the frequency content of an audio signal as it varies with time. Here we propose a probabilistic alternative to the spectrogram, which can be roughly interpreted as the most likely frequency to be present within an audio signal, also along time. This will be achieved by computing a specific posterior distribution in a Bayesian context. Preliminary experiments indicating the suitability of this object are presented, and potential applications to audio signal processing are outlined.\n\n\nKeywords:  Audio Signal Processing. Statistical Signal Processing. Bayesian Inference. Fourier Analysis. Spectrogram. \n\nDownload paper\n\n\nGestural Presheaves: From Yoneda to Sheaves\nJuan Sebastián Arias-Valero and Emilio Lluis-Puebla\n\nAbstract: We study gestural presheaves in the language of abstract gestures and, in particular, a general gestural version of the Yoneda embedding, based on a Mazzola’s idea, and gestural sheaves. We apply the latter to Mozart and Beethoven.\n\n\nKeywords:  Gestures. Melodic contour. Category theory. Yoneda lemma. Sheaves. \n\nDownload paper"
   },
   {
-    "objectID": "conferences/2020/2020.html#full-version",
-    "href": "conferences/2020/2020.html#full-version",
-    "title": "5th International Conference on Music and Mathematics (MusMat 2020)",
+    "objectID": "journal/v5-n2.html#interview-with-severine-neff",
+    "href": "journal/v5-n2.html#interview-with-severine-neff",
+    "title": "Vol. V, No. 2 - December 2021",
+    "section": "Interview with Severine Neff",
+    "text": "Interview with Severine Neff\nDownload here"
+  },
+  {
+    "objectID": "journal/v9.html",
+    "href": "journal/v9.html",
+    "title": "Vol. 9 - 2025",
+    "section": "",
+    "text": "Peter beim Graben, Thomas Noll\nAbstract and paper\n\n\n\nHayden Pyle\nAbstract and paper\n\n\n\nScott Murphy\nAbstract and paper"
+  },
+  {
+    "objectID": "journal/v9.html#papers",
+    "href": "journal/v9.html#papers",
+    "title": "Vol. 9 - 2025",
+    "section": "",
+    "text": "Peter beim Graben, Thomas Noll\nAbstract and paper\n\n\n\nHayden Pyle\nAbstract and paper\n\n\n\nScott Murphy\nAbstract and paper"
+  },
+  {
+    "objectID": "journal/presentation.html",
+    "href": "journal/presentation.html",
+    "title": "MusMat • Brazilian Journal of Music and Mathematics",
+    "section": "",
+    "text": "MusMat • Brazilian Journal of Music and Mathematics, ISSN 2526-3757, is an annual publication organized and edited by the MusMat Research Group and published by Graduate Program in Music of the Federal University of Rio de Janeiro (PPGM UFRJ). The journal brings together articles, interviews, reviews, scripts and theorems, musical scores, and news on the interaction between music and mathematics applied in musical analysis and composition. It is an open-access journal, published in English, exclusively online publication, and operating on a rolling publication basis, where articles are published as they are received.",
+    "crumbs": [
+      "Journal",
+      "Presentation"
+    ]
+  },
+  {
+    "objectID": "news/new-website-more-2025.html",
+    "href": "news/new-website-more-2025.html",
+    "title": "MusMat in 2025: New Website, Updates, and More!",
+    "section": "",
+    "text": "The MusMat Research Group kicks off 2025 with exciting news! Our website has a fresh new look, offering a smoother and more intuitive navigation experience. We’ve also added a search tool (the magnifying glass in the upper right corner) to help users easily find content on the page.\nIf you have published a paper with us in MusMat • Brazilian Journal of Music and Mathematics, we have maintained the same URLs as the previous website. This means that even after the migration, links redirecting to articles, including DOIs, will continue to work perfectly.\nFinally, two last announcements: we are working on migrating the journal to the OJS platform, streamlining and professionalizing the submission, review, and publication processes; and the second season of the MusMat Podcast (in Portuguese) is now live! We are currently on a short break due to academic holidays, but new episodes will be coming soon. You can check out the new episodes on our YouTube channel or on Spotify.\nSee you soon!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Group on Music and Mathematics",
+    "section": "",
+    "text": "MusMat Research Group was founded in 2013 in the Graduate Program in Music of UFRJ, in order to develop research within the formalization of musical processes (compositional and analytical) using mathematical models. By the present time the group have participation of teachers, students and external members, accumulating an expressive number of publications, artistic and technical productions. The group has also participated in several conferences outside the country and today maintains intensive dialogue with national and international community interested in the interaction between music and mathematics."
+  },
+  {
+    "objectID": "conferences/2016/2016.html#full-version",
+    "href": "conferences/2016/2016.html#full-version",
+    "title": "1st National Conference on Music and Mathematics",
     "section": "Full version",
     "text": "Full version\nDownload Full Version"
   },
   {
-    "objectID": "conferences/2020/2020.html#individual-papers",
-    "href": "conferences/2020/2020.html#individual-papers",
-    "title": "5th International Conference on Music and Mathematics (MusMat 2020)",
+    "objectID": "conferences/2016/2016.html#individual-papers",
+    "href": "conferences/2016/2016.html#individual-papers",
+    "title": "1st National Conference on Music and Mathematics",
     "section": "Individual papers",
-    "text": "Individual papers\nO cuboctaedro como instrumento de análise e visualização do espaço musical em Coltrane e Berg  Dennis Carvalho\nLogistic Maps for Illogic Music  José Fornari\nTernarização de estruturas binárias e modulação métrica aplicadas a uma reelaboração com elementos jazzísticos da peça Lamentos do morro, de Garoto  Ricardo de Almeida Gonçalves\nThe Fourier phase sphere: a method for computer-assisted atonal composition  Samuel Pereira & Gilberto Bernardes"
+    "text": "Individual papers\nCarlos De Lemos Almada Análise de Germinata III, para flauta, fagote e piano\nCiro Visconti and Paulo De Tarso Salles As funções da simetria nos grafos de tétrades da teoria neoriemanniana\nDaniel Moreira De Sousa Variação progressiva textural: planejamento composicional da obra Sagração de um Fauno na Primavera\nFábio Adour Transformação de discurso verbal em musical: um relato composicional\nGabriel Rimoldi, Ivan E. Y. Simurra, and Adriano Claro Monteiro O uso de descritores acústicos como ferramenta na análise, criação e performance musical\nGean Pierre and Oscar Abdounur A racionalidade matemática na música de Villa-Lobos\nLiduino Pitombeira Planejamento composicional do segundo movimento de Patrono Quieto a partir da modelagem sistêmica do Ponteio Nº 4 de Camargo Guarnieri\nNicolás Andrés Espinoza Santibáñez and Luiz Wagner Pereira Biscainho Harmonização musical automática: tendências em inteligência computacional\nPauxy Gentil-Nunes and Bernardo Ramos Complexos particionais\nSilvio Moreira Barbosa Jr. O Teorema de não Redundância Intervalar"
   },
   {
     "objectID": "conferences/2021/2021.html#day-1-18-oct-2021",
@@ -432,96 +373,197 @@
     "text": "Individual papers\nDesvendando o enigma derivativo: uma aplicação do Modelo De Análise Derivativa de Carlos Almada  Ana Miccolis, Ariane Petri, Luiz Stellfeld Monteiro, Max Kühn e Pedro Zisels\nAnálise intravetorial: breve revisão e relações gráficas em operações de substituição André Codeço dos Santos\nRosemary Brown’s “New Scale” and the Property K Érico Bomfim e Carlos Almada\nUma implementação eficiente em Python de um algoritmo de separação de fontes sonoras Natanael Luciano de Matos e Hugo Tremonte de Carvalho\nAnálise dos materiais melódicos da canção Gute Nacht a partir do Modelo de Análise Derivativa de Carlos Almada Luiz Stellfeld Monteiro\nGame of Tones: A Simple Schoenbergian Serial Music-Making Model José Fornari\nHauer Tropes as Clockface Diagrams: Dialogs among Forte, Carter and Ŝedivý Julio Herrlein\nSerial Keeper: um audiogame simples de rememoração de padrões atonais Leonardo Porto Passos e José Fornari\nO Modelo de Análise Derivativa aplicado ao planejamento composicional com uma Grundgestalt a partir de Pluft, o Fantasminha de Tom Jobim Ana Miccolis\nOrí Odára: Investigação acerca dos Materiais Composicionais da Obra e a Dualidade entre Ritmos e Alturas Luiz Stellfeld Monteiro\nUma proposta de tridimensionalidade aos pontos de distorção no contexto da teoria do domínio sonoro André Codeço dos Santos\nAn Intervallic Approach to Tone Rows: SerialGen, a Twelve-Tone Row Generator Marco Feitosa, Raphael Sousa Santos e Luan Simões Cardoso\nInteractions between Derivative Teleology and Form in Dušan Bogdanović’s Study I Ricardo de Almeida Gonçalves"
   },
   {
-    "objectID": "conferences/2016/2016.html#full-version",
-    "href": "conferences/2016/2016.html#full-version",
-    "title": "1st National Conference on Music and Mathematics",
+    "objectID": "conferences/2020/2020.html#full-version",
+    "href": "conferences/2020/2020.html#full-version",
+    "title": "5th International Conference on Music and Mathematics (MusMat 2020)",
     "section": "Full version",
     "text": "Full version\nDownload Full Version"
   },
   {
-    "objectID": "conferences/2016/2016.html#individual-papers",
-    "href": "conferences/2016/2016.html#individual-papers",
-    "title": "1st National Conference on Music and Mathematics",
+    "objectID": "conferences/2020/2020.html#individual-papers",
+    "href": "conferences/2020/2020.html#individual-papers",
+    "title": "5th International Conference on Music and Mathematics (MusMat 2020)",
     "section": "Individual papers",
-    "text": "Individual papers\nCarlos De Lemos Almada Análise de Germinata III, para flauta, fagote e piano\nCiro Visconti and Paulo De Tarso Salles As funções da simetria nos grafos de tétrades da teoria neoriemanniana\nDaniel Moreira De Sousa Variação progressiva textural: planejamento composicional da obra Sagração de um Fauno na Primavera\nFábio Adour Transformação de discurso verbal em musical: um relato composicional\nGabriel Rimoldi, Ivan E. Y. Simurra, and Adriano Claro Monteiro O uso de descritores acústicos como ferramenta na análise, criação e performance musical\nGean Pierre and Oscar Abdounur A racionalidade matemática na música de Villa-Lobos\nLiduino Pitombeira Planejamento composicional do segundo movimento de Patrono Quieto a partir da modelagem sistêmica do Ponteio Nº 4 de Camargo Guarnieri\nNicolás Andrés Espinoza Santibáñez and Luiz Wagner Pereira Biscainho Harmonização musical automática: tendências em inteligência computacional\nPauxy Gentil-Nunes and Bernardo Ramos Complexos particionais\nSilvio Moreira Barbosa Jr. O Teorema de não Redundância Intervalar"
+    "text": "Individual papers\nO cuboctaedro como instrumento de análise e visualização do espaço musical em Coltrane e Berg  Dennis Carvalho\nLogistic Maps for Illogic Music  José Fornari\nTernarização de estruturas binárias e modulação métrica aplicadas a uma reelaboração com elementos jazzísticos da peça Lamentos do morro, de Garoto  Ricardo de Almeida Gonçalves\nThe Fourier phase sphere: a method for computer-assisted atonal composition  Samuel Pereira & Gilberto Bernardes"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Research Group on Music and Mathematics",
+    "objectID": "conferences/2017/2017.html#full-version",
+    "href": "conferences/2017/2017.html#full-version",
+    "title": "2th National Conference on Music and Mathematics",
+    "section": "Full version",
+    "text": "Full version\nDownload Full Version"
+  },
+  {
+    "objectID": "conferences/2017/2017.html#individual-papers",
+    "href": "conferences/2017/2017.html#individual-papers",
+    "title": "2th National Conference on Music and Mathematics",
+    "section": "Individual papers",
+    "text": "Individual papers\nArthur Faraco Aliquid Stat pro Aliquo: Cinco composições com notação textual para instrumentação livre: criação e análise de composições com abertura à improvisação\nCarlos de Lemos Almada, Claudia Usai Gomes, Igor Chagas, João Penchel, and Max Kühn A geometria das relações parcimoniosas em música popular\nLucas Bracher Ecco! - uma linguagem computacional para descrição e estudo de temperamentos musicais\nMarcelo Birck and João Lazzarin  Do uso de tetracordes na concepção de um jogo de análise e composição musical\nMax Kühn, Claudia Usai, Rodrigo Pascale, Liduino Pitombeira, and Pauxy Gentil-Nunes Utilização do aplicativo de operações lineares Oplin como ferramenta de modelagem sistêmica\nDesirée Mayr and Carlos de Lemos Almada Mathematical and Biological Representations in Derivative Analysis\nAndré Codeço dos Santos and Liduino Pitombeira Domínio Sonoro: conceitos e aplicações na análise do III movimento do Op.11, de Webern"
+  },
+  {
+    "objectID": "conferences/2024/2024.html",
+    "href": "conferences/2024/2024.html",
+    "title": "8° Congresso MusMat 2024",
     "section": "",
-    "text": "MusMat Research Group was founded in 2013 in the Graduate Program in Music of UFRJ, in order to develop research within the formalization of musical processes (compositional and analytical) using mathematical models. By the present time the group have participation of teachers, students and external members, accumulating an expressive number of publications, artistic and technical productions. The group has also participated in several conferences outside the country and today maintains intensive dialogue with national and international community interested in the interaction between music and mathematics."
+    "text": "Event and information in Portuguese\n\n\n\n\n\n\nPrograma e vídeos\n\n01/10/2024\n\n15:30-17:00  Concerto de Clarones (com obras do MusMat), oficina e roda de conversa com claronistas  Salão Leopoldo Miguez (Escola de Música da UFRJ)  Atividade em conjunto com o II Simpósio Íbero-Americano de Clarinetes Bajos\n\n02/10/2024\n\n09:30 - 11:00  Palestra de abertura  Luiz Wagner Pereira Biscainho (DEL/Poli/COPPE/UFRJ): Aplicando tecnologia à música: processamento de sinais musicais  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n\n\n\n13:00-15:00  Mesa-redonda: Música e tecnologia  Jean-Pierre Briot, Rogério Tavares Constante e Yuri Behr  Moderação: Hugo Carvalho  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n15:00-17:00  Comunicação dos coordenadores  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n\n\n\n\n03/10/2024\n\n10:00-12:00  Mesa-redonda sobre a produção das obras para clarone  Carlos Almada, Daniel Moreira, Hugo Carvalho e Liduino Pitombeira  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n\n\n\n14:00-16:00  Comunicação dos alunos  Ariane Petri, Ana Miccolis, Filipe de Matos Rocha, Gabriel Arnaud, Igor Chagas, Karolayne Pereira Dessabato, Natanael Luciano  Sala 2116, Ed. Ventura, torre Leste (Escola de Música da UFRJ)\n\n\n\n\n14:00-16:00  Atividade interna\n\n\n\n\nOrganização\nCOMISSÃO CIENTÍFICA\nCarlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Liduino Pitombeira (UFRJ) | Hugo Carvalho (UFRJ) | Carlos Mathias (UFF) | Cecília Saraiva (UNIRIO)\nREALIZAÇÃO\nGrupo de Pesquisa MusMat\nPrograma de Pós-Graduação em Música (UFRJ)\nPrograma de Pós-Graduação em Estatística (UFRJ)\nEscola de Música (UFRJ)\nUniversidade Federal do Rio de Janeiro\nUniversidade Federal Fluminense\nUniversidade Federal do Estado do Rio de Janeiro\nFaculdade de Música do Espírito Santo\nCOMISSÃO ORGANIZADORA\nCarlos Almada (UFRJ) | Daniel Moreira de Sousa (FAMES) | Hugo Carvalho (UFRJ) | Liduino Pitombeira (UFRJ) | Carlos Mathias (UFF) | Cecilia Saraiva (UNIRIO)"
   },
   {
-    "objectID": "news/new-website-more-2025.html",
-    "href": "news/new-website-more-2025.html",
-    "title": "MusMat in 2025: New Website, Updates, and More!",
+    "objectID": "conferences/2018/2018.html#full-version",
+    "href": "conferences/2018/2018.html#full-version",
+    "title": "3th National Conference on Music and Mathematics",
+    "section": "Full version",
+    "text": "Full version\nDownload Full Version"
+  },
+  {
+    "objectID": "conferences/2018/2018.html#list-of-published-papers",
+    "href": "conferences/2018/2018.html#list-of-published-papers",
+    "title": "3th National Conference on Music and Mathematics",
+    "section": "List of published papers",
+    "text": "List of published papers\nMax Kühn Clube da Esquina de Milton Nascimento e Lô Borges: uma abordagem transformacional\nMarcos Feitosa  Do caos à ordem: análise do Prelude op. 44 de Arnold Schoenberg\nMax Kühn, Claudia Usai, Igor Chagas, João Penchel e Carlos Almada  Uma nova abordagem referente à ocorrência de transformações harmônicas em canções de Antônio Carlos Jobim\nRodrigo S. Batalha  Uma perspectiva composicional a partir dos conceitos de time-point e time-spam\nAna Miccolis  A Análise de efeitos com enarmonias na música pós-tonal para harpa\nRoberto Macedo  Simetrias escalares e macro-harmonia no 4º Movimento da Suíte Característica de Roberto Macedo\nRodrigo Balthar Furman Dream Theater: uma proposta de análise estética por padrões matemáticos"
+  },
+  {
+    "objectID": "conferences/2022/2022.html#tuesday-18-oct-22",
+    "href": "conferences/2022/2022.html#tuesday-18-oct-22",
+    "title": "7th International MusMat Conference (MusMat 2022)",
+    "section": "Tuesday, 18 Oct 22",
+    "text": "Tuesday, 18 Oct 22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n2:30 p.m.\nOPENING: MusMat Group and João Vidal (Coordinator of the Graduate Program of Music at UFRJ)\n\n\n3 p.m\nKEYNOTE: Benoît Gibson  (Universidade de Évora)\n\n\n4 p.m.\nROUND-TABLE 1: Stochastic Processes in MusicMikhail Malt  (IRCAM-STMS) - Iannis Xenakis, between Classic and Fuzzy Logic, from Stochastic Processes to CompositionHugo Carvalho (UFRJ) - Path-dependent Markov Chain Modeling Transition between Chord TypesJames Harley (University of Guelph) - Iannis Xenakis: Stochastic Algorithms and Intuition Interventions in the ST WorksModerator: Cecilia Saraiva (UNIRIO)\n\n\n6 p.m. \nLECTURE: Pedro Bittencourt (UFRJ) - Xenakis, a Constant Immigrant.\n\n\n7:30 p.m.\nCONCERT 1: Piano Faculty of the UFRJ School of MusicWorks for Piano based on Stochastic Processes or in the Music of Xenakis\n\n\n\nProgram of Concert 1\n\n\n\nComposer\nPiece and performer\n\n\n\n\nIannis Xenakis\nSix Chansons pour pianoMiriam Grosman\n\n\nCarlos Almada\nJobiniaturasTamara Ujakova\n\n\nLiduino Pitombeira\nTermini (à d.)Maria Di Cavalcanti\n\n\nDaniel Moreira\nZephyrusCristiano Vogas\n\n\nAndrey Cruz\nArchit ToneCristiano Vogas\n\n\nNathan Friedman\nEkklisisCristiano Vogas\n\n\nVinícius Braga\nFuinha lindaTamara Ujakova\n\n\nPedro Faria\nKyttara #3Luciano Magalhães\n\n\nHugo Carvalho\nArnediad DimTamara Ujakova\n\n\nJorge Antunes\nEstudo n. 1Maria Di Cavalcanti\n\n\nIannis Xenakis\nÀ r. (Hommage à Ravel)Maria Di Cavalcanti"
+  },
+  {
+    "objectID": "conferences/2022/2022.html#wednesday-19-oct-22",
+    "href": "conferences/2022/2022.html#wednesday-19-oct-22",
+    "title": "7th International MusMat Conference (MusMat 2022)",
+    "section": "Wednesday, 19 Oct 22",
+    "text": "Wednesday, 19 Oct 22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n12:30 p.m.\nLECTURE: Sharon Kanach and Rodolphe Bourotte (Centre Iannis Xenakis - Université de Rouen)New Applications of some Xenakian Mathematical Principles\n\n\n2 p.m. \nROUND-TABLE 2:  Game Theory and Music Stefanella Boatto  (UFRJ) - Game Theory in Music. A Journey Exploring new Creative PathwaysAlexandre Ferreira  (CBM) - A Discussion on Game Theory and its Applications in MusicBenny Sluchin (IRCAM) - The Evolution of Xenakis’s Use of Game Theory (1959–1972)Moderator: Cecília Saraiva (UNIRIO)\n\n\n4:00 p.m.\nLECTURE: Alessandra Capanna (Sapienza Università di Roma) -  La Cité de la Musique. From the Philips Pavilion at the 1958 Brussels Expo: Evolution and Transformation of Hyperbolic Paraboloids into Polytopes\n\n\n6 p.m. \nCOMPOSERS PANELBruno SoaresFabio de Sanctis de BenedictisPedro FariaVinicius BragaYuri Behr KimizukaCoordinator: Carlos Almada  (UFRJ)\n\n\n7:30 p.m.\nCONCERT 2: Abstrai Ensemble (Pedro Bittencourt (Sax), Ariane Petri (Bassoon), and Batista Júnior (Clarinet)) Works based on Game Theory or in the Music of Xenakis \n\n\n\nProgram of Concert 2\n\n\n\n\n\n\n\nComposer\nPiece and performer\n\n\n\n\nLiduino Pitombeira\nDe profundis (2022)Trio with electronics\n\n\nDaniel Moreira\nIcosian Game (2022)\n\n\nCarlos Almada\nReijkjavik, 1972 (2022)\n\n\nFabio de Sanctis de Benedictis\nPoisson Trio\n\n\nBruno Gageiro\nCorrentes de Acaso\n\n\nPedro Faria\nKyttara #1 (2022)\n\n\nYuri Behr Kimizuka\nÉlan Solo soprano sax with electronics"
+  },
+  {
+    "objectID": "conferences/2022/2022.html#thursday-20-oct-22",
+    "href": "conferences/2022/2022.html#thursday-20-oct-22",
+    "title": "7th International MusMat Conference (MusMat 2022)",
+    "section": "Thursday, 20 oct 22",
+    "text": "Thursday, 20 oct 22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n2 p.m. \nROUND-TABLE 3:  Algebraic Structures  and Analytical-Compositional Processes Mariana Montiel & Brent Milam (Georgia State University) - Mathematics in Compositional Processes: Examples and Analysis in Professional and Student ProductsEmilio Lluis-Puebla (Universidad Nacional Autónoma de México) - Algebraic Structures in Mathematical Music TheoryRobert Peck (LSU) - Interpreting the Choices of Groups in Xenakis’s Symbolic-Music Works Moderator: Daniel Moreira (FAMES)\n\n\n4:00 p.m. \nMUSMAT PANEL I: Post-doctoral Fellows and Students Roberto Macedo, Marco Feitosa , Ana Miccolis, Ariane Petri, Filipe de Matos Rocha, Pedro Zisels, Pedro ProençaModerator: Daniel Moreira (FAMES)\n\n\n5:30 p.m. \nROUND-TABLE 4: Diálogos sobre o tempo Silvio Ferraz (USP) - Vazios de tempo-espaçoCarole Gubernikoff  (UNIRIO) - Representações do Tempo e a MúsicaCarlos Mathias (UFF) - Matemática, Música e o Tempo: entre o exato e o humanoModerator: Liduino Pitombeira (UFRJ)\n\n\n7:30 p.m.\nCONCERT 3: Tiago Calderano Works for percussion solo based on Algebraic Processes or in the music of Xenakis\n\n\n\nProgram of Concert 3\n\n\n\nComposer\nPiece and performer\n\n\n\n\nCarlos Almada\nAssim falou Iannis (2022)\n\n\nJorge Antunes\nPequena Peça Aleatória para Marimba (2022)\n\n\nDaniel Moreira\nX(e)=i-(L.e.a) (2022)\n\n\nPedro Faria\nKyttara #2 (2022)\n\n\nLiduino Pitombeira\nMAREH (2022)\n\n\nIannis Xenakis\nPsappha"
+  },
+  {
+    "objectID": "conferences/2022/2022.html#friday-21-oct-22",
+    "href": "conferences/2022/2022.html#friday-21-oct-22",
+    "title": "7th International MusMat Conference (MusMat 2022)",
+    "section": "Friday, 21 Oct 22",
+    "text": "Friday, 21 Oct 22\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n2 p.m. \nROUND-TABLE 5:  Computational Music Danilo Rossetti (UFMT/UNICAMP) - Xenakis’s Synthesis Technique by Stochastic Variations of Atmospheric PressureStéphan Schaub (UNICAMP) - Did You Say “Computational Music”?Moreno Andreatta (Université de Strasbourg)- “Prima la musica!” Some Thoughts on Iannis Xenakis’ Table of Correspondences between the Development of Music and MathematicsModerator: Hugo Carvalho (UFRJ)\n\n\n3:30 p.m.\nMUSMAT PANEL II: Recent Research and ActivitiesCarlos Almada (UFRJ)Carlos Mathias (UFF)Cecilia Saraiva (UNIRIO)Daniel Moreira (FAMES)Hugo Carvalho (UFRJ)Liduino Pitombeira (UFRJ)\n\n\n6 p.m. \nCOMPOSERS PANELCarlos AlmadaDaniel MoreiraHugo CarvalhoLiduino PitombeiraCoordinator: Carlos Mathias (UFF)\n\n\n7:30 p.m.\nCONCERT 4: Bryan Holmes (UNIRIO) - CuratorElectroacoustic Music\n\n\n\nProgram of Concert 4\n\n\n\n\n\n\n\nComposer\nPiece and performer\n\n\n\n\nPanayiotis Kokoras\nAI Phantasy (2020)\n\n\nCarolina Carrizo\nO Tempo Todo (2021)Contrabass flute (Juliana Moreno) and live electronics\n\n\nAlejandro Albornoz\nMawida (2021)\n\n\nTatiana Catanzaro\nIntarsia (2012)Cello adaptation (William Teixeira) and live electronics\n\n\nBryan Holmes\nMiragens (2016)\n\n\nHenrique Vaz\nRuínas de um futuro em desaparecimento (2020)Audiovisual based on performance by Flávia Pinheiro"
+  },
+  {
+    "objectID": "conferences/2019/2019.html#full-version",
+    "href": "conferences/2019/2019.html#full-version",
+    "title": "4th International Conference on Music and Mathematics and 3rd TeMA Conference",
+    "section": "Full version",
+    "text": "Full version\nDownload Full Version"
+  },
+  {
+    "objectID": "conferences/2019/2019.html#list-of-published-papers",
+    "href": "conferences/2019/2019.html#list-of-published-papers",
+    "title": "4th International Conference on Music and Mathematics and 3rd TeMA Conference",
+    "section": "List of published papers",
+    "text": "List of published papers\nAndré Codeço | Robert Peck  Derivative algebraic description, Intravetorial Analysis and Pitch Circle in the context of the Sonic Domain\nFernando Luiz Cardoso Pereira  Nomenclaturas de gêneros de proporção aritmética, proporcionalidade e operações matemáticas no Cinquecento: Gioseffo Zarlino e a aplicação da teoria clássica na racionalização de intervalos diatônicos\nJulio Herrlein  Teoria dos Conjuntos Rítmicos: algumas aplicações orientadas à música popular\nPedro Miguel de Moraes  O corpo como fator de modelagem da textura pianística\nFrancisco Erivelton Fernandes de Aragão | Liduino Pitombeira  From Stumpf’s Concord to a New Definition of Triad\nCarlos Almada | Max Kühn  Arquétipos de condução de vozes na harmonia de Tom Jobim\nRodrigo Balthar Furman  Generalizando Conjuntos de Classes de Altura em Números\nDaniel Moreira de Sousa  Design Textural: análise textural como ferramenta para a organização composicional\nAlexandre Ferreira  Panorama sobre a utilização de jogos na composição musical\nMarco Feitosa  Aplicações da Teoria Pós-tonal em análise de música popular"
+  },
+  {
+    "objectID": "podcast.html",
+    "href": "podcast.html",
+    "title": "Podcast",
     "section": "",
-    "text": "The MusMat Research Group kicks off 2025 with exciting news! Our website has a fresh new look, offering a smoother and more intuitive navigation experience. We’ve also added a search tool (the magnifying glass in the upper right corner) to help users easily find content on the page.\nIf you have published a paper with us in MusMat • Brazilian Journal of Music and Mathematics, we have maintained the same URLs as the previous website. This means that even after the migration, links redirecting to articles, including DOIs, will continue to work perfectly.\nFinally, two last announcements: we are working on migrating the journal to the OJS platform, streamlining and professionalizing the submission, review, and publication processes; and the second season of the MusMat Podcast (in Portuguese) is now live! We are currently on a short break due to academic holidays, but new episodes will be coming soon. You can check out the new episodes on our YouTube channel or on Spotify.\nSee you soon!"
+    "text": "About this site"
   },
   {
-    "objectID": "journal/presentation.html",
-    "href": "journal/presentation.html",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Name\n    \n      \n    \n  \n  \n    Email\n    \n      \n      \n    \n  \n  \n    Message\n    \n      \n    \n  \n  \n    \n      Send\n    \n  \n  \n    (Powered by Un-static Forms)"
+  },
+  {
+    "objectID": "journal/v7.html",
+    "href": "journal/v7.html",
+    "title": "Vol. 7 - 2023",
+    "section": "",
+    "text": "In 2023, the MusMat Journal adopted a rolling publication model. Therefore, there will no longer be a single issue for each year; instead, individual articles will be published as they are accepted."
+  },
+  {
+    "objectID": "journal/v7.html#papers",
+    "href": "journal/v7.html#papers",
+    "title": "Vol. 7 - 2023",
+    "section": "Papers",
+    "text": "Papers\n\nMusic as a Carbon Language: Clarifying Methods, Results, Fresh Data and Perspectives\nGabriel Pareyon\n\nAbstract: From a cross-domain perspective, this article recapitulates fundamental concepts and procedures exposed in the antecedent homonymous paper (MusMat, first issue, 2016: 25–43). Firstly, the methodology used and here improved becomes explicit. An advanced section clarifies aspects that remained obscure in the first article. This theoretical approach falls entirely into the domain of study of the nuclear precession frequencies or Larmor frequencies in the NMR (nuclear magnetic resonance) context, here incorporated to biomusicology. The structure obtained is a freescale geometric set and its generalization interprets the frequencies as a system of harmonically organized patterns. Intermediate findings provide arguments to strengthen the conjecture that the transversality of harmonic phenomena is related to a tendency towards structural self-similarity, without necessarily implying spurious relationships between causation and correlation.\n\n\nKeywords:  Larmor frequencies. Harmony theory. Self-similarity. Scale-free distribution. Biomusicology. \n\nDownload paper"
+  },
+  {
+    "objectID": "journal/v8.html",
+    "href": "journal/v8.html",
+    "title": "Vol. 8 - 2024",
+    "section": "",
+    "text": "Gabriel Picioroaga, Olivia Roberts\n\nAbstract: We apply geometric group theory to study and interpret known concepts from Western music. We show that chords, the circle of fifths, scales and certain aspects of the first species of counterpoint are encoded in the Cayley graph of the group \\(\\mathbb{Z}_{12}\\), generated by 3 and 4. Using \\(\\mathbb{Z}_{12}\\) as a model, we extend the above music concepts to a particular class of groups \\(\\mathbb{Z}_n\\), which displays geometric and algebraic features similar to \\(\\mathbb{Z}_{12}\\). We identify a weaker form of counterpoint which, in particular leads to Fux’s dichotomy in \\(\\mathbb{Z}_{12}\\), and to consonant sets in \\(\\mathbb{Z}_n\\). Using Maple software, we implement these new constructions and show how to experiment with them musically.\n\n\nKeywords:  Cayley graph, finitely generated group, chords, scales, circle of fifths, first species counterpoint. \n\nDownload paper"
+  },
+  {
+    "objectID": "journal/v8.html#papers",
+    "href": "journal/v8.html#papers",
+    "title": "Vol. 8 - 2024",
+    "section": "",
+    "text": "Gabriel Picioroaga, Olivia Roberts\n\nAbstract: We apply geometric group theory to study and interpret known concepts from Western music. We show that chords, the circle of fifths, scales and certain aspects of the first species of counterpoint are encoded in the Cayley graph of the group \\(\\mathbb{Z}_{12}\\), generated by 3 and 4. Using \\(\\mathbb{Z}_{12}\\) as a model, we extend the above music concepts to a particular class of groups \\(\\mathbb{Z}_n\\), which displays geometric and algebraic features similar to \\(\\mathbb{Z}_{12}\\). We identify a weaker form of counterpoint which, in particular leads to Fux’s dichotomy in \\(\\mathbb{Z}_{12}\\), and to consonant sets in \\(\\mathbb{Z}_n\\). Using Maple software, we implement these new constructions and show how to experiment with them musically.\n\n\nKeywords:  Cayley graph, finitely generated group, chords, scales, circle of fifths, first species counterpoint. \n\nDownload paper"
+  },
+  {
+    "objectID": "journal/guideline-authors.html",
+    "href": "journal/guideline-authors.html",
     "title": "MusMat • Brazilian Journal of Music and Mathematics",
     "section": "",
-    "text": "MusMat • Brazilian Journal of Music and Mathematics, ISSN 2526-3757, is an annual publication organized and edited by the MusMat Research Group and published by Graduate Program in Music of the Federal University of Rio de Janeiro (PPGM UFRJ). The journal brings together articles, interviews, reviews, scripts and theorems, musical scores, and news on the interaction between music and mathematics applied in musical analysis and composition. It is an open-access journal, published in English, exclusively online publication, and operating on a rolling publication basis, where articles are published as they are received.",
+    "text": "Authors are invited to submit no more than two contributions electronically to the e-mail musmatjournal@musmat.org, for the following categories:\n\nPAPERS: Peer-reviewed papers, minimum of 10 pages, written exclusively in English, submitted according to the MusMat LaTeX Template. The MusMat Journal practices blind review and, therefore, authors should avoid identifying themselves, directly or indirectly. More information about LaTex is available here. For bibliographical references we adopt a variation of the Chicago style, which guidelines you can find here. Authors are responsible for securing permission for reprinting copyrighted material quoted or otherwise used in their work.\nREVIEWS: Reviews (1500-3000 words) of a single book or paper related to the intersection between music and mathematic (sent in .doc or .docx format).\nMATHMUSIC: Original (not yet published) compositions created using mathematical or computational concepts and/or procedures (in .musicxml along with a PDF), accompanied by program notes (500 words max.), and, if necessary, annotated examples from the score.\nSCRIPTS OR ALGORITHMS: Original and innovative computational scripts, algorithms, or implemented software associated with a musical practical application. Any of them must be accompanied by a text (.doc, .docx, or .rtf) including: a) a full description of the object of study, b) a clear description of its functionalities, and c) examples, if it is the case, of its outputs. In the case of computational software, it must be freely available online.\nTHEOREMS: A new innovative theorem related to the intersection of music and mathematics along with its proof, or a refutation/a new original demonstration of a pre-existing theorem also related to music and mathematics (.doc, .docx, .rtf, or in the LaTeX template aforementioned).",
     "crumbs": [
       "Journal",
-      "Presentation"
+      "Guideline for authors"
     ]
   },
   {
-    "objectID": "journal/v9.html",
-    "href": "journal/v9.html",
+    "objectID": "journal/v4-n1.html",
+    "href": "journal/v4-n1.html",
+    "title": "Vol. IV, No. 1 - June 2020",
+    "section": "",
+    "text": "Download here\nErrata"
+  },
+  {
+    "objectID": "journal/v4-n1.html#full-edition",
+    "href": "journal/v4-n1.html#full-edition",
+    "title": "Vol. IV, No. 1 - June 2020",
+    "section": "",
+    "text": "Download here\nErrata"
+  },
+  {
+    "objectID": "journal/v4-n1.html#individual-papers",
+    "href": "journal/v4-n1.html#individual-papers",
+    "title": "Vol. IV, No. 1 - June 2020",
+    "section": "Individual papers",
+    "text": "Individual papers\n\nCommon Rhythm as Discrete Derivative of Its Common-Time Meter\nScott Murphy\n\nAbstract: Musicians recognize two important functions over the sixteen points in time, or beat classes, distributed evenly over a common-time measure: metric weight and onset frequency. Existing scholarship acknowledges that these functions are similar but not identical, and researchers tend toward one or the other as a model for metric entrainment. However, if the discrete metric-weight function is converted into a continuous curve, then the two functions strongly correlate: the ordering of each beat class by its backwards discrete derivative on this curve perfectly matches the ordering of each beat class by its onset frequency in a classical corpus.\n\n\nKeywords:  Rhythm. Meter. Calculus. Conducting. Fourier. \n\nDownload paper\n\n\nCompress to Create\nJean-Pierre Briot\n\nAbstract: The current tsunami of deep learning has already conquered new areas, such as the generation of creative content (images, music, text). The motivation is in using the capacity of modern deep learning architectures and associated training and generation techniques to automatically learn styles from arbitrary corpora and then to generate samples from the estimated distribution, with some degree of control over the generation. In this article, we analyze the use of autoencoder architectures and how their ability for compressing information turns out to be an interesting source for generation of music. Autoencoders are good at representation learning, that is at extracting a compressed and abstract representation (a set of latent variables) common to the set of training examples. By choosing various instances of this abstract representation (i.e., by sampling the latent variables), we may efficiently generate various instances within the style which has been learned. Furthermore, we may use various approaches for controlling the generation, such as interpolation, attribute vector arithmetics, recursion, and objective optimization, as will be illustrated by various examples. Before concluding the article, we will discuss some limitations of autoencoders, introduce the concept of variational autoencoders, and briefly compare their respective merits and limitations for generating music.\n\n\nKeywords:  Deep learning. Autoencoder. Latent variables. Music generation. Control. \n\nDownload paper\n\n\nCompositional Systems: Overview and Applications\nLiduino Pitombeira\n\nAbstract: In this paper the theory of compositional systems is described in detail, taking as a starting point the theoretical framework inherent to systems science. The origins of this science and the definitions of its fundamental concepts are provided in the first part of the article, illustrated with musical examples. The central part of the article contains the definition of the concept of compositional system, its typology, and a series of tools that are useful for implementations. Finally, the design of three types of systems (open, semi-open and feedback) are carried out in order to produce small illustrative musical fragments.\n\n\nKeywords:  Compositional Systems. Systems Science. Systemic Modeling. Probability. \n\nDownload paper\n\n\nRhythm and Entropy: The Exile of the Metric in the Dance of Pulsation\nArthur Kampela\n\nAbstract: This essay intends to demonstrate that the very system that codified the rhythmic subdivision subsumed to the metronome’s beat or pulse might offer, through its own mechanisms, a window to its deconstruction and yet, to a new, intrinsic, development. When metric subdivisions occur that are fartheraway from the metronomic beat’s referential, (as when rhythmic deviations by many sub-ratios accumulate underneath a certain rhythmic figure), the performer experiences a cognitive loss in the sense of immediate metronomic adjacency. New ways to perform a certain rhythmic outcome buried within the grounds of complex subdivisions require mechanisms to momentarily suspend the main, overarching, beat, to impose emergent, micro-metronomes. These devices are codifiers of speeds whose regularity opens up terrain for new, rhythmical deviations and sub-ratios. They also allow the performer to negotiate between rhythms that present diverging metric configurations, linking their speeds, through rhythmic bridges. As the performer reaches these bridges, located at a deeper level of rhythmic subdivision, he/she ought to return to the main metronomic surface using the speed managed within these momentary micro-metronomes. Such performative and cognitive inversion, lies at the center of the Micro-Metric Modulation Theory.\n\n\nKeywords:  Micro-Metric Modulation. Ratios and Sub-ratios. Complex Rhythms. Micro Metronomes. Diverging Metric Configurations. Commutative and Associative Properties of Rhythm. \n\nDownload paper\n\n\nScales, Counterpoint Triples and their Groups\nMarianthi Bozabalidou\n\nAbstract: General scale systems are defined to be linearly ordered finite sets of musical objects. Apart from the common pitch scales we may also speak of duration and interval scales, major and minor scale schemes, ancient greek trope scale schemes. The fundamental groups of a scale (clock group and group of rows) are discussed. The principal counterpoint triple of a scale Σ consists of the operators RΣ (Σ-retrograde), TΣ (Σ-transposition) and IΣ (Σ-inversion). The group they generate will be referred to as a counterpoint group of Σ. A wide class of counterpoint triples is presented extending the composition material of n-tone music. Variations of twelve-tone pieces may be derived by applying these triples. Counterpoint spaces (CP-spaces) are reachable left actions of counterpoint groups. Such an action is actually simply transitive. Major and minor chords are defined with respect to a pair (p,q) of natural numbers playing the role of major and minor thirds respectively. It is shown that (p,q)-consonant chords in a CP-space constitute a CP-space as well.\n\n\nKeywords:  Scale. Clock and Row Groups of a Scale. Counterpoint Groups. Counterpoint Spaces. \n\nDownload paper"
+  },
+  {
+    "objectID": "journal/v9/03-Murphy.html",
+    "href": "journal/v9/03-Murphy.html",
+    "title": "Vol. 9 - 2025",
+    "section": "",
+    "text": "Scott Murphy\n\nAbstract: Richard Cohn and Dmitri Tymoczko have explored how certain chords, already endowed with a “first nature” characterized by an acoustic consonance relatively high for the chord’s size, also possess a “second nature” that permits them to voice lead relatively smoothly to their pitch-class transpositions using contrary motion. I propose a “third nature” enjoyed by some chords that also enables smooth contrary motion to their pitch-class transpositions, but adds step inertia, harmonic variety, and the virtue of “going somewhere” to the list of compositional achievements. This perspective on a chord’s “third nature” facilitates both a codification and generalization of the long version of the familiar omnibus progression, as demonstrated through analyses of music by Nikolai Medtner, Ferdinand Ries, Giuseppe Verdi, and especially Dmitri Klebanov, and the composition of a passage in the style of an etude by György Ligeti.\n\n\nKeywords:  Harmonic consonance, voice leading smoothness, chordal evenness, omnibus progression, Klebanov.\n\nDownload paper"
+  },
+  {
+    "objectID": "journal/v9/03-Murphy.html#a-chords-third-nature-and-how-it-models-and-generalizes-omnibus-progressions",
+    "href": "journal/v9/03-Murphy.html#a-chords-third-nature-and-how-it-models-and-generalizes-omnibus-progressions",
+    "title": "Vol. 9 - 2025",
+    "section": "",
+    "text": "Scott Murphy\n\nAbstract: Richard Cohn and Dmitri Tymoczko have explored how certain chords, already endowed with a “first nature” characterized by an acoustic consonance relatively high for the chord’s size, also possess a “second nature” that permits them to voice lead relatively smoothly to their pitch-class transpositions using contrary motion. I propose a “third nature” enjoyed by some chords that also enables smooth contrary motion to their pitch-class transpositions, but adds step inertia, harmonic variety, and the virtue of “going somewhere” to the list of compositional achievements. This perspective on a chord’s “third nature” facilitates both a codification and generalization of the long version of the familiar omnibus progression, as demonstrated through analyses of music by Nikolai Medtner, Ferdinand Ries, Giuseppe Verdi, and especially Dmitri Klebanov, and the composition of a passage in the style of an etude by György Ligeti.\n\n\nKeywords:  Harmonic consonance, voice leading smoothness, chordal evenness, omnibus progression, Klebanov.\n\nDownload paper"
+  },
+  {
+    "objectID": "journal/v9/01-beim-Graben-Noll.html",
+    "href": "journal/v9/01-beim-Graben-Noll.html",
     "title": "Vol. 9 - 2025",
     "section": "",
     "text": "Peter beim Graben, Thomas Noll\n\nAbstract: Computational models of music cognition generally distinguish between static and dynamic tonal attraction. Starting with the famous Krumhansl-Kessler (KK) pitch class profiles as a particular tonal schema for static attraction, we investigate a one-dimensional quantum system on the continuous line of fifth-width. From a Gaussian mixture model (GMM) fit, we construct its schematic Hamiltonian in the form of a perturbed quantum harmonic oscillator. In the concrete musical application of the C major tonality, we offer a unified approach to static and dynamic tonal attraction as follows. Static attraction is described in terms of the stationary ground state solution of the underlying schematic Schrödinger equation. Dynamic attraction is investigated in terms of the temporal evolution of suitably chosen initial states. As a measure for dynamic attraction among tonal states we calculate the Hilbert space overlaps between the time development of some coherent states of the unperturbed harmonic oscillator in the role of antecedents with some other coherent states in the role of consequents.\n\n\nKeywords:  Musical schematism, quantum statistical learning, Gaussian mixture models, tonal attraction, anharmonic quantum oscillator.\n\nDownload paper"
   },
   {
-    "objectID": "journal/v9.html#papers",
-    "href": "journal/v9.html#papers",
+    "objectID": "journal/v9/01-beim-Graben-Noll.html#unified-musical-quantum-models-for-tonal-attraction",
+    "href": "journal/v9/01-beim-Graben-Noll.html#unified-musical-quantum-models-for-tonal-attraction",
     "title": "Vol. 9 - 2025",
     "section": "",
     "text": "Peter beim Graben, Thomas Noll\n\nAbstract: Computational models of music cognition generally distinguish between static and dynamic tonal attraction. Starting with the famous Krumhansl-Kessler (KK) pitch class profiles as a particular tonal schema for static attraction, we investigate a one-dimensional quantum system on the continuous line of fifth-width. From a Gaussian mixture model (GMM) fit, we construct its schematic Hamiltonian in the form of a perturbed quantum harmonic oscillator. In the concrete musical application of the C major tonality, we offer a unified approach to static and dynamic tonal attraction as follows. Static attraction is described in terms of the stationary ground state solution of the underlying schematic Schrödinger equation. Dynamic attraction is investigated in terms of the temporal evolution of suitably chosen initial states. As a measure for dynamic attraction among tonal states we calculate the Hilbert space overlaps between the time development of some coherent states of the unperturbed harmonic oscillator in the role of antecedents with some other coherent states in the role of consequents.\n\n\nKeywords:  Musical schematism, quantum statistical learning, Gaussian mixture models, tonal attraction, anharmonic quantum oscillator.\n\nDownload paper"
-  },
-  {
-    "objectID": "journal/v5-n2.html",
-    "href": "journal/v5-n2.html",
-    "title": "Vol. V, No. 2 - December 2021",
-    "section": "",
-    "text": "Download here"
-  },
-  {
-    "objectID": "journal/v5-n2.html#full-edition",
-    "href": "journal/v5-n2.html#full-edition",
-    "title": "Vol. V, No. 2 - December 2021",
-    "section": "",
-    "text": "Download here"
-  },
-  {
-    "objectID": "journal/v5-n2.html#individual-papers",
-    "href": "journal/v5-n2.html#individual-papers",
-    "title": "Vol. V, No. 2 - December 2021",
-    "section": "Individual papers",
-    "text": "Individual papers\n\nOn First-Species Counterpoint Theory\nJuan Sebastián Arias-Valero, Alberto Agustín-Aquino, and Emilio Lluis-Puebla\n\nAbstract: We generalize first-species counterpoint theory to arbitrary rings and obtain some new counting and maximization results that enrich the theory of admitted successors, pointing to a structural approach, beyond computations. The generalization encompasses an alternative theory of contrapuntal intervals. We also propose several variations of the model that intend to deepen into its principles. The original motivations of the theory, as well as all technical passages, are carefully reviewed so as to provide a complete exposition.\n\n\nKeywords:  Counterpoint. Rings. Modules. Combinatorics. \n\nDownload paper\n\n\nPrime Decomposition Encoding: An Analytical Tool by the Use of Arithmetic Mapping of Drum-Set Timelines\nCarlos Mathias and Carlos Almada\n\nAbstract: This paper introduces an original proposal intended to encode timelines as univocal integers, by the use of arithmetic mapping, exploring inherent properties of prime numbers. A group of algorithms were developed in order to encode drum-set timelines (as well as to retrieve the original rhythms from the codes), either individually or taken together, forming grooves. Additional parameters (dynamic levels and timbre) are also included in the encoding process. Geometrical representation of the grooves, adopting terminology and methodology proposed by Gottfried Toussaint (2013), is also provided. Some practical application, addressing analysis and composition, are suggested at the last section of the study.\n\n\nKeywords:  Fundamental Theorem of Arithmetic. Prime encoding of rhythms. Drum-set timelines. Geometrical representation of rhythms. \n\nDownload paper\n\n\nFeathered Beams\nPaul Lombardi\n\nAbstract: In music, durations are quantized to subdivisions of time in the form of fractions of the inverse powers of 2 (e.g., 1/20, 1/21, 1/22, etc.). All durations that are not involved in tuplets can be represented by sums of these fractions. The gradual transition from one note duration to another through a specified number of intermediate note values requires an accelerando/ritardando beam (i.e., feathered beam). This notation, however, does not indicate exactly how the gradual transition through the intermediate note values is to occur. The various details may be so contradictory that feathered beams may be impossible to realize. Thus, the notation is inherently indeterminate, although it is not often regarded as such. This paper examines these concepts and combines rhythmic nomenclature with a graphing system to deconstruct feathered beams using examples from George Crumb’s Night Music I.\n\n\nKeywords:  Feathered Beams. Accelerando/ritardando Beam. Duration. Rhythm. Graph. George Crumb. \n\nDownload paper\n\n\nToward a Probabilistic Fourier Analysis on Audio Signals\nHugo Tremonte de Carvalho\n\nAbstract: In audio signal processing there are several tools employed to perform time-frequency analysis, being the spectrogram one of the most widely used. In a nutshell, it can be understood as a visual representation of the frequency content of an audio signal as it varies with time. Here we propose a probabilistic alternative to the spectrogram, which can be roughly interpreted as the most likely frequency to be present within an audio signal, also along time. This will be achieved by computing a specific posterior distribution in a Bayesian context. Preliminary experiments indicating the suitability of this object are presented, and potential applications to audio signal processing are outlined.\n\n\nKeywords:  Audio Signal Processing. Statistical Signal Processing. Bayesian Inference. Fourier Analysis. Spectrogram. \n\nDownload paper\n\n\nGestural Presheaves: From Yoneda to Sheaves\nJuan Sebastián Arias-Valero and Emilio Lluis-Puebla\n\nAbstract: We study gestural presheaves in the language of abstract gestures and, in particular, a general gestural version of the Yoneda embedding, based on a Mazzola’s idea, and gestural sheaves. We apply the latter to Mozart and Beethoven.\n\n\nKeywords:  Gestures. Melodic contour. Category theory. Yoneda lemma. Sheaves. \n\nDownload paper"
-  },
-  {
-    "objectID": "journal/v5-n2.html#interview-with-severine-neff",
-    "href": "journal/v5-n2.html#interview-with-severine-neff",
-    "title": "Vol. V, No. 2 - December 2021",
-    "section": "Interview with Severine Neff",
-    "text": "Interview with Severine Neff\nDownload here"
-  },
-  {
-    "objectID": "journal/issues.html",
-    "href": "journal/issues.html",
-    "title": "MusMat • Brazilian Journal of Music and Mathematics",
-    "section": "",
-    "text": "Vol. IX, 2025\nVol. VIII, 2024\nVol. VII, 2023\nVol. VI, No. 2 - December 2022\nVol. VI, No. 1 - June 2022: Celebrating 10 Years of MusMat Research Group\nVol. V, No. 2 - December 2021\nVol. V, No. 1 - June 2021\nVol. IV, No. 2 - December 2020\nVol. IV, No. 1 - June 2020\nVol. III, No. 2 - December 2019\nVol. III, No. 1 - June 2019\nVol. II, No. 2 - December 2018\nVol. II, No. 1 - May 2018\nVol. I, No. 1 - December 2016",
-    "crumbs": [
-      "Journal",
-      "Issues"
-    ]
   },
   {
     "objectID": "journal/v3-n1.html",
