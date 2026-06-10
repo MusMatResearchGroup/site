@@ -1,0 +1,11 @@
+---
+title: "Vol. 10 - 2026"
+subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+---
+
+## Non-Ptolemaic Nature of Musical Space
+**Fabrizio Morlando**
+<p style="text-align: justify;"><strong>Abstract</strong>: This study constructs a discrete voice-leading orbifold for 12-TET, providing quantitative tools parallel to continuous manifold model developed by Tymoczko. The Ptolemaic inequality proves pitch-class and voice-leading spaces globally non-Ptolemaic, confirming intrinsic musical curvature incompatible with Euclidean embedding. Tonal-to-atonal shift emerges as geometric exploration from local Euclidean regions (diatonicism) to global non-Euclidean harmony (chromaticism).</p>
+
+<p style="text-align: left;"><strong>Keywords</strong>: <em> Voice-leading. Cayley graph. Ptolemaic inequality. Schoenberg embeddability.</em></p>
+[Download paper](01-Morlando.pdf)
