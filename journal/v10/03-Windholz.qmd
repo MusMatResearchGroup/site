@@ -1,0 +1,11 @@
+---
+title: "Vol. 10 - 2026"
+subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
+---
+
+## Harmonic patterns in Brazilian choro: a data-driven comparison with Western classical and Anglophone popular music
+**Mauro Orsini Windholz, David R. W. Sears, Fabian C. Moss**
+<p style="text-align: justify;"><strong>Abstract</strong>: Data-driven research on different harmonic styles has increased substantially since the early 2000s. However, such studies have largely focused on one style at a time, while also rarely addressing styles from the Global South. Sears and Forrest (2021) present a method for comparing Western classical and Anglophone popular harmonic styles based on large corpora of Roman numeral annotations,  ranking both the conventional and characteristic chord progressions of each style at formal boundaries. The present study addresses the lack of representation of styles from the Global South by reproducing Sears and Forrest's methodology with the inclusion of Brazilian choro. Our results suggest that choro harmony, even if largely tonal and tertian, exhibits unique chord progressions at formal boundaries relative to the other two styles, such as iv -- iiø -- i, characteristic use of the "minor 2 -- 5 -- 1", as well as a much higher incidence of applied dominants. At the same time, certain tri-grams seem roughly equally present in all three styles, such as vi -- V7 -- I, potentially revealing tonal harmonic patterns that have more cross-stylistic applicability. These results advance our knowledge of how a previously under-studied genre deploys unique vocabularies of tonal chord progressions in comparison to more studied styles, increasing our understanding of how tonal harmony develops in different parts of the world, while also contributing to diversifying corpus studies.</p>
+
+<p style="text-align: left;"><strong>Keywords</strong>: <em> Brazilian music. Choro. Harmony. Information theory. Music corpus studies.</em></p>
+[Download paper](03-Windholz.pdf)

@@ -8,3 +8,13 @@ subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
 **Fabrizio Morlando**
 
 [Abstract and paper](v10/01-Morlando.qmd)
+
+### Generation of Chord Progressions using Guided Markov Chains
+**Steven Berger**
+
+[Abstract and paper](v10/02-Berger.qmd)
+
+### Harmonic patterns in Brazilian choro: a data-driven comparison with Western classical and Anglophone popular music
+**Mauro Orsini Windholz, David R. W. Sears, Fabian C. Moss**
+
+[Abstract and paper](v10/03-Windholz.qmd)
