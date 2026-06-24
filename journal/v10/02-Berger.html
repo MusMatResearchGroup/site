@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Carlos Almada – MusMat Research Group</title>
+<title>Vol. 10 - 2026 – MusMat Research Group</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -38,6 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -84,7 +85,7 @@ gtag('config', 'G-35Z643HN3V', { 'anonymize_ip': true});
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -186,42 +187,48 @@ gtag('config', 'G-35Z643HN3V', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#generation-of-chord-progressions-using-guided-markov-chains" id="toc-generation-of-chord-progressions-using-guided-markov-chains" class="nav-link active" data-scroll-target="#generation-of-chord-progressions-using-guided-markov-chains">Generation of Chord Progressions using Guided Markov Chains</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-jolla">
-  <img src="carlos-almada.jpeg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Carlos Almada</h1>
-<p class="subtitle lead">Coordinator</p>
+<h1 class="title">Vol. 10 - 2026</h1>
+<p class="subtitle lead">MusMat • Brazilian Journal of Music and Mathematics</p>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><div id="person-profile">
-</div> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="http://lattes.cnpq.br/2224575369930012" class="about-link" rel="" target="">
-    <i class="bi bi-file-earmark-text"></i>
-     <span class="about-link-text">vitae</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=Zj0rs0YAAAAJ&amp;hl=pt-BR" class="about-link" rel="" target="">
-    <i class="bi bi-mortarboard"></i>
-     <span class="about-link-text">scholar</span>
-  </a>
-</div>
-</div>
+  
 
-<section id="biography" class="level2">
-<h2 data-anchor-id="biography">Biography</h2>
-<p>Carlos Almada is a composer, associate professor at the UFRJ School of Music and, since 2011, a permanent member of the Graduate Program in Music at the same institution. Master and PhD in Music from UNIRIO, with theoretical-analytical research regarding Schoenberg’s First Chamber Symphony op.9. Researcher with participation in dozens of international national congresses and articles published in scientific journals, with his main research interests focused on musical variation and systematic studies in popular music. Author of the books Arranjo (2001), A Estrutura do Choro (2006), Harmonia Functional (2009), Contraponto em Música Popular (2013), Nas Fronteiras da Tonalidade (2016), A Harmonia de Jobim (2022), A Melody de Jobim (2023) and Musical Variation: Toward a Transformational Perspective (2023). He is a member of the Brazilian Association of Theory and Analysis TeMA, editor-in-chief of the journal MusMat: Brazilian Journal of Music and Mathematics, leader of the MusMat research group and coordinator (together with Hugo Carvalho) of the <a href="https://projetompb.com.br/">MPB Project</a>.</p>
 
+</header>
+
+
+<section id="generation-of-chord-progressions-using-guided-markov-chains" class="level2">
+<h2 class="anchored" data-anchor-id="generation-of-chord-progressions-using-guided-markov-chains">Generation of Chord Progressions using Guided Markov Chains</h2>
+<strong>Steven Berger</strong>
+<p style="text-align: justify;">
+<strong>Abstract</strong>: In this paper, we study the generation of tonal chord progressions in the style of J.S. Bach chorales. While much of the previous research on stochastic music generation has employed Hidden Markov Models or Neural Networks, we introduce guided Markov chains (GMC) as a method for generating tonal chord progressions. The GMC model constructs an initial base chord progression by restricting the state space of allowable chords at each time step based on composer-specified information about the harmonic function of the next chord. Unlike standard Markov Chains, GMCs give composers local control over the structure and sound of the progression without requiring explicit specification of individual chords. Although knowledge of harmonic functions is well established in music theory, most existing stochastic models must learn this structure from data. We demonstrate that GMC models increase the likelihood of observing chord sequences consistent with the Baroque style relative to a standard Markov Chain and also provide comparisons of cumulative log-likelihoods between GMC and hidden Markov models. Additionally, we prove the Typical Set Cardinality Reduction Theorem and introduce two confidence intervals: a Monte Carlo confidence interval to quantify the difference in standard Markov chain and guided Markov chain entropy for finite-length chord sequences, and a permutation-based confidence interval to assess the statistical significance of a specific harmonic guide ordering. We also outline an extension for incorporating chord inversions.
+</p>
+<p style="text-align: left;">
+<strong>Keywords</strong>: <em> Markov chains. Entropy. Hidden Markov models. Typical sets.</em>
+</p>
+<p><a href="02-Berger.pdf">Download paper</a></p>
 
 
 </section>
@@ -229,6 +236,13 @@ gtag('config', 'G-35Z643HN3V', { 'anonymize_ip': true});
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
