@@ -14,6 +14,13 @@
     "text": "No matching items"
   },
   {
+    "objectID": "people.html#collaborators",
+    "href": "people.html#collaborators",
+    "title": "MusMat Research Group",
+    "section": "Collaborators",
+    "text": "Collaborators\n\n\n\n\n\n\n\n\n\n\nRogério Constante\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "conferences/2020/2020.html#full-version",
     "href": "conferences/2020/2020.html#full-version",
     "title": "5th International Conference on Music and Mathematics (MusMat 2020)",
@@ -411,6 +418,13 @@
     "text": "Biography\nCarlos Almada is a composer, associate professor at the UFRJ School of Music and, since 2011, a permanent member of the Graduate Program in Music at the same institution. Master and PhD in Music from UNIRIO, with theoretical-analytical research regarding Schoenberg’s First Chamber Symphony op.9. Researcher with participation in dozens of international national congresses and articles published in scientific journals, with his main research interests focused on musical variation and systematic studies in popular music. Author of the books Arranjo (2001), A Estrutura do Choro (2006), Harmonia Functional (2009), Contraponto em Música Popular (2013), Nas Fronteiras da Tonalidade (2016), A Harmonia de Jobim (2022), A Melody de Jobim (2023) and Musical Variation: Toward a Transformational Perspective (2023). He is a member of the Brazilian Association of Theory and Analysis TeMA, editor-in-chief of the journal MusMat: Brazilian Journal of Music and Mathematics, leader of the MusMat research group and coordinator (together with Hugo Carvalho) of the MPB Project."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Name\n    \n      \n    \n  \n  \n    Email\n    \n      \n      \n    \n  \n  \n    Message\n    \n      \n    \n  \n  \n    \n      Send\n    \n  \n  \n    (Powered by Un-static Forms)"
+  },
+  {
     "objectID": "musmat-journal/index.html",
     "href": "musmat-journal/index.html",
     "title": "Redirecting…",
@@ -418,11 +432,25 @@
     "text": "If you are not redirected, click here."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "people/collaborators/rogerio_constante.html",
+    "href": "people/collaborators/rogerio_constante.html",
+    "title": "Rogério Constante",
     "section": "",
-    "text": "Name\n    \n      \n    \n  \n  \n    Email\n    \n      \n      \n    \n  \n  \n    Message\n    \n      \n    \n  \n  \n    \n      Send\n    \n  \n  \n    (Powered by Un-static Forms)"
+    "text": "vitae\n  \n  \n    \n     NuMC\n  \n  \n    \n     videos\n  \n  \n    \n     github"
+  },
+  {
+    "objectID": "people/collaborators/rogerio_constante.html#biography",
+    "href": "people/collaborators/rogerio_constante.html#biography",
+    "title": "Rogério Constante",
+    "section": "Biography",
+    "text": "Biography\nRogério Tavares Constante is a composer, guitarist, researcher, and university professor. He earned his Bachelor’s degree in Music (1997), Master’s degree (2000), and Ph.D. in Music (2006) from the Federal University of Rio Grande do Sul (UFRGS), and completed a postdoctoral fellowship at the Koellreutter Foundation, affiliated with the Federal University of São João del-Rei (UFSJ). He is currently Associate Professor in the Department of Composition at the School of Music of the Federal University of Rio de Janeiro (UFRJ) and a collaborating faculty member in the Graduate Program in Music at UFSJ. From 2005 to 2023, he taught at the Federal University of Pelotas (UFPel), where he was also a member of the Núcleo de Música Contemporânea (NuMC). His artistic and scholarly work focuses on contemporary music composition, computer music, counterpoint, music analysis, performance, and composition pedagogy. His research explores the integration of compositional processes and computational technologies, with particular emphasis on developing software for computer-assisted composition and for teaching music theory, harmony, and counterpoint. He is the author of several software applications and MuseScore plugins designed to support musical creation, research, and music education. As a composer, his catalog encompasses works for a wide range of instrumental, electroacoustic, and mixed ensembles, many of which emerge from research on compositional processes, composer–performer collaboration, and technological mediation. His works have been presented at festivals, conferences, and concerts in Brazil and abroad, and are featured in scholarly publications and commercial recordings. He currently coordinates the research project Processos compositivos no desenvolvimento e utilização de um software interpolador de materiais musicais and the outreach project Polifonia: o contraponto na música latino-americana, dedicated, respectively, to research in computer-assisted composition and to the dissemination of Latin American polyphonic repertoire. He is also a collaborating researcher with the MusMat Research Group and a member of the Contemporary Music Workshop Research Group (GPOMC/LaMuT/UFRJ), contributing to the project Musical Frontiers: An International Collaboration for Research in Artificial Intelligence Applied to Music, which focuses on the development of benchmarks for audio understanding and audio generation models.His work brings together musical creation, artistic research, and technological innovation, with a particular emphasis on the use of computational tools as active agents in the creative process."
+  },
+  {
+    "objectID": "people/collaborators/rogerio_constante.html#research",
+    "href": "people/collaborators/rogerio_constante.html#research",
+    "title": "Rogério Constante",
+    "section": "Research",
+    "text": "Research\nCompositional Processes and Creative Technologies\nThis research line investigates musical creative processes from the perspective of Artistic Research, understanding compositional practice both as an object of inquiry and as a methodology for knowledge production. It encompasses studies in contemporary music composition, compositional processes, interactions between composers, performers, and digital technologies, as well as the development and application of computational tools for music creation, analysis, and education.\nResearch topics include computer-assisted composition, computational intelligence applied to music, modeling and transformation of musical materials, interactive systems, electroacoustic music, computer music, and the development of software for musical creation and performance. The research line also embraces investigations into composition pedagogy, counterpoint, and collaborative creative processes, considering their intersections with technological innovation and contemporary artistic practices."
   },
   {
     "objectID": "people/coordinators/carlos_mathias.html",
@@ -534,14 +562,14 @@
     "href": "journal/v10/01-Morlando.html",
     "title": "Vol. 10 - 2026",
     "section": "",
-    "text": "Fabrizio Morlando\n\nAbstract: This study constructs a discrete voice-leading orbifold for 12-TET, providing quantitative tools parallel to continuous manifold model developed by Tymoczko. The Ptolemaic inequality proves pitch-class and voice-leading spaces globally non-Ptolemaic, confirming intrinsic musical curvature incompatible with Euclidean embedding. Tonal-to-atonal shift emerges as geometric exploration from local Euclidean regions (diatonicism) to global non-Euclidean harmony (chromaticism).\n\n\nKeywords:  Voice-leading. Cayley graph. Ptolemaic inequality. Schoenberg embeddability.\n\nDownload paper"
+    "text": "Fabrizio Morlando\n\nAbstract: This study constructs a discrete voice-leading orbifold for 12-TET, providing quantitative tools parallel to continuous manifold model developed by Tymoczko. The Ptolemaic inequality proves pitch-class and voice-leading spaces globally non-Ptolemaic, confirming intrinsic musical curvature incompatible with Euclidean embedding. Tonal-to-atonal shift emerges as geometric exploration from local Euclidean regions (diatonicism) to global non-Euclidean harmony (chromaticism).\n\n\nKeywords:  Voice-leading. Cayley graph. Ptolemaic inequality. Schoenberg embeddability.\n\nDownload paper\n\n\n\n\n\n\nWarningWarning\n\n\n\nAfter publication, the Editorial Board was informed of potential errors in this article that may affect the validity of its results. The matter is currently under formal editorial review, with the participation of the authors and reviewers.\nUntil this process is concluded, readers are advised to exercise caution when interpreting or citing the findings reported in this work. Any editorial action deemed necessary will be published on this page upon completion of the review."
   },
   {
     "objectID": "journal/v10/01-Morlando.html#non-ptolemaic-nature-of-musical-space",
     "href": "journal/v10/01-Morlando.html#non-ptolemaic-nature-of-musical-space",
     "title": "Vol. 10 - 2026",
     "section": "",
-    "text": "Fabrizio Morlando\n\nAbstract: This study constructs a discrete voice-leading orbifold for 12-TET, providing quantitative tools parallel to continuous manifold model developed by Tymoczko. The Ptolemaic inequality proves pitch-class and voice-leading spaces globally non-Ptolemaic, confirming intrinsic musical curvature incompatible with Euclidean embedding. Tonal-to-atonal shift emerges as geometric exploration from local Euclidean regions (diatonicism) to global non-Euclidean harmony (chromaticism).\n\n\nKeywords:  Voice-leading. Cayley graph. Ptolemaic inequality. Schoenberg embeddability.\n\nDownload paper"
+    "text": "Fabrizio Morlando\n\nAbstract: This study constructs a discrete voice-leading orbifold for 12-TET, providing quantitative tools parallel to continuous manifold model developed by Tymoczko. The Ptolemaic inequality proves pitch-class and voice-leading spaces globally non-Ptolemaic, confirming intrinsic musical curvature incompatible with Euclidean embedding. Tonal-to-atonal shift emerges as geometric exploration from local Euclidean regions (diatonicism) to global non-Euclidean harmony (chromaticism).\n\n\nKeywords:  Voice-leading. Cayley graph. Ptolemaic inequality. Schoenberg embeddability.\n\nDownload paper\n\n\n\n\n\n\nWarningWarning\n\n\n\nAfter publication, the Editorial Board was informed of potential errors in this article that may affect the validity of its results. The matter is currently under formal editorial review, with the participation of the authors and reviewers.\nUntil this process is concluded, readers are advised to exercise caution when interpreting or citing the findings reported in this work. Any editorial action deemed necessary will be published on this page upon completion of the review."
   },
   {
     "objectID": "journal/v2-n2.html",
