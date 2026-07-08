@@ -9,3 +9,11 @@ subtitle: "MusMat • Brazilian Journal of Music and Mathematics"
 
 <p style="text-align: left;"><strong>Keywords</strong>: <em> Voice-leading. Cayley graph. Ptolemaic inequality. Schoenberg embeddability.</em></p>
 [Download paper](01-Morlando.pdf)
+
+::: {.callout-warning}
+## Warning
+
+After publication, the Editorial Board was informed of potential errors in this article that may affect the validity of its results. The matter is currently under formal editorial review, with the participation of the authors and reviewers.
+
+Until this process is concluded, readers are advised to exercise caution when interpreting or citing the findings reported in this work. Any editorial action deemed necessary will be published on this page upon completion of the review.
+:::

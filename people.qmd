@@ -10,6 +10,14 @@ listing:
     fields: [image, title]#, subtitle]
     grid-item-align: center
     sort: title
+  - id: collaborators
+    contents: "people/collaborators/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title]#, subtitle]
+    grid-item-align: center
+    sort: title
   #- id: alumni
     #contents: "people/alumni/*.qmd"
     #type: table
@@ -28,6 +36,12 @@ listing:
 
 :::{#coordinators}
 :::
+
+## Collaborators
+
+:::{#collaborators}
+:::
+
 
 <!---
 ## Research Assistants

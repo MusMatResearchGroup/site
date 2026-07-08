@@ -1,0 +1,35 @@
+---
+title: "Rogério Constante"
+subtitle: "Collaborator"
+image: rogerio_constante.png
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: file-earmark-text
+      text: vitae
+      href: http://lattes.cnpq.br/8882590135112539
+    - icon: music-note
+      text: NuMC
+      href: https://wp.ufpel.edu.br/numc/
+    - icon: camera-reels
+      text: videos
+      href: https://eduplay.rnp.br/app/meus-canais/canal/435997/visao-geral
+    - icon: github
+      text: github
+      href: https://github.com/rogerioConstante
+---
+
+:::{#person-profile}
+:::
+
+## Biography
+Rogério Tavares Constante is a composer, guitarist, researcher, and university professor. He earned his Bachelor's degree in Music (1997), Master's degree (2000), and Ph.D. in Music (2006) from the Federal University of Rio Grande do Sul (UFRGS), and completed a postdoctoral fellowship at the Koellreutter Foundation, affiliated with the Federal University of São João del-Rei (UFSJ). He is currently Associate Professor in the Department of Composition at the School of Music of the Federal University of Rio de Janeiro (UFRJ) and a collaborating faculty member in the Graduate Program in Music at UFSJ. From 2005 to 2023, he taught at the Federal University of Pelotas (UFPel), where he was also a member of the *Núcleo de Música Contemporânea* (NuMC). His artistic and scholarly work focuses on contemporary music composition, computer music, counterpoint, music analysis, performance, and composition pedagogy. His research explores the integration of compositional processes and computational technologies, with particular emphasis on developing software for computer-assisted composition and for teaching music theory, harmony, and counterpoint. He is the author of several software applications and MuseScore plugins designed to support musical creation, research, and music education. As a composer, his catalog encompasses works for a wide range of instrumental, electroacoustic, and mixed ensembles, many of which emerge from research on compositional processes, composer–performer collaboration, and technological mediation. His works have been presented at festivals, conferences, and concerts in Brazil and abroad, and are featured in scholarly publications and commercial recordings. He currently coordinates the research project *Processos compositivos no desenvolvimento e utilização de um software interpolador de materiais musicais* and the outreach project *Polifonia: o contraponto na música latino-americana*, dedicated, respectively, to research in computer-assisted composition and to the dissemination of Latin American polyphonic repertoire. He is also a collaborating researcher with the MusMat Research Group and a member of the Contemporary Music Workshop Research Group (GPOMC/LaMuT/UFRJ), contributing to the project *Musical Frontiers: An International Collaboration for Research in Artificial Intelligence Applied to Music*, which focuses on the development of benchmarks for audio understanding and audio generation models.His work brings together musical creation, artistic research, and technological innovation, with a particular emphasis on the use of computational tools as active agents in the creative process.
+
+## Research
+**Compositional Processes and Creative Technologies**
+
+This research line investigates musical creative processes from the perspective of Artistic Research, understanding compositional practice both as an object of inquiry and as a methodology for knowledge production. It encompasses studies in contemporary music composition, compositional processes, interactions between composers, performers, and digital technologies, as well as the development and application of computational tools for music creation, analysis, and education.
+
+Research topics include computer-assisted composition, computational intelligence applied to music, modeling and transformation of musical materials, interactive systems, electroacoustic music, computer music, and the development of software for musical creation and performance. The research line also embraces investigations into composition pedagogy, counterpoint, and collaborative creative processes, considering their intersections with technological innovation and contemporary artistic practices.
